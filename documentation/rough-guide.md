@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rough Guide
+markdownpage: true
 ---
 
 #Labtrac Team User Guide.
