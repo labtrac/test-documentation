@@ -1,7 +1,8 @@
 ---
-Layout:default
-Title: Rough Guide
+layout: default
+title: Rough Guide
 ---
+
 #Labtrac Team User Guide.
 
 
