@@ -142,7 +142,7 @@ markdownpage: true
 
 
 
-##<a name=0></a>Welcome to Labtrac
+<a name="0"></a>Welcome to Labtrac
 
 
 
