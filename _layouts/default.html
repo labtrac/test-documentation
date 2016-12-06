@@ -8,11 +8,11 @@
     <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/styles.css">
     <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/spacing.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/font-awesome.min.css">
 
     <title>{{page.title}}</title>
     <style>
-    .offset:before {content: " ";display: block;height: 55px;visibility: hidden;}
+    .offset:before {content: " ";position:relative;display: block;top: -100px;visibility: hidden;}
     h1 {margin-top:0 !important;}
     ul.list-unstyled li a.collapsed i {transform: rotate(90deg);}
     ul.list-unstyled li a i {transition:0.5s; will-change: transform; margin-right:5px;}
@@ -81,23 +81,28 @@
     $(form).append(input).appendTo(header);
 
     $(input)
-      .keyup( function () {
+      .change( function () {
         var filter = $(this).val();
+        $(list).children().detach(".noresult")
         if(filter || filter.length > 0) {
           // this finds all links in a list that contain the input,
           // and hide the ones not containing the input while showing the ones that do
-          $(list).find("li:not(:Contains(" + filter + "))").hide();
-          $(list).find("li:Contains(" + filter + ")").show();
-          $(list).find("li:Contains(" + filter + ")").parent('.collapse').collapse('show').siblings("[data-toggle]").removeClass("collapsed");
+          $(list).find("li:not(:Contains(" + filter + "))").hide()
+          var count = $(list).find("li:Contains(" + filter + ")").show().length;
+            if (count > 0){
+            $(list).find("li:Contains(" + filter + ")").parent('.collapse').collapse('show').siblings("[data-toggle]").removeClass("collapsed");}
+            else { 
+              $(list).append("<p class='noresult'>No Results</p>")
+            }     
         } else {
           $(list).find("li").show();
           $(list).find(".collapse").collapse('hide').siblings("[data-toggle]").addClass("collapsed");
         };
         return false;
       })
-    .change( function () {
+    .keyup( function () {
         // fire the above change event after every letter
-        $(this).keyup();
+        $(this).change();
 
     });
   }
