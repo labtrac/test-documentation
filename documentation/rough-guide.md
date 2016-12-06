@@ -36,8 +36,6 @@ markdownpage: true
 
 + **[Getting Started](#1.0)**
 
-
-
 	- [Access to Labtrac](#1.1)
 
 	- [Data Build](#1.2)
