@@ -6,18 +6,18 @@
 <div id="header"></div>
 <ul class="list-unstyled" id="contents">
 	<li>
-		<a data-toggle="collapse" class="collapsed" href="#welcome"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a data-toggle="collapse" class="{% if page.title != "Welcome" %}collapsed{%endif%}" href="#welcome"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
 		<a href="welcome">Welcome</a>
-		<ul id="welcome" class="collapse">
+		<ul id="welcome" class="collapse {% if page.title == "Welcome" %}in{% endif %}">
 			<li>
 				<a href="welcome#0.1">Installing Labtrac</a>
 			</li>
 		</ul>
 	</li>
 	<li>
-		<a data-toggle="collapse" class="collapsed" href="#getsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a data-toggle="collapse" class="{% if page.title != "Getting Started" %}collapsed{%endif%}" href="#getsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
 		<a href="getting-started">Getting Started</a>
-			<ul id="getsta" class="collapse">
+			<ul id="getsta" class="collapse{% if page.title == "Getting Started" %}in{%endif%}">
 				<li><a href="getting-started#1.2">Data Build</a></li>
 				<li><a href="getting-started#1.4">Adding Dentists</a></li>
 				<li><a href="getting-started#1.5">Adding Products</a></li>
@@ -26,12 +26,12 @@
 			</ul>
 	</li>
 	<li>
-		<a data-toggle="collapse" class="collapsed" href="#sysset"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a data-toggle="collapse" class="{% if page.title != "System Settings" %}collapsed{%endif%}" href="#sysset"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
 		<a href="system-settings">System Settings</a>
-		<ul class="collapse" id="sysset">
+		<ul class="collapse {% if page.title == "System Settings" %}in{%endif%}" id="sysset">
 			<li><a href="system-settings#2.1">Lab Details</a></li>
 			<li><a href="system-settings#2.2">System Options</a></li>
-			<li><a href="system-settings#2.3">Surgeon Defaults</a></li>
+			<li><a href="system-settings#2.3">Dentist Defaults</a></li>
 			<li><a href="system-settings#2.4">Financial</a></li>
 			<li><a href="system-settings#2.5">Order Enclosures</a></li>
 			<li><a href="system-settings#2.6">Footnotes</a></li>
@@ -39,9 +39,9 @@
 		</ul>
 	</li>
 	<li>
-		<a data-toggle="collapse" class="collapsed" href="#invsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a data-toggle="collapse" class="{% if page.title != "Invoicing and Statements" %}collapsed{%endif%}" href="#invsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
 		<a href="invoicing-statements">Invoicing and Statements</a>
-		<ul id="invsta" class="collapse">
+		<ul id="invsta" class="collapse {% if page.title == "Invoicing and Statements" %}in{%endif%}">
 			<li><a href="invoicing-statements#3.1">Invoice List</a></li>
 			<li><a href="invoicing-statements#3.2">Invoice Manager</a></li>
 			<li><a href="invoicing-statements#3.3">Statement Manager</a></li>
@@ -51,9 +51,9 @@
 		</ul>
 	</li>
 	<li>
-		<a data-toggle="collapse" class="collapsed" href="#payent"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a data-toggle="collapse" class="{% if page.title != "Payment Entry" %}collapsed{%endif%}" href="#payent"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
 		<a href="payment-entry">Payment Entry</a>
-		<ul id="payent" class="collapse">
+		<ul id="payent" class="collapse {% if page.title == "Payment Entry" %}in{%endif%}">
 			<li><a href="payment-entry#4.1">Posting a Payment</a></li>
 			<li><a href="payment-entry#4.2">Reversing a Payment</a></li>
 		</ul>

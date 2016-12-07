@@ -20,7 +20,7 @@ You can then search for any job and change any infomation you want.
 
 
 
-You wont find the job in the list if it is older than 3 months old or has had a payment posted against it. If the latter is the case please [Reverse Payments](/documentation/payment-entry/#4.2) against the invoice.
+You wont find the job in the list if it is older than 3 months old or has had a payment posted against it. If the latter is the case please [Reverse Payments](payment-entry#4.2) against the invoice.
 
 
 
@@ -32,13 +32,13 @@ You wont find the job in the list if it is older than 3 months old or has had a 
 
 
 
-+ In here you can change;
++ In here you can change:
 
 
 
 	- Order Status
 
-		- To change the order status select from the dropdown menu the status you would like to set the job to and click *update* in the bottom right. (Note. Changing the status of a job will delete the previous invoice and create a new one)
+		- To change the order status select from the dropdown menu the status you would like to set the job to and click *Update* in the bottom right. (Note: Changing the status of a job will delete the previous invoice and create a new one)
 
 	- Dentist
 
