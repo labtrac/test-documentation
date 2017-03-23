@@ -11,33 +11,51 @@ These options are available by double-clicking *Payment Entry* in the content ba
 
 ## Posting a Payment
 
-+ Once in Payment Entry, find the dentist who you wish to post a payment against and double click on them. This will open a new window which will show all outstanding invoices for this Dentist. 
+To enter a Payment or Credit Note go to **Payment Entry** in the contents bar.
 
-+ Select what type of payment this is (BACS, Cheque, Credit Note or a Discount) from the list on the left hand side.
+Select the account, from the list, that you would like to post the payment against. You can search by clicking **Search** at the top of the contents bar.
 
-+ Enter the *Amount*.
+![Payment Entry](/test-documentation/images/pe_1.PNG "Payment Entry"){: .center-block}
 
-+ Optionally put in a *Reference* and/or *Details*, these fields are not required but can help keep track of payment infomation.
+This will open a new window.
 
-+ Set the date the payment has been made.
+Enter the **Amount**, **Payment Date** and choose whether to **Include Discount** (select this if you are giving any discount on the outstanding invoices).
 
-+ Finally, select the relevant invoice the payment is against and click the check box on the left hand side.
+Select if the **Payment Type** is **Cheque**, **BACS** or **Credit Note**
 
-+ Click *Post* in the top right to post the payment.
+Enter a **Reference** and **Details** 
 
-![Delivery Method Video](C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Payment Entry.PNG)
+Then go through and tick every invoice in the list which the payment covers. If the payment does not clear an invoice you can either leave the invoice with a balance or discount the remaining amount. This is done by selecting **Include Discount** after entering the **Amount** and **Payment Date**.
 
+![Payment Entry](/test-documentation/pe_2.PNG "Payment Entry"){: .center-block}
+
+
+(Link)Here is a video of these steps.
 
 <a class="offset" name="4.2"></a>
 
-## Reversing a Payment
+# Reversing a Payment
 
-If you find you have entered a payment incorrectly follow these steps to reverse the payment:
+To reverse a payment:
 
-+ Double click on *Reverse a Payment* in the content bar. This will bring up a list of all the payments entered.Find the relevant payment information and double-click on the far left hand side of the row. This will bring up another payment screen.
+* Open **Reverse Payment** in Labtrac.
 
-+ This screen is a list of all invoices included in the payment. Select (by using the check box) the payment which you want to reverse.
+![Reversing a Payment](/test-documentation/images/pe_3.PNG "Reversing a Payment"){: .center-block}
 
-**NOTE: You have to select every invoice that was in the original payment entry. You cannot partially reverse a payment.**
+* Find the payment you wish to reverse by searching one of the fields or looking through the list of transactions.
 
-+ Once the relevant invoice numbers are selected, click *Update* in the top right. A message will then shown confirming the details have been updated.
+* Double click to open the payment
+
+![Reversing a Payment](/test-documentation/pe_4.PNG "Reversing a Payment"){: .center-block}
+
+* This will give you a list of all paid invoices.
+
+* Find the invoice(s) that you wish to reverse and select them using the tick box.
+
+***Please note that you must select all invoices that were paid in that entry. You cannot partially reverse a payment.***
+
+* Once all invoices are selected you can then click 'Update'.
+
+![Reversing a Payment](/test-documentation/images/pe_5.PNG "Reversing a Payment"){: .center-block}
+
+Your invoice will now appear again in **Payment Entry**

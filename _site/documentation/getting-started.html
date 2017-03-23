@@ -1,0 +1,634 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+   
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/styles.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/spacing.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/font-awesome.min.css">
+
+    <title>Getting Started</title>
+    <style>
+    .offset:before {
+      content:"";
+      display:block;
+      height:90px; /* fixed header height*/
+      margin:-90px 0 0; /* negative fixed header height */
+      }
+    h1 {margin-top:0 !important;}
+    ul.list-unstyled li a.collapsed i {transform: rotate(90deg);}
+    ul.list-unstyled li a i {transition:0.5s; will-change: transform; margin-right:5px;}
+    ul ul[id] {list-style-type:disc;padding-left:15px;}
+    #header input {width:100%;border:1px inset #777;border-radius:5px; padding:5px;margin-bottom:10px;} 
+    a[data-toggle] {position: absolute; left:15px;}
+    .list-unstyled {padding-left:20px;}
+    </style>
+  </head>
+  <body>
+     <header class="navbar navbar-inverse navbar-fixed-top hidden-print" role="navigation">
+      <div class="" style="margin-left:4%;margin-right:4%;">
+        <div class="navbar-header">
+            <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+            
+            
+            <a class="navbar-brand" href="https://www.labtrac.com">
+                <span>Labtrac</span></a>
+            <ul class="list-inline pull-right visible-xs">
+               <li>
+                    <a class="navbar-toggle2" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <i class="fa fa-fw fa-bars" style=""></i> Menu
+                    </a>
+                </li>
+            </ul>
+        </div>
+         <div class="collapse navbar-collapse navbar-responsive-collapse">
+            <ul class="nav navbar-nav pull-right">
+              <!--         
+        
+        <li>
+        	<a  href="/documentation/financial-manager.html">Financial Manager</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a class="active" href="/documentation/getting-started.html">Getting Started</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/">Welcome</a>
+        </li>
+        
+        
+        
+        
+        
+        <li>
+        	<a  href="/documentation/invoicing-statements.html">Invoicing and Statements</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/payment-entry.html">Payment Entry</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/reports.html">Reports</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/rough-guide.html">Rough Guide</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/system-settings.html">System Settings</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/videos.html">Videos</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/welcome.html">Welcome</a>
+        </li>
+        
+        
+   -->
+ 
+<li><a href="/">About</a></li>
+<li><a href="/en/Home/Features#features">Features</a></li>
+<li><a href="/en/Pricing">Pricing</a></li>
+
+<li><a href="/en/Support">Support</a></li>
+<li class="hidden-xs">
+    <a class="text-white">
+        <small style="line-height:20px;">
+            +44 3333 449970
+        </small>
+    </a>
+</li>
+<li class="hidden-xs"><a title="twitter" class="text-white" style=" margin-right 1px;" onclick="_gaq.push(['_trackEvent','Header','Click','Twitter']);" href="https://twitter.com/intent/user?screen_name=labtrac" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            </ul>
+        </div>
+      </div>
+      </header> 
+    <nav class="breadcrumb" role="menubar" aria-label="breadcrumbs">
+
+ <a href="http://localhost:4000">Home</a>
+
+ 
+
+   
+
+    
+
+        <span> // <span><a href="http://localhost:4000/documentation/">Documentation </a>
+    
+
+  
+
+    
+
+        <span> // <span><a class="current">Getting Started</a>
+
+    
+
+  
+
+</nav>
+      <div class="container">
+     <div class="row">
+  <div class="col-sm-2">
+    
+<div id="header"></div>
+<ul class="list-unstyled" id="contents">
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#welcome"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="welcome">Welcome</a>
+		<ul id="welcome" class="collapse ">
+			<li>
+				<a href="welcome#0.1">Installing Labtrac</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="" href="#getsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="getting-started">Getting Started</a>
+			<ul id="getsta" class="collapsein">
+				<li><a href="getting-started#1.2">Data Build</a></li>
+				<li><a href="getting-started#1.4">Adding Dentists</a></li>
+				<li><a href="getting-started#1.5">Adding Products</a></li>
+				<li><a href="getting-started#1.6">Adding Materials</a></li>
+				<li><a href="getting-started#1.7">Adding a Job</a></li>
+			</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#sysset"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="system-settings">System Settings</a>
+		<ul class="collapse " id="sysset">
+			<li><a href="system-settings#2.1">Lab Details</a></li>
+			<li><a href="system-settings#2.2">System Options</a></li>
+			<li><a href="system-settings#2.3">Dentist Defaults</a></li>
+			<li><a href="system-settings#2.4">Financial</a></li>
+			<li><a href="system-settings#2.5">Order Enclosures</a></li>
+			<li><a href="system-settings#2.6">Footnotes</a></li>
+			<li><a href="system-settings#2.7">User Manager</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#invsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="invoicing-statements">Invoicing and Statements</a>
+		<ul id="invsta" class="collapse ">
+			<li><a href="invoicing-statements#3.1">Invoice List</a></li>
+			<li><a href="invoicing-statements#3.2">Invoice Manager</a></li>
+			<li><a href="invoicing-statements#3.3">Statement Manager</a></li>
+			<li><a href="invoicing-statements#3.4">Account Activity</a></li>
+			<li><a href="invoicing-statements#3.5">End of Month Guide</a></li>
+			<li><a href="invoicing-statements#3.6">CRM Studio and Backup</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#payent"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="payment-entry">Payment Entry</a>
+		<ul id="payent" class="collapse ">
+			<li><a href="payment-entry#4.1">Posting a Payment</a></li>
+			<li><a href="payment-entry#4.2">Reversing a Payment</a></li>
+		</ul>
+	</li>
+	<li><a href="reports">Reports</a></li>
+	<li><a href="financial-manager">Financial Manager</a></li>
+	<li><a href="videos">All Videos</a></li>
+</ul>
+  </div>
+  <div class="col-sm-10">
+    <h1 id="getting-started">Getting Started</h1>
+
+<h2 id="access-to-labtrac">Access to Labtrac</h2>
+<p>Clicking the Labtrac icon on the desktop will bring up the sign on screen. Enter your username and password.
+By default both these fields are set to ‘sys’.</p>
+
+<p><img src="C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Sign In.PNG" alt="Adding a Dentist" /></p>
+
+<p><a class="offset" name="1.2"></a></p>
+
+<h1 id="data-build">Data Build</h1>
+
+<h3 id="things-to-consider-before-getting-started">Things to Consider Before Getting Started</h3>
+
+<p>Now you have Labtrac set up, you will need to enter all required data (Dentists, Products, Materials etc)</p>
+
+<h3 id="price-lists">Price Lists</h3>
+
+<p>It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering either the Dentist you will need to know which price list the dentist is on and when entering products and materials you will need to know the price for every price list you use.</p>
+
+<h3 id="dentist-codes">Dentist Codes</h3>
+
+<p>Every dentist in Labtrac needs a unique code. If you already haev a coding system in place then you can carry on with that. If not we recommend using the first 4 letters of the surname followed by 01 (in case of duplicates then 02, 03, 04 etc).</p>
+
+<p>Labtrac allows a dentist code of up to 8 characters.</p>
+
+<p>EG.</p>
+
+<ul>
+  <li>WRIG01 - Owen Wright</li>
+  <li>WRIG02 - Michael Wright</li>
+</ul>
+
+<h3 id="product-codes">Product Codes</h3>
+
+<p>When setting up product codes in Labtrac there are a few things to bear in mind;</p>
+
+<ul>
+  <li>
+    <p>There must be a product code for every standard of work that you do. Meaning if you do NHS, Independent and Private work then you will need 3 codes for each product. In the example below the code (PBC - for Porcelain Bonded Crown) is suffixed with either a N, I or P depending on the standard.</p>
+
+    <ul>
+      <li><strong>PBC-N</strong> for (NHS) Porcelain Bonded Crown</li>
+      <li><strong>PBC-I</strong> for (Independent) Porcelain Bonded Crown</li>
+      <li><strong>PBC-P</strong> for (Private) Porcelain Bonded Crown</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="delivery-methods">Delivery Methods</h3>
+
+<ul>
+  <li>
+    <p>To set up how the dentists recieve the work open Delivery Details from the content bar on the left side of the screen.</p>
+  </li>
+  <li>
+    <p>This opens a list of all your Delivery Methods to add a new one click ‘Add’ in the bottom left.</p>
+  </li>
+  <li>
+    <p>Select the Run number, which will identify this particular method of delivery.</p>
+  </li>
+  <li>
+    <p>Select the Days. This is the amount of time you want to allow for the job to arrive in surgery after leaving the Lab.</p>
+  </li>
+  <li>
+    <p>Enter the details in the Delivery Method section(eg Postal, Courier, Hand Delivered etc)</p>
+  </li>
+  <li>
+    <p>The Rep and Sales Area boxes are optional additional infomation, it is not needed to set up a Run.</p>
+  </li>
+</ul>
+
+<p><img src="C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Delivery Method.PNG" alt="Delivery Method Video" /></p>
+
+<p><a class="offset" name="1.4"></a></p>
+
+<h1 id="adding-a-dentist">Adding a Dentist</h1>
+
+<p>To add a new Dentist first, click <strong>‘Dentist’</strong> in the contents bar then <strong>‘Add F2’</strong> at the top of the Labtrac screen.</p>
+
+<p>This will open a new window where you can enter a Code and full dentist name. To see our recommended coding system please click ‘here’.</p>
+
+<p><img src="/images/gs_1.png" alt="Adding a Dentist" title="Adding a Dentist" class="center-block" /></p>
+
+<p>Once you have entered a code and name click <strong>‘Add’</strong></p>
+
+<p>This will open the dentist details page.</p>
+
+<p>Select whether the dentist is the principal or an associate. If the dentist is selected as the principal this means they receive all their own invoices and handle their own account. If they are selected as an associate you can select whether to invoice the principal or associate.</p>
+
+<p>Next you can enter an address. The first address being the practice address and the 2nd the invoicing address. If these are the same, you can use the copy address button once you have entered the practice address.</p>
+
+<p>(If the dentist is selected as an associate you can use the <strong>‘copy address’</strong> button next to the principal’s name to copy their address into all address fields).</p>
+
+<p>Once the address is entered you can then choose from the invoicing options.</p>
+
+<p>The first check box is ‘invoiced’ if the dentist is selected as the principal this will be greyed out as a principal must be the one to receive their invoice. If the dentist is selected as an associate, then the invoiced box is optional.</p>
+
+<p>If invoiced is selected - The associate receives and handles their own invoice. This means they pay their own account.
+If invoiced is NOT selected - The principal handles the associates invoices. The principal handles and pays the associate’s invoices.</p>
+
+<p>The next thing to look at is ‘Price List’ <em>here</em> and ‘Volume Discount’ <em>here</em> make sure the dentist is selected on the correct list or discount.</p>
+
+<p><img src="/images/gs_2.png" alt="Adding a Dentist" title="Adding a Dentist" class="center-block" /></p>
+
+<hr />
+
+<h3 id="analysis--prefs">Analysis + Prefs</h3>
+
+<p>Here you can enter any preferences a dentist may have. This will show on the job details page as well as on the job ticket.</p>
+
+<p>If you have set up any analysis fields they will also appear in this tab.</p>
+
+<p>Analysis codes can be used for anything you like and are set up by yourself <em>here</em>.</p>
+
+<p>If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice Number and Dentist GDC number. This is where our corporate invoicing module will pull all the relevant information from.</p>
+
+<hr />
+
+<h3 id="financial">Financial</h3>
+
+<p>Tax Code - here you can enter the amount of tax you wish to charge this dentist (tax must be set on the product/material also)</p>
+
+<p>Volume Discount - you can set the % discount for the dentist (until discount is re calculated. here)</p>
+
+<p>Settlement Details - Enter the % discount you would like to apply. The days in which they must pay to receive the discount. The terms in writing to appear on the document.</p>
+
+<hr />
+
+<h3 id="email">Email</h3>
+
+<p>Enter the dentist’s email address. If there is more than one email address enter a semi-colon, then a space before typing the next email. (eg. example@email.com; example2@email.com)
+You can then enter a greeting in the greeting box.</p>
+
+<p><img src="/images/gs_3.png" alt="Adding a Dentist" title="Adding a Dentist" class="center-block" /></p>
+
+<p>Finally select the documents that you wish to send by email. 
+(Please note: If a document is selected to be emailed it will no longer appear in the printable lists).</p>
+
+<p>The Dentist is ready to be entered by clicking OK.</p>
+
+<hr />
+<hr />
+<p><a class="offset" name="1.5"></a></p>
+
+<h1 id="adding-a-product">Adding a Product</h1>
+
+<p>To add a new Product first click ‘Products’ in the contents bar then ‘Add F2’ at the top of the Labtrac screen.</p>
+
+<p>This will open a new window where you must enter a Code and full product description. To see our reccomended coding system please click ‘here’</p>
+
+<p>Once you have entered the code and description click ‘Add’ this will open the product details page.</p>
+
+<p>The first thing to enter in the new window is the ‘Category’.</p>
+
+<p>If you have never set up any categories before you will have to click  the box next to the drop down menu with 3 dots.</p>
+
+<p>The categories are optional but are a good way of seperating the lab into different areas - this will allow you to run reports on different aspects of the lab.</p>
+
+<p>The categories can be whatever you like.</p>
+
+<p>EG:</p>
+
+<p>Crown &amp; Bridge
+Orthodontics
+Implants
+Mouthguards
+Dentures
+Miscellaneous
+etc.</p>
+
+<p>Once you have entered and selected a category we can then move onto standrard.</p>
+
+<p>This will be relevant if you are doing multiple ‘standards’ of work. (eg. NHS, Independent or Private) or (Standard,Superior, Exceptional etc.)</p>
+
+<p>You will need to set these up in the same way as the categories above.</p>
+
+<p>Once you have selected the standard you can then select whether or not a tooth shade, stump shade or tooth mould are required by selecting the check box. 
+<em>If you select them to be required Labtrac wont allow you to enter a job without this infomation. If you leave these boxes unchecked you still have the option to enter this infomation on a job, however, it is not mandatory.</em></p>
+
+<p>Next you can select if you would like to always record a material on the product by checking the box and selecting the material from the dropdown menu. (eg. you may select to always record a gold alloy on a full gold crown as it is a material you would always use) click <em>here</em> for more infomation.</p>
+
+<p>Next enter the price, for every <em>price list</em> you are going to use.</p>
+
+<p>If you wish to charge tax on a material enter the amount (in %) that you wish to charge. This will only be charge to a dentist set up to receive tax.</p>
+
+<p><img src="C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Adding a Product.mp4" alt="Delivery Method Video" /></p>
+
+<p><a class="offset" name="1.6"></a></p>
+
+<h1 id="adding-materials">Adding Materials</h1>
+
+<p>First go to Materials in the Contents bar.</p>
+
+<p>To add a new Material click ‘Materials’ in the contents bar then, <strong>‘Add F2’</strong> at the top of the Labtrac screen.</p>
+
+<p>This will open a new window where you can enter a Code and full material description. To see our recommended coding system please click ‘here’</p>
+
+<p>#(Pic 1)</p>
+
+<p>Once you have entered the code and description click <strong>‘Add’</strong> this will open the Material details page.</p>
+
+<p>Next enter the price for the product (in every <em>price list</em> that you use).</p>
+
+<p>If you charge tax on the material, you can add that (in %) in the <strong>‘Tax Rate’</strong> Box.</p>
+
+<p>You can also add a Standard (which is set up in the product section) if applicable.</p>
+
+<p>You also have the option of adding a nominal code (for use with external accounting systems) a ** ‘Lead Time’** and <strong>‘U.O.M’</strong> (unit of measure). These are all for your reference only.</p>
+
+<p>#(PIC 2)</p>
+<h1 id="video">(VIDEO)</h1>
+
+<p><a class="offset" name="1.7"></a></p>
+
+<h1 id="entering-a-job">Entering a Job</h1>
+
+<p>To add a new job click on <strong>‘Live Jobs’</strong> in the contents bar then <strong>Add F2’</strong> to open the Job entry screen.</p>
+
+<p>First add the patient name followed by the dentist the job is for.</p>
+
+<p>Next enter the <strong>‘Pan Number’</strong> and <strong>‘Service Level’</strong> and the date <strong>‘Required at Practice’</strong>.</p>
+
+<p>Then add any additional patient infomation you require.</p>
+
+<p>To enter a product click <strong>‘Product F7’</strong>. This will open a list of all products set up on your system. You can search through the list by typing in the search box.</p>
+
+<p>To add a material click <strong>‘Material F8’</strong>. This will again open a list of all materials set up on your system. You can search through the list by typing in the search box.</p>
+
+<p>In <strong>‘Notepad’</strong> you can enter any infomation on the case you may want. This will only be availible to be viewed within the lab.</p>
+
+<p>In <strong>‘Prescription’</strong> you can add a notation.</p>
+
+<ul>
+  <li>Click the box next to notation and select the teeth.</li>
+</ul>
+
+<p>You can select the job as a <strong>‘Remake’</strong></p>
+
+<ul>
+  <li>Click the remake check box.</li>
+  <li>Select a reason for a remake from the dropdown menu. To add a new reason click the dotted box.</li>
+  <li>In the green dropdown menu you can select the original job that is being remade as a reference.</li>
+</ul>
+
+<p>You can attach images in a job in <strong>‘Images’</strong></p>
+
+<p>It will ask if you wish to create an image folder. Click yes.</p>
+
+<p>Then add images to this folder by clicking <strong>‘Add’</strong> and navigating to the image you would like to store on the job.</p>
+
+<p>In <strong>‘Dentist Notes’</strong> you can write any infomation you would like to send back to the dentist. This will appear the delivery note or single invoice.</p>
+
+<p>Now the job is ready to launch do this by clicking <strong>‘Launch F11’</strong>.</p>
+
+<h2 id="completing-the-job">Completing the Job</h2>
+
+<ul>
+  <li>
+    <p>Open up a job that is ready to be completed.</p>
+  </li>
+  <li>
+    <p>Click on the <strong>‘Task’</strong> button or F10.</p>
+  </li>
+  <li>
+    <p>This is where you can change the status of a job in Labtrac to a few different things. Such as the work being <strong>‘Out on Approval’</strong> (see [Stage Work], <strong>‘Surgeon Return’</strong> (see [Stage Work], <strong>‘Hold Job</strong>, <strong>‘Sub Contract’</strong> (see Sub Contracting) a job and <strong>‘Complete Job’</strong>.</p>
+  </li>
+  <li>
+    <p>If any detail on the job need ammending before completion select <strong>‘Hold Job’</strong> and make any changes that are needed. Then Launch Job again.</p>
+  </li>
+  <li>
+    <p>Click <strong>‘Complete Job’</strong> this will set the job as completed and produce an invoice and all relevant documents.
+‘</p>
+  </li>
+</ul>
+
+<h3 id="stage-work">Stage Work</h3>
+
+<p>Now we are going to go through staging a job.</p>
+
+<ul>
+  <li>
+    <p>The first thing you need to do is to go into <em>Live Jobs</em> and click <em>Add</em> or press the F2 key to open a new job.</p>
+  </li>
+  <li>
+    <p>Go through all the normal steps for adding a job.</p>
+  </li>
+  <li>
+    <p>Launch the job.</p>
+  </li>
+  <li>
+    <p>When the job is ready to be sent out to the dentist for approval, you need to reopen the live job. Then you can click <em>Task</em> or press the F10 key. This will then show a dropdown menu. From this select <em>Send on Approval</em>. This now tells Labtrac that the job is out with the dentist and no longer in the lab.</p>
+  </li>
+  <li>
+    <p>When we receive the work back from the dentist and are ready to move onto the next stage, open the job back up and again go to <em>Task</em> or press the F10 key and select <em>Surgeon Return</em>. It will now prompt you to change the date the work is due back in surgery.</p>
+  </li>
+  <li>
+    <p>To <strong>add the new stage</strong>, click on the <em>stage</em> tab (left of product button) or press the F5 key which brings up the products. Select which ever may apply for the second stage.</p>
+  </li>
+  <li>
+    <p>Now you are ready to send the work back into the lab, click <em>Launch</em> or press the F11 key.</p>
+  </li>
+  <li>
+    <p>Again once the work in the lab is complete and ready to be sent back to the dentist, reopen the job and select <em>Send on Approval</em>.</p>
+  </li>
+  <li>
+    <p>When you receive the work back from the dentist, go back into the job and into <em>Task</em> press F10 and click <em>Surgeon return</em> then select <em>Stage</em> and choose from the product list.</p>
+  </li>
+  <li>
+    <p>You can now launch this job and when work is complete in the lab you can then go through and complete the job as normal.</p>
+  </li>
+</ul>
+
+<h3 id="sub-contracting">Sub Contracting</h3>
+
+<p>To Sub Contract a job, first you need to set up a list of <em>Sub-contracters</em>.</p>
+
+<ul>
+  <li>
+    <p>Double click <em>Sub-Contracters</em> in the contents bar. This will open up a new window where you can enter all of the people you sub-contract work to.</p>
+  </li>
+  <li>
+    <p>Click <em>Add</em> and fill in the relevant infomation, making sure to add a <em>Run</em> then select <em>Save</em>.</p>
+  </li>
+  <li>
+    <p>Now you have your sub-contracters set up you can go through and enter a job like normal, however, once you launch the job click on <em>Task</em> or press the F10 key, select <strong>Sub-Contract</strong> then <strong>Send Out</strong> (This changes the Job Status to <em>Sub Contract</em> ). Now select the date that the work is due back to you.</p>
+  </li>
+  <li>
+    <p>When you recieve the work back again go to <strong>Sub Contract</strong> and select <strong>Receive Back</strong>.</p>
+  </li>
+</ul>
+
+  </div>
+</div>
+
+     </div>
+      <footer>
+        <div class="container margin_bottom_30" style="min-height: 30px;">
+          <hr />
+          <nav class="pull-right">
+            <ul class="list-inline">
+                <li><a href="https://www.labtrac.com/en/Company">Contact Us</a></li>
+                <!--<li><a href="http://www.cirrux.com" target="_blank" title="Design by Cirrux">Design by Cirrux</a></li>-->
+            </ul>
+        </nav>
+        <p>© 2017 Labtrac Solutions Limited</p>
+    </div>
+      </footer>
+    <script src="https://www.labtrac.com/Scripts/jquery-2.1.3.min.js"></script>
+	<script src="https://www.labtrac.com/Scripts/bootstrap.min.js"></script>
+
+  <script>
+    (function ($) {
+  // custom css expression for a case-insensitive contains()
+  jQuery.expr[':'].Contains = function(a,i,m){
+      return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
+  };
+
+
+  function listFilter(header, list) { // header is any element, list is an unordered list
+    // create and add the filter form to the header
+    var form = $("<form>").attr({"class":"filterform","action":"#"}),
+        input = $("<input>").attr({"class":"filterinput","type":"search","placeholder":"Search..."});
+    $(form).append(input).appendTo(header);
+
+    $(input)
+      .change( function () {
+        var filter = $(this).val();
+        $(list).children().detach(".noresult")
+        if(filter || filter.length > 0) {
+          // this finds all links in a list that contain the input,
+          // and hide the ones not containing the input while showing the ones that do
+          $(list).find("li:not(:Contains(" + filter + "))").hide()
+          var count = $(list).find("li:Contains(" + filter + ")").show().length;
+            if (count > 0){
+            $(list).find("li:Contains(" + filter + ")").parent('.collapse').collapse('show').siblings("[data-toggle]").removeClass("collapsed");}
+            else { 
+              $(list).append("<p class='noresult'>No Results</p>")
+            }     
+        } else {
+          $(list).find("li").show();
+          $(list).find(".collapse").collapse('hide').siblings("[data-toggle]").addClass("collapsed");
+        };
+        return false;
+      })
+    .keyup( function () {
+        // fire the above change event after every letter
+        $(this).change();
+
+    });
+  }
+  //ondomready
+  $(function () {
+    listFilter($("#header"), $("#contents"));
+    //smooth scrolling with jquery
+     $('a[href*="#"]:not([href^="#"])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name="' + this.hash.slice(1) +'"]');
+      if (target.length) {
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+
+  });
+}(jQuery));
+
+  </script>
+  </body>
+</html>

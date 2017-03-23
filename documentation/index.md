@@ -25,23 +25,16 @@ These Numbers are available during 9:00 to 5:30 Monday to Thursday and 9:00 to 5
 If any issue is non-urgent then it is best to contact us using the **support@labtrac.com** email, explaining what the issue is and providing any details that you can, as well as Contact names etc. When we need to carry out any training or need to access your system to resolve any issues we have invested in the TeamViewer software package and this allows us to access your system with your permission.
 
 <a class="offset" name="#0.1"></a>
-## Installation of the Labtrac Software
 
+## Installation of the Labtrac Software
 
 * Firstly you need to install TeamViewer on all PC's which will have Labtrac on. To do this please follow these instructions.
 
-
-
 + Open an internet browser and go to labtrac.com
-
-
 
 * Click on the tap in the top right corner called *Support*.
 
-
-
 + Now in this page you will see *Support* again in the middle of the page. Under this it will say *Labtrac Remote Support Client* click this link and it will start a download which you can say *Run* to.
-
 
 
 * This will then open the *TeamViewer* Installer. The first thing you will need to enter in this page is *How do you want to use TeamViewer* to which you should select *Both of the above*.

@@ -1,0 +1,555 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+   
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/styles.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/spacing.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/font-awesome.min.css">
+
+    <title>System Settings</title>
+    <style>
+    .offset:before {
+      content:"";
+      display:block;
+      height:90px; /* fixed header height*/
+      margin:-90px 0 0; /* negative fixed header height */
+      }
+    h1 {margin-top:0 !important;}
+    ul.list-unstyled li a.collapsed i {transform: rotate(90deg);}
+    ul.list-unstyled li a i {transition:0.5s; will-change: transform; margin-right:5px;}
+    ul ul[id] {list-style-type:disc;padding-left:15px;}
+    #header input {width:100%;border:1px inset #777;border-radius:5px; padding:5px;margin-bottom:10px;} 
+    a[data-toggle] {position: absolute; left:15px;}
+    .list-unstyled {padding-left:20px;}
+    </style>
+  </head>
+  <body>
+     <header class="navbar navbar-inverse navbar-fixed-top hidden-print" role="navigation">
+      <div class="" style="margin-left:4%;margin-right:4%;">
+        <div class="navbar-header">
+            <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+            
+            
+            <a class="navbar-brand" href="https://www.labtrac.com">
+                <span>Labtrac</span></a>
+            <ul class="list-inline pull-right visible-xs">
+               <li>
+                    <a class="navbar-toggle2" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <i class="fa fa-fw fa-bars" style=""></i> Menu
+                    </a>
+                </li>
+            </ul>
+        </div>
+         <div class="collapse navbar-collapse navbar-responsive-collapse">
+            <ul class="nav navbar-nav pull-right">
+              <!--         
+        
+        <li>
+        	<a  href="/documentation/financial-manager.html">Financial Manager</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/getting-started.html">Getting Started</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/">Welcome</a>
+        </li>
+        
+        
+        
+        
+        
+        <li>
+        	<a  href="/documentation/invoicing-statements.html">Invoicing and Statements</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/payment-entry.html">Payment Entry</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/reports.html">Reports</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/rough-guide.html">Rough Guide</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a class="active" href="/documentation/system-settings.html">System Settings</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/videos.html">Videos</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/welcome.html">Welcome</a>
+        </li>
+        
+        
+   -->
+ 
+<li><a href="/">About</a></li>
+<li><a href="/en/Home/Features#features">Features</a></li>
+<li><a href="/en/Pricing">Pricing</a></li>
+
+<li><a href="/en/Support">Support</a></li>
+<li class="hidden-xs">
+    <a class="text-white">
+        <small style="line-height:20px;">
+            +44 3333 449970
+        </small>
+    </a>
+</li>
+<li class="hidden-xs"><a title="twitter" class="text-white" style=" margin-right 1px;" onclick="_gaq.push(['_trackEvent','Header','Click','Twitter']);" href="https://twitter.com/intent/user?screen_name=labtrac" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            </ul>
+        </div>
+      </div>
+      </header> 
+    <nav class="breadcrumb" role="menubar" aria-label="breadcrumbs">
+
+ <a href="http://localhost:4000">Home</a>
+
+ 
+
+   
+
+    
+
+        <span> // <span><a href="http://localhost:4000/documentation/">Documentation </a>
+    
+
+  
+
+    
+
+        <span> // <span><a class="current">System Settings</a>
+
+    
+
+  
+
+</nav>
+      <div class="container">
+     <div class="row">
+  <div class="col-sm-2">
+    
+<div id="header"></div>
+<ul class="list-unstyled" id="contents">
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#welcome"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="welcome">Welcome</a>
+		<ul id="welcome" class="collapse ">
+			<li>
+				<a href="welcome#0.1">Installing Labtrac</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#getsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="getting-started">Getting Started</a>
+			<ul id="getsta" class="collapse">
+				<li><a href="getting-started#1.2">Data Build</a></li>
+				<li><a href="getting-started#1.4">Adding Dentists</a></li>
+				<li><a href="getting-started#1.5">Adding Products</a></li>
+				<li><a href="getting-started#1.6">Adding Materials</a></li>
+				<li><a href="getting-started#1.7">Adding a Job</a></li>
+			</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="" href="#sysset"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="system-settings">System Settings</a>
+		<ul class="collapse in" id="sysset">
+			<li><a href="system-settings#2.1">Lab Details</a></li>
+			<li><a href="system-settings#2.2">System Options</a></li>
+			<li><a href="system-settings#2.3">Dentist Defaults</a></li>
+			<li><a href="system-settings#2.4">Financial</a></li>
+			<li><a href="system-settings#2.5">Order Enclosures</a></li>
+			<li><a href="system-settings#2.6">Footnotes</a></li>
+			<li><a href="system-settings#2.7">User Manager</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#invsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="invoicing-statements">Invoicing and Statements</a>
+		<ul id="invsta" class="collapse ">
+			<li><a href="invoicing-statements#3.1">Invoice List</a></li>
+			<li><a href="invoicing-statements#3.2">Invoice Manager</a></li>
+			<li><a href="invoicing-statements#3.3">Statement Manager</a></li>
+			<li><a href="invoicing-statements#3.4">Account Activity</a></li>
+			<li><a href="invoicing-statements#3.5">End of Month Guide</a></li>
+			<li><a href="invoicing-statements#3.6">CRM Studio and Backup</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#payent"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="payment-entry">Payment Entry</a>
+		<ul id="payent" class="collapse ">
+			<li><a href="payment-entry#4.1">Posting a Payment</a></li>
+			<li><a href="payment-entry#4.2">Reversing a Payment</a></li>
+		</ul>
+	</li>
+	<li><a href="reports">Reports</a></li>
+	<li><a href="financial-manager">Financial Manager</a></li>
+	<li><a href="videos">All Videos</a></li>
+</ul>
+  </div>
+  <div class="col-sm-10">
+    <h1 id="system-settings">System Settings</h1>
+
+<p>System settings are used to customise the way Labtrac will work for you. This section outlines the different settings that can be used and the effect they will have on the way Labtrac will work. These can be accessed by double clicking System Parameters under the System Utilities tab in the content bar.</p>
+
+<p><a class="offset" name="2.1"></a></p>
+
+<h2 id="lab-details">Lab Details</h2>
+
+<ul>
+  <li>
+    <p><strong>Lab Name</strong> - Maximum of 50 characters - used on screens and optionally on external documents.</p>
+  </li>
+  <li>
+    <p><strong>Lab Address</strong> - used on Delivery Notes and Invoices. When filling out this field remember to use <strong>CTRL + ENTER</strong> keys together to create a new line.</p>
+  </li>
+  <li>
+    <p><strong><em>MHRA</em> Number</strong> - The number provided by MHRA qualified labs. This appears on all documentation.</p>
+  </li>
+  <li>
+    <p><strong>Last Order Number</strong> - a numeric or alphanumeric field of up to 10 characters. The numeric part will be incremednted each time an order is processed. By default it will start at <strong><em>J00001</em></strong>.</p>
+  </li>
+  <li>
+    <p><strong>Last Delivery Number</strong> - a numeric or alphanumeric field of up to 10 characters. The numeric part will be incremented each time a delivery note is produced. By Default it will start <strong><em>D00001</em></strong>.</p>
+  </li>
+  <li>
+    <p><strong>Last Purchase Number</strong> - a numeric or alphanumeric field of up to 10 characters. The numeric part will be incremented each time a purchase order is produced. By Default it will start <strong><em>P00001</em></strong>.</p>
+  </li>
+</ul>
+
+<p><a class="offset" name="2.2"></a></p>
+
+<h2 id="system-options">System Options</h2>
+
+<ul>
+  <li>
+    <p>Order</p>
+
+    <ul>
+      <li>
+        <p><em>Include Bin No</em> -  if checked Labtrac won’t allow you to enter a job without entering a Bin Number (Pan Number).</p>
+      </li>
+      <li>
+        <p><em>Check if Patient is Already on the System</em> -</p>
+      </li>
+      <li>
+        <p><em>Price Final Stage Only</em> -</p>
+      </li>
+      <li>
+        <p><em>Job Ticket by Batch</em> -</p>
+      </li>
+      <li>
+        <p><em>Disable Work Ticket Prompt</em> -</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><a class="offset" name="2.3"></a></p>
+
+<h2 id="dentist-defaults">Dentist Defaults</h2>
+
+<ul>
+  <li>
+    <p><strong>Invoice on Delivery</strong></p>
+
+    <ul>
+      <li>
+        <p>If this is set to <strong>YES</strong> the system will produce a <em>Single Invoice</em> with every completed job.</p>
+      </li>
+      <li>
+        <p>If this is set to <strong>NO</strong> then the completed job will be added to a Consolidated Invoice for preparing and printing at the month end.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Copy of Invoice sent to Principal</strong></p>
+
+    <ul>
+      <li>
+        <p>If this is set to <strong>YES</strong> this means that, for each Associate Dentist (non Principal) the designated Principal will receive a copy of the Associate’s invoice</p>
+      </li>
+      <li>
+        <p>If this is set to <strong>NO</strong> the system will not produce a copy of the Associate’s invoice to be sent to the Principal.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Discount Shown on Invoice</strong></p>
+
+    <ul>
+      <li>
+        <p>If this is set to <strong>YES</strong> then the value of of the discount offered will be shown on the invoice.</p>
+      </li>
+      <li>
+        <p>If this is set to <strong>NO</strong> the discount will not be shown on the invoice.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong><em>NOTE:</em></strong>  <em>The value exported to an external accounts package will be the gross value.</em></p>
+
+<ul>
+  <li>
+    <p><strong>Nominal Code</strong></p>
+
+    <ul>
+      <li>This is the default nominal code in the external accounts package to which all sales values are assigned.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Payment Details</strong></p>
+
+    <ul>
+      <li>
+        <p>The default details entered in this section will be placed on any <em>new</em> Dentist record automatically. This can then be amended on an individual Dentist record if required.</p>
+      </li>
+      <li>
+        <p><strong>Days</strong> - The days to be shown on the invoice by which the payment is due.</p>
+      </li>
+      <li>
+        <p><strong>Terms</strong> - The payment terms to be shown on the invoice.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Settlement Details</strong></p>
+
+    <ul>
+      <li>
+        <p>The default details entered in this section will be placed on any new Dentist record automatically. They can then be amended on the Dentist Details page as required.</p>
+      </li>
+      <li>
+        <p><strong>Days</strong> - The number of days withinwhich the settlement discount will apply.</p>
+      </li>
+      <li>
+        <p><strong>Terms</strong> - The settlement terms to be shown on the invoice.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><a class="offset" name="2.4"></a></p>
+
+<h2 id="financial">Financial</h2>
+
+<p>The Laboratory’s bank details can be added here but these details are <strong>not used</strong> by the system. These are purely for your reference.</p>
+
+<ul>
+  <li>
+    <p><strong>Bank Name</strong></p>
+
+    <ul>
+      <li>Name of Laboratory’s bank - up to 50 characters</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Bank Address</strong></p>
+
+    <ul>
+      <li>When entering the bank address details the <strong>CTRL</strong> and <strong>Enter</strong> keys need to be pressed together to start a new line.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Sort Code</strong></p>
+
+    <ul>
+      <li>The banks sort code needs to be entered in the format <strong>nn-nn-nn</strong>.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Account Number</strong></p>
+
+    <ul>
+      <li>The Labortatory’s account number at the bank.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Account Name</strong></p>
+
+    <ul>
+      <li>The name of the Laboratory’s bank accouny.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Export Accounts To</strong></p>
+
+    <ul>
+      <li>If you use an external accounts package (Sage etc) select from the dropdown list to select the system which the system invoice details are to be exported.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Last Invoice Number</strong></p>
+
+    <ul>
+      <li>Numeric or aplha/numeric field of up to 10 characters; the numeric part of which will be incremented each time an invoice is produced. <strong>eg. I00001</strong></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Last Credit Number</strong></p>
+
+    <ul>
+      <li>Numeric or alpha/numeric field of up to 10 characters, the numeric part of which will be incremented each time a credit is raised. <strong>eg. C00001</strong></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Last Transaction Number</strong></p>
+
+    <ul>
+      <li>This field cannot be amended, it displays the last financial number.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><a class="offset" name="2.5"></a></p>
+
+<h2 id="order-enclosures">Order Enclosures</h2>
+<p>{content pending}</p>
+
+<p><a class="offset" name="2.6"></a></p>
+
+<h2 id="footnotes">Footnotes</h2>
+<p>{content pending}</p>
+
+<p><a class="offset" name="2.7"></a></p>
+
+<h2 id="user-manager">User Manager</h2>
+
+<p>The User Manager is used to set up and manage individual log-ins for users of Labtrac.</p>
+
+<ul>
+  <li>
+    <p>To add a new user, double-click on <em>User Manager</em> in the contents bar. That will open a new window in which you will see all the current users listed.</p>
+  </li>
+  <li>
+    <p>Click <em>Add</em> to bring up a <em>User Details</em> Page. Fill the boxes with the correct infomation and click <em>OK</em>.</p>
+  </li>
+</ul>
+
+<p><strong>NOTE: Security level is on a numerical scale from 1-9.</strong></p>
+
+<ul>
+  <li>
+    <p>1 will only allow a user to input jobs. They wont be able to see prices for anything.</p>
+  </li>
+  <li>
+    <p>5 allows a user to view and enter jobs, products and dentists as well as see any reports that a user with a higher security level allows.</p>
+  </li>
+  <li>
+    <p>9 is full access.</p>
+  </li>
+</ul>
+
+  </div>
+</div>
+
+     </div>
+      <footer>
+        <div class="container margin_bottom_30" style="min-height: 30px;">
+          <hr />
+          <nav class="pull-right">
+            <ul class="list-inline">
+                <li><a href="https://www.labtrac.com/en/Company">Contact Us</a></li>
+                <!--<li><a href="http://www.cirrux.com" target="_blank" title="Design by Cirrux">Design by Cirrux</a></li>-->
+            </ul>
+        </nav>
+        <p>© 2017 Labtrac Solutions Limited</p>
+    </div>
+      </footer>
+    <script src="https://www.labtrac.com/Scripts/jquery-2.1.3.min.js"></script>
+	<script src="https://www.labtrac.com/Scripts/bootstrap.min.js"></script>
+
+  <script>
+    (function ($) {
+  // custom css expression for a case-insensitive contains()
+  jQuery.expr[':'].Contains = function(a,i,m){
+      return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
+  };
+
+
+  function listFilter(header, list) { // header is any element, list is an unordered list
+    // create and add the filter form to the header
+    var form = $("<form>").attr({"class":"filterform","action":"#"}),
+        input = $("<input>").attr({"class":"filterinput","type":"search","placeholder":"Search..."});
+    $(form).append(input).appendTo(header);
+
+    $(input)
+      .change( function () {
+        var filter = $(this).val();
+        $(list).children().detach(".noresult")
+        if(filter || filter.length > 0) {
+          // this finds all links in a list that contain the input,
+          // and hide the ones not containing the input while showing the ones that do
+          $(list).find("li:not(:Contains(" + filter + "))").hide()
+          var count = $(list).find("li:Contains(" + filter + ")").show().length;
+            if (count > 0){
+            $(list).find("li:Contains(" + filter + ")").parent('.collapse').collapse('show').siblings("[data-toggle]").removeClass("collapsed");}
+            else { 
+              $(list).append("<p class='noresult'>No Results</p>")
+            }     
+        } else {
+          $(list).find("li").show();
+          $(list).find(".collapse").collapse('hide').siblings("[data-toggle]").addClass("collapsed");
+        };
+        return false;
+      })
+    .keyup( function () {
+        // fire the above change event after every letter
+        $(this).change();
+
+    });
+  }
+  //ondomready
+  $(function () {
+    listFilter($("#header"), $("#contents"));
+    //smooth scrolling with jquery
+     $('a[href*="#"]:not([href^="#"])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name="' + this.hash.slice(1) +'"]');
+      if (target.length) {
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+
+  });
+}(jQuery));
+
+  </script>
+  </body>
+</html>

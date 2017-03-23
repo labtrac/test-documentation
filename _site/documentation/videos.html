@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/spacing.css">
     <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/font-awesome.min.css">
 
-    <title>{{page.title}}</title>
+    <title>Videos</title>
     <style>
     .offset:before {
       content:"";
@@ -47,14 +47,183 @@
         </div>
          <div class="collapse navbar-collapse navbar-responsive-collapse">
             <ul class="nav navbar-nav pull-right">
-              {% include menu.html %}
+              <!--         
+        
+        <li>
+        	<a  href="/documentation/financial-manager.html">Financial Manager</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/getting-started.html">Getting Started</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/">Welcome</a>
+        </li>
+        
+        
+        
+        
+        
+        <li>
+        	<a  href="/documentation/invoicing-statements.html">Invoicing and Statements</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/payment-entry.html">Payment Entry</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/reports.html">Reports</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/rough-guide.html">Rough Guide</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/system-settings.html">System Settings</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a class="active" href="/documentation/videos.html">Videos</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/welcome.html">Welcome</a>
+        </li>
+        
+        
+   -->
+ 
+<li><a href="/">About</a></li>
+<li><a href="/en/Home/Features#features">Features</a></li>
+<li><a href="/en/Pricing">Pricing</a></li>
+
+<li><a href="/en/Support">Support</a></li>
+<li class="hidden-xs">
+    <a class="text-white">
+        <small style="line-height:20px;">
+            +44 3333 449970
+        </small>
+    </a>
+</li>
+<li class="hidden-xs"><a title="twitter" class="text-white" style=" margin-right 1px;" onclick="_gaq.push(['_trackEvent','Header','Click','Twitter']);" href="https://twitter.com/intent/user?screen_name=labtrac" target="_blank"><i class="fa fa-twitter"></i></a></li>
             </ul>
         </div>
       </div>
       </header> 
-    {% include breadcrumbs.html %}
+    <nav class="breadcrumb" role="menubar" aria-label="breadcrumbs">
+
+ <a href="http://localhost:4000">Home</a>
+
+ 
+
+   
+
+    
+
+        <span> // <span><a href="http://localhost:4000/documentation/">Documentation </a>
+    
+
+  
+
+    
+
+        <span> // <span><a class="current">Videos</a>
+
+    
+
+  
+
+</nav>
       <div class="container">
-     {{ content }}
+     <div class="row">
+  <div class="col-sm-2">
+    
+<div id="header"></div>
+<ul class="list-unstyled" id="contents">
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#welcome"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="welcome">Welcome</a>
+		<ul id="welcome" class="collapse ">
+			<li>
+				<a href="welcome#0.1">Installing Labtrac</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#getsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="getting-started">Getting Started</a>
+			<ul id="getsta" class="collapse">
+				<li><a href="getting-started#1.2">Data Build</a></li>
+				<li><a href="getting-started#1.4">Adding Dentists</a></li>
+				<li><a href="getting-started#1.5">Adding Products</a></li>
+				<li><a href="getting-started#1.6">Adding Materials</a></li>
+				<li><a href="getting-started#1.7">Adding a Job</a></li>
+			</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#sysset"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="system-settings">System Settings</a>
+		<ul class="collapse " id="sysset">
+			<li><a href="system-settings#2.1">Lab Details</a></li>
+			<li><a href="system-settings#2.2">System Options</a></li>
+			<li><a href="system-settings#2.3">Dentist Defaults</a></li>
+			<li><a href="system-settings#2.4">Financial</a></li>
+			<li><a href="system-settings#2.5">Order Enclosures</a></li>
+			<li><a href="system-settings#2.6">Footnotes</a></li>
+			<li><a href="system-settings#2.7">User Manager</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#invsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="invoicing-statements">Invoicing and Statements</a>
+		<ul id="invsta" class="collapse ">
+			<li><a href="invoicing-statements#3.1">Invoice List</a></li>
+			<li><a href="invoicing-statements#3.2">Invoice Manager</a></li>
+			<li><a href="invoicing-statements#3.3">Statement Manager</a></li>
+			<li><a href="invoicing-statements#3.4">Account Activity</a></li>
+			<li><a href="invoicing-statements#3.5">End of Month Guide</a></li>
+			<li><a href="invoicing-statements#3.6">CRM Studio and Backup</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#payent"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="payment-entry">Payment Entry</a>
+		<ul id="payent" class="collapse ">
+			<li><a href="payment-entry#4.1">Posting a Payment</a></li>
+			<li><a href="payment-entry#4.2">Reversing a Payment</a></li>
+		</ul>
+	</li>
+	<li><a href="reports">Reports</a></li>
+	<li><a href="financial-manager">Financial Manager</a></li>
+	<li><a href="videos">All Videos</a></li>
+</ul>
+  </div>
+  <div class="col-sm-10">
+    <h1 id="videos">Videos</h1>
+
+
+  </div>
+</div>
+
      </div>
       <footer>
         <div class="container margin_bottom_30" style="min-height: 30px;">

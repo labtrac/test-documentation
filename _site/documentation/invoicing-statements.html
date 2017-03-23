@@ -1,0 +1,387 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+   
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/styles.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/spacing.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/font-awesome.min.css">
+
+    <title>Invoicing and Statements</title>
+    <style>
+    .offset:before {
+      content:"";
+      display:block;
+      height:90px; /* fixed header height*/
+      margin:-90px 0 0; /* negative fixed header height */
+      }
+    h1 {margin-top:0 !important;}
+    ul.list-unstyled li a.collapsed i {transform: rotate(90deg);}
+    ul.list-unstyled li a i {transition:0.5s; will-change: transform; margin-right:5px;}
+    ul ul[id] {list-style-type:disc;padding-left:15px;}
+    #header input {width:100%;border:1px inset #777;border-radius:5px; padding:5px;margin-bottom:10px;} 
+    a[data-toggle] {position: absolute; left:15px;}
+    .list-unstyled {padding-left:20px;}
+    </style>
+  </head>
+  <body>
+     <header class="navbar navbar-inverse navbar-fixed-top hidden-print" role="navigation">
+      <div class="" style="margin-left:4%;margin-right:4%;">
+        <div class="navbar-header">
+            <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+            
+            
+            <a class="navbar-brand" href="https://www.labtrac.com">
+                <span>Labtrac</span></a>
+            <ul class="list-inline pull-right visible-xs">
+               <li>
+                    <a class="navbar-toggle2" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <i class="fa fa-fw fa-bars" style=""></i> Menu
+                    </a>
+                </li>
+            </ul>
+        </div>
+         <div class="collapse navbar-collapse navbar-responsive-collapse">
+            <ul class="nav navbar-nav pull-right">
+              <!--         
+        
+        <li>
+        	<a  href="/documentation/financial-manager.html">Financial Manager</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/getting-started.html">Getting Started</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/">Welcome</a>
+        </li>
+        
+        
+        
+        
+        
+        <li>
+        	<a class="active" href="/documentation/invoicing-statements.html">Invoicing and Statements</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/payment-entry.html">Payment Entry</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/reports.html">Reports</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/rough-guide.html">Rough Guide</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/system-settings.html">System Settings</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/videos.html">Videos</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/welcome.html">Welcome</a>
+        </li>
+        
+        
+   -->
+ 
+<li><a href="/">About</a></li>
+<li><a href="/en/Home/Features#features">Features</a></li>
+<li><a href="/en/Pricing">Pricing</a></li>
+
+<li><a href="/en/Support">Support</a></li>
+<li class="hidden-xs">
+    <a class="text-white">
+        <small style="line-height:20px;">
+            +44 3333 449970
+        </small>
+    </a>
+</li>
+<li class="hidden-xs"><a title="twitter" class="text-white" style=" margin-right 1px;" onclick="_gaq.push(['_trackEvent','Header','Click','Twitter']);" href="https://twitter.com/intent/user?screen_name=labtrac" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            </ul>
+        </div>
+      </div>
+      </header> 
+    <nav class="breadcrumb" role="menubar" aria-label="breadcrumbs">
+
+ <a href="http://localhost:4000">Home</a>
+
+ 
+
+   
+
+    
+
+        <span> // <span><a href="http://localhost:4000/documentation/">Documentation </a>
+    
+
+  
+
+    
+
+        <span> // <span><a class="current">Invoicing and Statements</a>
+
+    
+
+  
+
+</nav>
+      <div class="container">
+     <div class="row">
+  <div class="col-sm-2">
+    
+<div id="header"></div>
+<ul class="list-unstyled" id="contents">
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#welcome"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="welcome">Welcome</a>
+		<ul id="welcome" class="collapse ">
+			<li>
+				<a href="welcome#0.1">Installing Labtrac</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#getsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="getting-started">Getting Started</a>
+			<ul id="getsta" class="collapse">
+				<li><a href="getting-started#1.2">Data Build</a></li>
+				<li><a href="getting-started#1.4">Adding Dentists</a></li>
+				<li><a href="getting-started#1.5">Adding Products</a></li>
+				<li><a href="getting-started#1.6">Adding Materials</a></li>
+				<li><a href="getting-started#1.7">Adding a Job</a></li>
+			</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#sysset"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="system-settings">System Settings</a>
+		<ul class="collapse " id="sysset">
+			<li><a href="system-settings#2.1">Lab Details</a></li>
+			<li><a href="system-settings#2.2">System Options</a></li>
+			<li><a href="system-settings#2.3">Dentist Defaults</a></li>
+			<li><a href="system-settings#2.4">Financial</a></li>
+			<li><a href="system-settings#2.5">Order Enclosures</a></li>
+			<li><a href="system-settings#2.6">Footnotes</a></li>
+			<li><a href="system-settings#2.7">User Manager</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="" href="#invsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="invoicing-statements">Invoicing and Statements</a>
+		<ul id="invsta" class="collapse in">
+			<li><a href="invoicing-statements#3.1">Invoice List</a></li>
+			<li><a href="invoicing-statements#3.2">Invoice Manager</a></li>
+			<li><a href="invoicing-statements#3.3">Statement Manager</a></li>
+			<li><a href="invoicing-statements#3.4">Account Activity</a></li>
+			<li><a href="invoicing-statements#3.5">End of Month Guide</a></li>
+			<li><a href="invoicing-statements#3.6">CRM Studio and Backup</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#payent"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="payment-entry">Payment Entry</a>
+		<ul id="payent" class="collapse ">
+			<li><a href="payment-entry#4.1">Posting a Payment</a></li>
+			<li><a href="payment-entry#4.2">Reversing a Payment</a></li>
+		</ul>
+	</li>
+	<li><a href="reports">Reports</a></li>
+	<li><a href="financial-manager">Financial Manager</a></li>
+	<li><a href="videos">All Videos</a></li>
+</ul>
+  </div>
+  <div class="col-sm-10">
+    <h1 id="invoicing-and-statements">Invoicing and Statements</h1>
+
+<p><a class="offset" name="3.1"></a></p>
+
+<h2 id="invoice-list">Invoice List</h2>
+
+<p>Once you have clicked on the invoice list you will see a coprehensive list of every invoice you have ever produced. To open any of these invoices up all you have to do is double-click on the far left hand side of any of the rows. This will then open the invoice report. From here you can reprint an invoice at any time by clicking on the print icon in the top left - this will send to your default printer.</p>
+
+<p><a class="offset" name="3.2"></a></p>
+
+<h2 id="invoice-manager">Invoice Manager</h2>
+
+<p><a class="offset" name="3.3"></a></p>
+
+<h2 id="statement-manager">Statement Manager</h2>
+
+<ul>
+  <li>
+    <p>To produce your statements double-click on <em>Statment Manager</em>. This will open a new window in the window select the type of statment you would like to run from the list in the left hand side. Next make sure the correct aged debt reference is set. Now click <em>Preview</em> to view all of the statments and you can then print.</p>
+
+    <ul>
+      <li>
+        <p>Date filter - optional date filter to refine results to a date range.</p>
+      </li>
+      <li>
+        <p>Surgeon Filter - optional filter to  produce a statement for a particular dentist.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><a class="offset" name="3.4"></a></p>
+
+<h2 id="account-activity">Account Activity</h2>
+
+<p>Tthe area of Labtrac in which you can see an overview and complete history of any account.</p>
+
+<p><a class="offset" name="3.5"></a></p>
+
+<h2 id="end-of-month-guide">End Of Month Guide</h2>
+
+<p>Video</p>
+
+<p><a class="offset" name="3.6"></a></p>
+
+<h2 id="crm-studio-and-backup-module">CRM Studio and Backup Module</h2>
+
+<p><strong>CRM Studio</strong>  is for email and corporate invoicing.</p>
+
+<ul>
+  <li>To set up your Dentists fo email please click <a href="#1.1">here</a> &lt;—Incorrect Link, no such section.</li>
+</ul>
+
+<p>To Email Invoices, Statments, Patient Statments or Statments follow these instructions:</p>
+
+<ul>
+  <li>
+    <p>Open CRM Studio and click <em>Email</em></p>
+  </li>
+  <li>
+    <p>This will then open a window which will list all dentists that are currently set up with email addresses in Labtrac.</p>
+  </li>
+  <li>
+    <p>Click on the appropriate tab for <em>Single Invoices</em> or <em>Patient Statements</em>. Click <strong>Case Documents</strong>.</p>
+  </li>
+  <li>
+    <p>For <em>Monthly Invoices</em>, click <strong>Monthly Invoices</strong>.</p>
+  </li>
+  <li>
+    <p>For <em>Statements</em>, click <strong>Invoices</strong>.</p>
+  </li>
+  <li>
+    <p>Then using the date filter in the top right select a date range. This will then show all documents that fall within this period. You can then select the documents you wish to send and click <em>Send</em> in the bottom right.</p>
+  </li>
+  <li>
+    <p>This will then produce a report which should say <em>X invoices sent succesfully</em>.</p>
+  </li>
+</ul>
+
+<p><strong>Backup</strong> is a program that backs up all of your Data to Labtrac’s secure Cloud Server at the click of a button.</p>
+
+<ul>
+  <li>Once the <strong>Backup Module</strong> has been installed on your PC all you need to do to back up your data is click <strong>YES</strong> to the box asking if you would like to back up when closing labtrac down. This will then run a Backup procedure the you should receive a message in the dialog box saying <em>Upload Succesful</em>. This message will then close and the upload is complete.</li>
+</ul>
+
+  </div>
+</div>
+
+     </div>
+      <footer>
+        <div class="container margin_bottom_30" style="min-height: 30px;">
+          <hr />
+          <nav class="pull-right">
+            <ul class="list-inline">
+                <li><a href="https://www.labtrac.com/en/Company">Contact Us</a></li>
+                <!--<li><a href="http://www.cirrux.com" target="_blank" title="Design by Cirrux">Design by Cirrux</a></li>-->
+            </ul>
+        </nav>
+        <p>© 2017 Labtrac Solutions Limited</p>
+    </div>
+      </footer>
+    <script src="https://www.labtrac.com/Scripts/jquery-2.1.3.min.js"></script>
+	<script src="https://www.labtrac.com/Scripts/bootstrap.min.js"></script>
+
+  <script>
+    (function ($) {
+  // custom css expression for a case-insensitive contains()
+  jQuery.expr[':'].Contains = function(a,i,m){
+      return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
+  };
+
+
+  function listFilter(header, list) { // header is any element, list is an unordered list
+    // create and add the filter form to the header
+    var form = $("<form>").attr({"class":"filterform","action":"#"}),
+        input = $("<input>").attr({"class":"filterinput","type":"search","placeholder":"Search..."});
+    $(form).append(input).appendTo(header);
+
+    $(input)
+      .change( function () {
+        var filter = $(this).val();
+        $(list).children().detach(".noresult")
+        if(filter || filter.length > 0) {
+          // this finds all links in a list that contain the input,
+          // and hide the ones not containing the input while showing the ones that do
+          $(list).find("li:not(:Contains(" + filter + "))").hide()
+          var count = $(list).find("li:Contains(" + filter + ")").show().length;
+            if (count > 0){
+            $(list).find("li:Contains(" + filter + ")").parent('.collapse').collapse('show').siblings("[data-toggle]").removeClass("collapsed");}
+            else { 
+              $(list).append("<p class='noresult'>No Results</p>")
+            }     
+        } else {
+          $(list).find("li").show();
+          $(list).find(".collapse").collapse('hide').siblings("[data-toggle]").addClass("collapsed");
+        };
+        return false;
+      })
+    .keyup( function () {
+        // fire the above change event after every letter
+        $(this).change();
+
+    });
+  }
+  //ondomready
+  $(function () {
+    listFilter($("#header"), $("#contents"));
+    //smooth scrolling with jquery
+     $('a[href*="#"]:not([href^="#"])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name="' + this.hash.slice(1) +'"]');
+      if (target.length) {
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+
+  });
+}(jQuery));
+
+  </script>
+  </body>
+</html>

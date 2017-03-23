@@ -1,0 +1,1303 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+   
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/styles.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/spacing.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/font-awesome.min.css">
+
+    <title>Rough Guide</title>
+    <style>
+    .offset:before {
+      content:"";
+      display:block;
+      height:90px; /* fixed header height*/
+      margin:-90px 0 0; /* negative fixed header height */
+      }
+    h1 {margin-top:0 !important;}
+    ul.list-unstyled li a.collapsed i {transform: rotate(90deg);}
+    ul.list-unstyled li a i {transition:0.5s; will-change: transform; margin-right:5px;}
+    ul ul[id] {list-style-type:disc;padding-left:15px;}
+    #header input {width:100%;border:1px inset #777;border-radius:5px; padding:5px;margin-bottom:10px;} 
+    a[data-toggle] {position: absolute; left:15px;}
+    .list-unstyled {padding-left:20px;}
+    </style>
+  </head>
+  <body>
+     <header class="navbar navbar-inverse navbar-fixed-top hidden-print" role="navigation">
+      <div class="" style="margin-left:4%;margin-right:4%;">
+        <div class="navbar-header">
+            <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+            
+            
+            <a class="navbar-brand" href="https://www.labtrac.com">
+                <span>Labtrac</span></a>
+            <ul class="list-inline pull-right visible-xs">
+               <li>
+                    <a class="navbar-toggle2" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <i class="fa fa-fw fa-bars" style=""></i> Menu
+                    </a>
+                </li>
+            </ul>
+        </div>
+         <div class="collapse navbar-collapse navbar-responsive-collapse">
+            <ul class="nav navbar-nav pull-right">
+              <!--         
+        
+        <li>
+        	<a  href="/documentation/financial-manager.html">Financial Manager</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/getting-started.html">Getting Started</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/">Welcome</a>
+        </li>
+        
+        
+        
+        
+        
+        <li>
+        	<a  href="/documentation/invoicing-statements.html">Invoicing and Statements</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/payment-entry.html">Payment Entry</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/reports.html">Reports</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a class="active" href="/documentation/rough-guide.html">Rough Guide</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/system-settings.html">System Settings</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/videos.html">Videos</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/welcome.html">Welcome</a>
+        </li>
+        
+        
+   -->
+ 
+<li><a href="/">About</a></li>
+<li><a href="/en/Home/Features#features">Features</a></li>
+<li><a href="/en/Pricing">Pricing</a></li>
+
+<li><a href="/en/Support">Support</a></li>
+<li class="hidden-xs">
+    <a class="text-white">
+        <small style="line-height:20px;">
+            +44 3333 449970
+        </small>
+    </a>
+</li>
+<li class="hidden-xs"><a title="twitter" class="text-white" style=" margin-right 1px;" onclick="_gaq.push(['_trackEvent','Header','Click','Twitter']);" href="https://twitter.com/intent/user?screen_name=labtrac" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            </ul>
+        </div>
+      </div>
+      </header> 
+    <nav class="breadcrumb" role="menubar" aria-label="breadcrumbs">
+
+ <a href="http://localhost:4000">Home</a>
+
+ 
+
+   
+
+    
+
+        <span> // <span><a href="http://localhost:4000/documentation/">Documentation </a>
+    
+
+  
+
+    
+
+        <span> // <span><a class="current">Rough Guide</a>
+
+    
+
+  
+
+</nav>
+      <div class="container">
+     <div class="row">
+  <div class="col-sm-2">
+    
+<div id="header"></div>
+<ul class="list-unstyled" id="contents">
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#welcome"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="welcome">Welcome</a>
+		<ul id="welcome" class="collapse ">
+			<li>
+				<a href="welcome#0.1">Installing Labtrac</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#getsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="getting-started">Getting Started</a>
+			<ul id="getsta" class="collapse">
+				<li><a href="getting-started#1.2">Data Build</a></li>
+				<li><a href="getting-started#1.4">Adding Dentists</a></li>
+				<li><a href="getting-started#1.5">Adding Products</a></li>
+				<li><a href="getting-started#1.6">Adding Materials</a></li>
+				<li><a href="getting-started#1.7">Adding a Job</a></li>
+			</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#sysset"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="system-settings">System Settings</a>
+		<ul class="collapse " id="sysset">
+			<li><a href="system-settings#2.1">Lab Details</a></li>
+			<li><a href="system-settings#2.2">System Options</a></li>
+			<li><a href="system-settings#2.3">Dentist Defaults</a></li>
+			<li><a href="system-settings#2.4">Financial</a></li>
+			<li><a href="system-settings#2.5">Order Enclosures</a></li>
+			<li><a href="system-settings#2.6">Footnotes</a></li>
+			<li><a href="system-settings#2.7">User Manager</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#invsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="invoicing-statements">Invoicing and Statements</a>
+		<ul id="invsta" class="collapse ">
+			<li><a href="invoicing-statements#3.1">Invoice List</a></li>
+			<li><a href="invoicing-statements#3.2">Invoice Manager</a></li>
+			<li><a href="invoicing-statements#3.3">Statement Manager</a></li>
+			<li><a href="invoicing-statements#3.4">Account Activity</a></li>
+			<li><a href="invoicing-statements#3.5">End of Month Guide</a></li>
+			<li><a href="invoicing-statements#3.6">CRM Studio and Backup</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#payent"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="payment-entry">Payment Entry</a>
+		<ul id="payent" class="collapse ">
+			<li><a href="payment-entry#4.1">Posting a Payment</a></li>
+			<li><a href="payment-entry#4.2">Reversing a Payment</a></li>
+		</ul>
+	</li>
+	<li><a href="reports">Reports</a></li>
+	<li><a href="financial-manager">Financial Manager</a></li>
+	<li><a href="videos">All Videos</a></li>
+</ul>
+  </div>
+  <div class="col-sm-10">
+    <p>#Labtrac Team User Guide.</p>
+
+<p>[NOTES For title sizes</p>
+
+<p>1 ##</p>
+
+<p>2 ###</p>
+
+<p>3 ####</p>
+
+<p>4 #####]</p>
+
+<ul>
+  <li>
+    <p><strong><a href="#0">Welcome</a></strong></p>
+
+    <ul>
+      <li><a href="#0.1">Implementation</a></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong><a href="#1.0">Getting Started</a></strong></p>
+
+    <ul>
+      <li>
+        <p><a href="#1.1">Access to Labtrac</a></p>
+      </li>
+      <li>
+        <p><a href="#1.2">Data Build</a></p>
+
+        <ul>
+          <li>
+            <p><a href="#1.2a">Things to Consider Before Getting Started</a></p>
+
+            <ul>
+              <li>
+                <p><a href="#1.2b">Price Lists</a></p>
+              </li>
+              <li>
+                <p><a href="#1.2c">Dentist Codes</a></p>
+              </li>
+              <li>
+                <p><a href="#1.2d">Product Codes</a></p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="#1.4">Adding Dentists</a></p>
+
+        <ul>
+          <li><a href="#1.4b">Delivery Methods</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="#1.5">Adding Products</a></p>
+      </li>
+      <li>
+        <p><a href="#1.6">Adding Materials</a></p>
+
+        <ul>
+          <li><a href="#1.6b">Attaching a Material to a Product</a></li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="#1.7">Adding a Job</a></p>
+
+        <ul>
+          <li>
+            <p><a href="#1.7b">Entering a Job</a></p>
+          </li>
+          <li>
+            <p><a href="#1.7c">Completing a Job</a></p>
+          </li>
+          <li>
+            <p><a href="#1.7d">Stage Work</a></p>
+          </li>
+          <li>
+            <p><a href="#1.7e">Sub Contracting</a></p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong><a href="#2">System Settings</a></strong></p>
+
+    <ul>
+      <li>
+        <p><a href="#2.1">Lab Details</a></p>
+      </li>
+      <li>
+        <p><a href="#2.2">System Options</a></p>
+      </li>
+      <li>
+        <p><a href="#2.3">Sugeon Defaults</a></p>
+      </li>
+      <li>
+        <p><a href="#2.4">Financial</a></p>
+      </li>
+      <li>
+        <p><a href="#2.5">Order Enclosures</a></p>
+      </li>
+      <li>
+        <p><a href="#2.6">Footnotes</a></p>
+      </li>
+      <li>
+        <p><a href="#2.7">User Manager</a></p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong><a href="#3">Invoicing and Statements</a></strong></p>
+
+    <ul>
+      <li>
+        <p><a href="#3.1">Invoice List</a></p>
+      </li>
+      <li>
+        <p><a href="#3.2">Invoice Manager</a></p>
+      </li>
+      <li>
+        <p><a href="#3.3">Statement Manager</a></p>
+      </li>
+      <li>
+        <p><a href="#3.4">Account Activity</a></p>
+      </li>
+      <li>
+        <p><a href="#3.5">End of Month Guide</a></p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong><a href="#3.6">CRM Studio and Backup</a></strong></p>
+  </li>
+  <li>
+    <p><strong><a href="#4">Payment Entry</a></strong></p>
+
+    <ul>
+      <li>
+        <p><a href="#4.1">Posting a Payment</a></p>
+      </li>
+      <li>
+        <p><a href="#4.2">Reversing a Payment</a></p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong><a href="#5">Reports</a></strong></p>
+  </li>
+  <li>
+    <p><strong><a href="#6">Financial Manager</a></strong></p>
+  </li>
+  <li>
+    <p><strong><a href="#7">All Videos</a></strong></p>
+  </li>
+</ul>
+
+<hr />
+
+<p><a name="0"></a>Welcome to Labtrac</p>
+
+<p>Thank you for choosing Labtrac and welcome to the Labtrac family of over 200 Laboratories in the UK who have run their systems successfully over the last 20 years.</p>
+
+<p>This document is to give you a guide to the implementation process so you know the sequence of events and particularly what you will need to prepare for.</p>
+
+<p>Some contact numbers that you will find useful;</p>
+
+<p><strong>Labtrac Support/Sales - 03333 449970</strong></p>
+
+<p><strong><em>(all calls charged at local rate)</em></strong></p>
+
+<p>These Numbers are available during 9:00 to 5:30 Monday to Thursday and 9:00 to 5:00 on Fridays, excluding Bank Holidays.</p>
+
+<p>If any issue is non-urgent then it is best to contact us using the <strong>support@labtrac.com</strong> email, explaining what the issue is and providing any details that you can, as well as Contact names etc. When we need to carry out any training or need to access your system to resolve any issues we have invested in the TeamViewer software package and this allows us to access your system with your permission.</p>
+
+<p>###&lt;a name=0.1&gt;&lt;/a&gt;Installation of the Labtrac Software</p>
+
+<ul>
+  <li>
+    <p>Firstly you need to install TeamViewer on all PC’s which will have Labtrac on. To do this please follow these instructions.</p>
+  </li>
+  <li>
+    <p>Open an internet browser and go to labtrac.com</p>
+  </li>
+  <li>
+    <p>Click on the tap in the top right corner called <em>Support</em>.</p>
+  </li>
+  <li>
+    <p>Now in this page you will see <em>Support</em> again in the middle of the page. Under this it will say <em>Labtrac Remote Support Client</em> click this link and it will start a download which you can say <em>Run</em> to.</p>
+  </li>
+  <li>
+    <p>This will then open the <em>TeamViewer</em> Installer. The first thing you will need to enter in this page is <em>How do you want to use TeamViewer</em> to which you should select <em>Both of the above</em>.</p>
+  </li>
+  <li>
+    <p>Next it will ask you to agree to the tearms of the license.</p>
+  </li>
+  <li>
+    <p>Once you have agreed it will then ask for a password. This should be a password which you can tell the Labtrac Support team.</p>
+  </li>
+  <li>
+    <p>After you have entered the Password then change the name of the PC to your lab name <strong>eg. Knutsford Dental-PC 1</strong> and click <em>Finish</em></p>
+  </li>
+  <li>
+    <p>This Process will take 4 or 5 minutes for each PC.</p>
+  </li>
+  <li>
+    <p>Once the TeamViewer link is available, the Labtrac Support Team can then proceed to install the latest Labtrac version on your PC and this will take around 20-30 minutes depending on broadband speeds and the modules that you have taken. Once this has been completed we can then start the Labtrac data build stage.</p>
+  </li>
+</ul>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<p>###&lt;a name=1.1&gt;&lt;/a name&gt; Access to Labtrac</p>
+
+<p>By clicking on the Labtrac icon on your desktop you will be presented with the Labtrac sign on screen. Key in the user name, press tab then enter the password. By default both these fields are set to ‘sys’.</p>
+
+<p><img src="C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Sign In.PNG" alt="Adding a Dentist" /></p>
+
+<hr />
+
+<hr />
+
+<hr />
+
+<p>###&lt;a name=1.2&gt;&lt;/a&gt;Data Build</p>
+
+<p>####&lt;a name=1.2a&gt;&lt;/a&gt; Things to Consider Before Getting Started</p>
+
+<p>Now you have Labtrac set up on your PC(s) you will need to enter all your data (Dentists, Product etc). Following is a step by step guide to do that.</p>
+
+<p>#####&lt;a name=1.2b&gt;&lt;/a&gt;Price Lists</p>
+
+<p>It is important that before you start entering any infomation that you have in mind your price lists that are used throughout your whole customer base. If you have 3 price lists then when you are entering dentists you will need to know which price list that dentist is on. Likewise when entering any products or material you will need to know every price for that product or material.</p>
+
+<p>#####&lt;a name=1.3&gt;&lt;/a&gt;Dentist Codes</p>
+
+<p>Every dentist in Labtrac needs a unique code. If you already have a coding system that you use then you can carry on with that system. If you dont we reccomend using the first 4 letters of the surname followed by 01 incase of duplicates.</p>
+
+<ul>
+  <li>
+    <p>Labtrac allows a dentist code of up to 10 characters, however, if you are planning on exporting your accounts, Sage will only allow up to 8 characters.</p>
+
+    <ul>
+      <li>
+        <p><strong>WRIG01</strong> - Owen Wright</p>
+      </li>
+      <li>
+        <p><strong>WRIG02</strong> - Michael Wright</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>#####&lt;a name=1.2b&gt;&lt;/a&gt;Product Codes</p>
+
+<p>When setting up product codes in Labtrac there are a few things you have to bear in mind;</p>
+
+<ul>
+  <li>
+    <p>There needs to be a product code for every standard of work that you do. Meaning if you do NHS,Independent and Private work you will need 3 codes for each product. In the example below we have suffixed the same <em>PBC</em> (for a Porcelain Bonded Crown) code with a N,I or P depending on the Standard.</p>
+
+    <ul>
+      <li>
+        <p><strong>PBC-N</strong> for (NHS) Porcelain Bonded Crown.</p>
+      </li>
+      <li>
+        <p><strong>PBC-I</strong> for (Independent) Porcelain Bonded Crown.</p>
+      </li>
+      <li>
+        <p><strong>PBC-P</strong> for (Private Porcelain) Bonded Crown.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<hr />
+
+<hr />
+
+<p>###&lt;a name=1.4b&gt;&lt;/a&gt;Delivery Methods</p>
+
+<ul>
+  <li>
+    <p>To set up our delivery methods (how the dentists recieve the work) you first need to double click on <em>Delivery Details</em> from the content bar.</p>
+  </li>
+  <li>
+    <p>This then opens a new window which will be blank. To set up a delivery method click <em>Add</em> in the bottom left of the screen.</p>
+  </li>
+  <li>
+    <p>Again, this will open a new window from here you need to select a few parameters. you need to select the <em>Run</em> number.</p>
+  </li>
+  <li>
+    <p>Next you select the <em>Days</em> this is the amount of time you want to allow for the job to arrive in surgery after leaving the Lab.</p>
+  </li>
+  <li>
+    <p>Now you will go down and write some details in the <em>Delivery Method</em> section(eg Postal, Courier, Hand Delivered etc)</p>
+  </li>
+  <li>
+    <p>The <em>Rep</em> and <em>Sales Area</em> boxes are additional infomation you can add if you have/need it. It is not needed to set up a <em>Run</em>.</p>
+  </li>
+</ul>
+
+<p>In our example we have created run number 1, allowed for 2 days and have named the method Postal.</p>
+
+<p><img src="C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Delivery Method.PNG" alt="Delivery Method Video" /></p>
+
+<p>##&lt;a name=1.4&gt;&lt;/a&gt;Adding Dentists</p>
+
+<ul>
+  <li>
+    <p>To add a dentist you need to click on <em>Dentist</em> in the contents bar.</p>
+  </li>
+  <li>
+    <p>Now either click <em>Add</em> on the top or F2 to bring up the next screen.</p>
+  </li>
+  <li>
+    <p>By now you should have have an idea for your dentist codes. Enter that into the <em>Dentist Code</em> section and then the full name under <em>Dentist Name</em>.</p>
+  </li>
+  <li>
+    <p>Here you are met with a few different options. First off you can enter an address.</p>
+  </li>
+  <li>
+    <p>Next you need to select the Dentsist as either a Principal (they handle their own payments and account) or an associate (they have a Principal who handles all payments and account infomation). If they are an associate you can select the principal, once they have been added to Labtrac, from the dropdown menu.</p>
+  </li>
+  <li>
+    <p>Now we will look at the Invoicing section. The first box under the address box is <em>Invoiced</em>. If the Dentist is set as a principal then this box will always be selected. If it is an associate then you can choose whether or not they are invoiced. If you dont select this box all invoices will be sent to the Principal rather than this dentist.</p>
+  </li>
+  <li>
+    <p>Next we have <em>Invoice on Delivery</em> if this box is checked then an invoice is sent with every job, and a Statement sent at the end of the month. If this box is not checked then there will be no invoice sent with the job, maybe a job ticket or delivery note instead, and a consolidated invoice sent at the end of the month detailing all jobs completed within that month.</p>
+  </li>
+  <li>
+    <p>Next you will select the <em>Run</em>. This is the delivery method which you set up earlier. Click on the dropdown menu and select from your list.</p>
+  </li>
+  <li>
+    <p>Next you can go to the <em>Contacts</em> tab here you can enter the contact name and contact number. This is just for your reference.</p>
+  </li>
+  <li>
+    <p>Then click on the <em>Financial</em> tab and you need to enter a Invoice Address. If the Invoice address is the same as the one you entered on the Details screen you can click the button next to <em>Invoice Address</em> to copy it across.</p>
+  </li>
+  <li>
+    <p>After entering the address you can go to the email tab. Here you can enter the Dentists email and select some in the preference menu which documents you would like to email.</p>
+  </li>
+  <li>
+    <p>Now you can click <em>OK</em> and the surgeon is entered.</p>
+  </li>
+</ul>
+
+<p><strong>Here is a video showing all the steps above…</strong></p>
+
+<p><img src="C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Adding a Dentist.mp4" alt="Adding a Dentist" /></p>
+
+<hr />
+
+<hr />
+
+<hr />
+
+<p>##&lt;a name=1.5&gt;&lt;/a&gt;Products?????????</p>
+
+<p>##&lt;a name=1.5&gt;&lt;/a&gt;Adding a Product</p>
+
+<p>To add a product fist click on the <em>Master Products</em> section in the contents bar. Then click <em>Add</em> or F2 to bring up the <em>New Item</em> window.</p>
+
+<p>Now you can enter a Product Code and Description and click <em>Add</em>.</p>
+
+<p>This brings up a new window with a few options.</p>
+
+<p>If this is the first time adding a product you need to set up our <em>Standard</em> and <em>Category</em>. This is something you will only need to do the first time. At the moment they will have a dropdown box which says <em>All</em>. To add to this do the following;</p>
+
+<ul>
+  <li>
+    <p>First click the dotted box next to the dropdown for <em>Standard</em>. This will open a new window.</p>
+  </li>
+  <li>
+    <p>Next you can type in the <em>Standard</em> you would like to set up, in the example we have used <em>NHS</em>, <em>Independent</em> and <em>Private</em>, then click <em>Add</em>.</p>
+  </li>
+</ul>
+
+<p>Now you need to do the same for <em>Categories</em></p>
+
+<ul>
+  <li>
+    <p>First click the dotted box next to the dropdown for <em>Categories</em>. This will open a new window.</p>
+  </li>
+  <li>
+    <p>Next you need to type in the <em>Categories</em> you would like to set up, in the example you have used <em>Crown and Bridge</em>, <em>Prosthetics</em>, <em>Orthodontics</em> and <em>Misc</em>. Then click <em>Add</em>.</p>
+  </li>
+</ul>
+
+<p>Now going back to the original <em>Add Product</em> window you can fill this out;</p>
+
+<ul>
+  <li>
+    <p>If you select tooth, stump or tooth mould shade required boxes Labtrac will then not allow you to enter a job without this infomation filled out.</p>
+  </li>
+  <li>
+    <p>Record Material is a section where you can attach a material to a product. Click <a href="#1.3b">here</a> for more infomation.</p>
+  </li>
+  <li>
+    <p>Choose your <em>Standard</em> and <em>Category</em>.</p>
+  </li>
+  <li>
+    <p>Next enter a price for every <a href="#1.1.5">Price List</a> that you use, even if the price (for this particular product) doesnt change throughout. If you dont enter any infomation on one of your price lists yet you have a dentist set to that list the product will go onto a job with a value of £0.00.</p>
+  </li>
+  <li>
+    <p>Click <em>OK</em> and the product has been entered.</p>
+  </li>
+</ul>
+
+<p><strong>Here is a video showing all the steps above</strong></p>
+
+<p><img src="C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Adding a Product.mp4" alt="Delivery Method Video" /></p>
+
+<p>##&lt;a name=1.6&gt;&lt;/a&gt;Adding Materials</p>
+
+<p>Now we are going to go through adding materials. In our example we are adding Gold Alloy.</p>
+
+<ul>
+  <li>
+    <p>First go to Materials in the Contents bar.</p>
+  </li>
+  <li>
+    <p>Click <em>Add</em> or F2 and this will bring up a new window.</p>
+  </li>
+  <li>
+    <p>Enter a <em>Material Code</em> and <em>Description</em>, You may already have your own material code in the example, however, we have used <em>PGOLD60</em> for Private Gold Alloy 60%, then click <em>Add</em>.</p>
+  </li>
+</ul>
+
+<p>This will have opened a new window where you can enter more details;</p>
+
+<ul>
+  <li>
+    <p>We then move to <em>Standard</em> where in our cast we select <em>Private</em>.</p>
+  </li>
+  <li>
+    <p>Then we have the prices which again go from 1 - 40. We have entered 3 different price structures.</p>
+  </li>
+  <li>
+    <p>Click <em>OK</em> and the Material has been added.</p>
+  </li>
+</ul>
+
+<p>####&lt;a name=1.3b&gt;&lt;/a&gt;Attaching a Material to a Product</p>
+
+<p>In our example we have create a Full Gold Crown as a product. This product will always need our Material we then created, Gold Alloy. Now we will show you how to link the two together.</p>
+
+<ul>
+  <li>
+    <p>Go into Master Products in the content bar and either select an existing product or create a new one.</p>
+  </li>
+  <li>
+    <p>When we open the product you will see a unchecked box <em>Record Material</em> and a dropdown menu. Check the box and select from the dropdown the Material you want to add to the product.</p>
+  </li>
+  <li>
+    <p>Click <em>OK</em> and that is now added.</p>
+  </li>
+</ul>
+
+<p>Now when it comes to completing a job Labtrac will not allow you to do so without entering the amount, in our case grams, of material used.</p>
+
+<hr />
+
+<p>###&lt;a name=1.7&gt;&lt;/a&gt;Adding a Job</p>
+
+<p>####&lt;a name=1.7b&gt;&lt;/a&gt;Entering a Job</p>
+
+<p>Now we will look at adding a job. To add a new job firstly click on ‘Live Jobs’ in the contents bar.</p>
+
+<ul>
+  <li>
+    <p>To add a new job click this will then open a new window.</p>
+  </li>
+  <li>
+    <p>The first thing to do in this new window is enter the patients details.</p>
+  </li>
+  <li>
+    <p>Next, on the right hand side, we have the <em>Surgeon</em> details.</p>
+  </li>
+  <li>
+    <p>Select the surgeon from the dropdown menu and the rest will fill in automatically.</p>
+  </li>
+  <li>
+    <p>Next you need to enter your recieved and due dates. Labtrac assumes the date received is todays date. Then select the date the work is due in surgery by using the drop down menu and selecting from the calendar.</p>
+  </li>
+  <li>
+    <p>We will then go to the <em>Product</em> button or <em>F7</em>. this will open a new window which will have all the products that we have set up. Select your product from the list, you can search through the list by typing the product code. Then click <em>OK</em>.</p>
+  </li>
+  <li>
+    <p>Now the job is ready to <em>Launch</em> do this by clicking the Launch button or F11.</p>
+  </li>
+</ul>
+
+<p>####Completing the Job&lt;a name=1.7c&gt;&lt;/a&gt;</p>
+
+<p>Now we will work through completing the job.</p>
+
+<ul>
+  <li>
+    <p>Open up a job that is ready to be completed.</p>
+  </li>
+  <li>
+    <p>Click on the <em>Task</em> button or F10.</p>
+  </li>
+  <li>
+    <p>This is where you can change the status of a job in Labtrac to a few different things. Such as the work being <em>Out on Approval</em> (see <a href="#1.7d">Stage Work</a>), <em>Surgeon Return</em> (see <a href="#1.7d">Stage Work</a>), <em>Hold Job</em>, <em>Sub Contract</em> (see Sub Contracting) a job and <em>Complete Job</em>.</p>
+  </li>
+  <li>
+    <p>Click <em>Complete Job</em> this will set the job as completed and produce an invoice and all relevant documents.</p>
+  </li>
+  <li>
+    <p>Now in the window under quantity we can enter the amount you used, in our case it was per gram and in the example we have used 2.5g. That will then calculate the total cost and we can <em>Save</em> and <em>Continue</em> and the Job is complete.</p>
+  </li>
+</ul>
+
+<p>####&lt;a name=1.7d&gt;&lt;/a&gt;Stage Work</p>
+
+<p>Now we are going to go through staging a job.</p>
+
+<ul>
+  <li>
+    <p>The first thing you need to do is to go into <em>Live Jobs</em> and click <em>Add</em> or F2 to open a new job.</p>
+  </li>
+  <li>
+    <p>Go through all the normal steps for adding a job here.</p>
+  </li>
+  <li>
+    <p>Launch the job.</p>
+  </li>
+  <li>
+    <p>When the job is ready to be sent out to the dentist for approval you need to reopen the live job. Then you can click <em>Task</em> or F10. This will then bring up a dropdown menu. From this select <em>Send on Approval</em>. This now tells Labtrac that the job is out with the dentist and no longer in the lab.</p>
+  </li>
+  <li>
+    <p>When we receive the work back from the dentist and you are ready to move onto the next stage you can open the job back up and again go to <em>Task</em> or F10 and select <em>Surgeon Return</em>. It will now prompt you to change the date the work is due back in surgery.</p>
+  </li>
+  <li>
+    <p>Now you can <strong>add the new stage</strong> to do this we need to click on the <em>stage</em> tab (left of product button) or F5 this now brings up the products and from here you can select which ever may apply for the second stage.</p>
+  </li>
+  <li>
+    <p>Now you are ready to send the work back into the lab which we do by clicking <em>Launch</em> or F11.</p>
+  </li>
+  <li>
+    <p>Again once the work in the lab is complete and ready to be sent back to the dentist you have to reopen the job and select <em>Send on Approval</em>.</p>
+  </li>
+  <li>
+    <p>When you receive the work back from the dentist you can go back into the job and into <em>Task</em> F10 and click <em>Surgeon return</em> then select <em>Stage</em> and choose from the product list.</p>
+  </li>
+  <li>
+    <p>You can now launch this job and when work is complete in the lab you can then go through and complete the job as normal.</p>
+  </li>
+</ul>
+
+<p>####&lt;a name=1.7e&gt;&lt;/a&gt;Sub Contracting</p>
+
+<p>To Sub Contract a job in Labtrac first you need to set up a list of Subcontracters.</p>
+
+<ul>
+  <li>
+    <p>Double click <em>Sub-Contracters</em> in the contents bar. This will open up a new window where you can enter all of the people you sub-contract work to.</p>
+  </li>
+  <li>
+    <p>Click <em>Add</em> and fill in the relevant infomation, making sure to add a <em>Run</em> then select <em>Save</em>.</p>
+  </li>
+  <li>
+    <p>Now you have your sub contracters set up you can go through and enter a job like normal, however, once you launch the job click on <em>Task</em> or F10 and select <strong>Sub-Contract</strong> then <strong>Send Out</strong> (This changes the Job Status to <em>Sub Contract</em> ). Now select the date that the work is due back to you.</p>
+  </li>
+  <li>
+    <p>When you recieve the work back again go to <strong>Sub Contract</strong> and select <strong>Recieve Back</strong>.</p>
+  </li>
+</ul>
+
+<hr />
+
+<hr />
+
+<hr />
+
+<p>##&lt;a name=2&gt;&lt;/a&gt; System Settings</p>
+
+<p>System settings is used to customise the way Labtrac will work for you. This section outlines the different settings that can be used and the effect they will have on the way Labtrac will work.</p>
+
+<p>###&lt;a name=2.1&gt;&lt;/a&gt;Lab Details</p>
+
+<ul>
+  <li>
+    <p><strong>Lab Name</strong> - Maximum of 50 characters - used on screens and optionally on external documents.</p>
+  </li>
+  <li>
+    <p><strong>Lab Address</strong> - This is used on Delivery Notes and Invoices. When filling out this field remember to use <strong>CTRL</strong> and <strong>ENTER</strong> keys together to create a new line.</p>
+  </li>
+  <li>
+    <p><strong><em>MHRA</em> Number</strong> - The number provided by MHRA qualified labs. This appears on all documentation.</p>
+  </li>
+  <li>
+    <p><strong>Last Order Number</strong> - This is a numeric or alpha/numeric field of up to 10 characters. The numeric part will be incremednted each time an order is processed. By default it will start at <strong><em>J00001</em></strong>.</p>
+  </li>
+  <li>
+    <p><strong>Last Delivery Number</strong> - This is a numeric or alpha/numeric field of up to 10 characters. The numeric part will be incremented each time a delivery note is produced. By Default it will start <strong><em>D00001</em></strong>.</p>
+  </li>
+  <li>
+    <p><strong>Last Purchase Number</strong> - This is a numeric or alpha/numeric field of up to 10 characters. The numeric part will be incremented each time a purchase order is produced. By Default it will start <strong><em>P00001</em></strong>.</p>
+  </li>
+</ul>
+
+<p>###&lt;a name=2.2&gt;&lt;/a&gt;System Options</p>
+
+<ul>
+  <li>
+    <p>Order</p>
+
+    <ul>
+      <li>
+        <p><em>Include Bin No</em> -  if checked Labtrac wont allow you to enter a job without entering a Bin Number (Pan Number).</p>
+      </li>
+      <li>
+        <p><em>Check if Patient is Already on the System</em> -</p>
+      </li>
+      <li>
+        <p><em>Price Final Stage Only</em> -</p>
+      </li>
+      <li>
+        <p><em>Job Ticket by Batch</em> -</p>
+      </li>
+      <li>
+        <p><em>Disable Work Ticket Promt</em></p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>###&lt;a name=2.3&gt;&lt;/a&gt;Dentist</p>
+
+<ul>
+  <li><strong>Invoice on Delivery</strong></li>
+</ul>
+
+ 	- If this is set to <strong>YES</strong> the system will produce a <em>Single Invoice</em> with every completed job.
+
+ 	- If this is set to <strong>NO</strong> then the completed job will be added to a Consolidated Invoice for preparing and printing at the month end.
+
+<ul>
+  <li>
+    <p><strong>Copy of Invoice sent to Principal</strong></p>
+
+    <ul>
+      <li>
+        <p>If this is set to <strong>YES</strong> this means that, for each Associate Dentist (non Principal) the designated Principal will recieve a copy of the Associate’s invoice</p>
+      </li>
+      <li>
+        <p>If this is set to <strong>NO</strong> the system will not produce a copy of the Associate’s invoice to be sent to the Principal.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Discount Shown on Invoice</strong></p>
+
+    <ul>
+      <li>
+        <p>If this is set to <strong>YES</strong> then the value of of the discount offered will be shown on the invoice.</p>
+      </li>
+      <li>
+        <p>If this is set to <strong>NO</strong> the discount will not be shown on the invoice.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong><em>NOTE</em></strong>  <em>The value exported to an external accounts package will be the gross value.</em></p>
+
+<ul>
+  <li>
+    <p><strong>Nominal Code</strong></p>
+
+    <ul>
+      <li>This is the default nominal code in the external accounts package to which all sales values are assigned.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Payment Details</strong></p>
+
+    <ul>
+      <li>The default details entered in this section will be placed on any <em>new</em></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Dentist record automatically. This can then be amended on an individual Dentist record if required.</p>
+
+<p><strong>Days</strong> - The days to be shown on the invoice by which the payment is due.</p>
+
+<p><strong>Terms</strong> - The payment terms to be shown on the invoice.</p>
+
+<ul>
+  <li>
+    <p><strong>Settlement Details</strong></p>
+
+    <ul>
+      <li>The default details entered in this section will be placed on any new Dentist record automatically. They can then be amended on the Dentist Details page as required.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>%</strong> - Dicount percentage to apply if settlement made in the stipulated days.</p>
+
+<p><strong>Days</strong> - The number of days withinwhich the settlement discount will apply.</p>
+
+<p><strong>Terms</strong> - The settlement terms to be shown on the invoice.</p>
+
+<p>###&lt;a name=2.4&gt;&lt;/a&gt;Financial</p>
+
+<p>The Laboratory’s bank details can be added here but these details are <strong>not used</strong> by the system. These are purely for your reference.</p>
+
+<ul>
+  <li>
+    <p><strong>Bank Name</strong></p>
+
+    <ul>
+      <li>Name of Laboratory’s bank - up to 50 characters</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Bank Address</strong></p>
+
+    <ul>
+      <li>When entering the bank address details the <strong>CTRL</strong> and <strong>Enter</strong> keys need to be pressed together to start a new line.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Sort Code</strong></p>
+
+    <ul>
+      <li>The banks sort code needs to be entered in the format <strong>nn-nn-nn</strong>.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Account Number</strong></p>
+
+    <ul>
+      <li>The Labortatory’s account number at the bank.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Account Name</strong></p>
+
+    <ul>
+      <li>The name of the Laboratory’s bank accouny.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Export Accounts To</strong></p>
+
+    <ul>
+      <li>If you use an external accounts package (Sage etc) select from the dropdown list to select the system which the system invoice details are to be exported.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Last Invoice Number</strong></p>
+
+    <ul>
+      <li>Numeric or aplha/numeric field of up to 10 characters; the numeric part of which will be incremented each time an invoice is produced. <strong>eg. I00001</strong></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Last Credit Number</strong></p>
+
+    <ul>
+      <li>Numeric or alpha/numeric field of up to 10 characters, the numeric part of which will be incremented each time a credit is raised. <strong>eg. C00001</strong></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Last Transaction Number</strong></p>
+
+    <ul>
+      <li>This field cannot be amended, it displays the last financial number.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>###&lt;a name=2.5&gt;&lt;/a&gt;Order Enclosures</p>
+
+<p>###&lt;a name=2.6&gt;&lt;/a&gt;Footnotes</p>
+
+<p>###&lt;a name=2.7&gt;&lt;/a&gt;User Manager</p>
+
+<p>User manager is the area within Labtrac in which you can set up individual log-ins for your users.</p>
+
+<ul>
+  <li>
+    <p>To add a new user double click on <em>User Manager</em> in the Contents Bar. That will open a new window in which you will see all the current users listed.</p>
+  </li>
+  <li>
+    <p>Click <em>Add</em> and this will bring up a <em>User Details</em> Page. Now all we have to do is fill the boxes with the correct infomation and click <em>OK</em>.</p>
+  </li>
+</ul>
+
+<p>**NOTE: Security level is on a numerical scale from 1-9. **</p>
+
+<ul>
+  <li>
+    <p>1 will only allow a user to input jobs. They wont be able to see prices for anything.</p>
+  </li>
+  <li>
+    <p>5 allows a user to view and enter jobs, products and dentists as well as see any reports that a user with a higher security level allows.</p>
+  </li>
+  <li>
+    <p>9 is full acces.</p>
+  </li>
+</ul>
+
+<p>##&lt;a name=3&gt;&lt;/a&gt;Invoicing and Statements</p>
+
+<p>###&lt;a name=3.1&gt;&lt;/a&gt;Invoice List</p>
+
+<p>Once you have clicked on the invoice list you will sere a coprehensive list of every invoice you have ever produced. To open any of these invoices up all you have to do is double click on the left hand side of any of the rows. This will then open the invoice report. From here you can reprint an invocie at any time by clicking on the print icon in the top left - this will send to your default printer.</p>
+
+<p>###&lt;a name=3.2&gt;&lt;/a&gt;Invoice Manager</p>
+
+<p>###&lt;a name=3.3&gt;&lt;/a&gt;Statement Manager</p>
+
+<ul>
+  <li>
+    <p>To produce your statments double click on <em>Statment Manager</em>. This will open a new window in the window select the type of statment you would like to run from the list in the left hand side. Next make sure the correct aged debt reference is set. Now click preview to view all of the statments and you can then print.</p>
+
+    <ul>
+      <li>
+        <p>Date filter - optional date filter to narrow down results.</p>
+      </li>
+      <li>
+        <p>Surgeon Filter - oprtional filter to  produce a statment for a particular dentist.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>###&lt;a name=3.4&gt;&lt;/a&gt;Account Activity</p>
+
+<p>The <em>Account Activity</em> section is the area of Labtrac in which you can see an overview and complete history of any account.</p>
+
+<p>###&lt;a name=3.5&gt;&lt;/a&gt;End Of Month Guide</p>
+
+<p>Video</p>
+
+<p>###&lt;a name=3.6&gt;&lt;/a&gt;CRM Studio and Backup Module</p>
+
+<p><strong>CRM Studio</strong>  is for email and corporate invoicing.</p>
+
+<ul>
+  <li>To set up your Dentists fo email please click <a href="#1.1">here</a>.</li>
+</ul>
+
+<p>To Email Invoices, Statments, Patient Statments or Statments follow these instructions.</p>
+
+<ul>
+  <li>
+    <p>Open CRM Studio and click <em>Email</em></p>
+  </li>
+  <li>
+    <p>This will then open a window which will list all dentists that are currently set up with email addresses in Labtrac.</p>
+  </li>
+  <li>
+    <p>Click on the appropriate tab for <em>Single Invoices</em> or <em>Patient Statments</em> click <strong>Case Documents</strong>.</p>
+  </li>
+  <li>
+    <p>For <em>Monthly Invoices</em> click <strong>Monthly Invoices</strong>.</p>
+  </li>
+  <li>
+    <p>For <em>Statements</em> click <strong>Invoices</strong>.</p>
+  </li>
+  <li>
+    <p>Then using the date filter in the top right select a date range. This will then show all documents that fall in this period. You can then select the documents you wish to send and click <em>send</em> in the bottom right.</p>
+  </li>
+  <li>
+    <p>This will then produce a report which should say <em>X invoices sent succesfully</em>.</p>
+  </li>
+</ul>
+
+<p><strong>Backup</strong> is a program that backs up all of your Data to Labtrac’s secure Cloud Server at the click of a button.</p>
+
+<ul>
+  <li>Once the <strong>Backup Module</strong> has been installed on your PC all you need to do to back up your data is close labtrac down and click <strong>YES</strong> to the box asking if you would like to back up the Database. This will then run a Back up procedure the you should have a message in the dialog box saying <em>Upload Succesful</em>. This will then dissapear and the upload is complete.</li>
+</ul>
+
+<p>##&lt;a name=4&gt;&lt;/a&gt;Payment Entry</p>
+
+<p>###&lt;a name=4.1&gt;&lt;/a&gt;Posting a Payment</p>
+
+<ul>
+  <li>
+    <p>Once we are in Payment Entry find the dentist who you wish to post a payment against and double click on them. This will open a new window which will show all outstanding invoices for this Dentist.</p>
+  </li>
+  <li>
+    <p>First we need to select what type of payment this is (BACS, Cheque, Credit Note or a Discount) from the list on the left hand side.</p>
+  </li>
+  <li>
+    <p>Next we can enter the <em>Amount</em>.</p>
+  </li>
+  <li>
+    <p>Then we can put in a <em>Reference</em> and/or <em>Details</em> these fields are not mandatory but can help keep track of payment infomation.</p>
+  </li>
+  <li>
+    <p>Next we can set the date the payment has been made.</p>
+  </li>
+  <li>
+    <p>Finally all we need to then do is select the relevant invoice the payment is against and click the check box on the left hand side of that.</p>
+  </li>
+  <li>
+    <p>Once we have all that we can click post in the top right and that is the payment posted.</p>
+  </li>
+</ul>
+
+<p><img src="C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Payment Entry.PNG" alt="Delivery Method Video" /></p>
+
+<p>###&lt;a name=4.2&gt;&lt;/a&gt;Reversing a Payment</p>
+
+<p>If you find you have entered a payment incorrectly follow these steps to reverse the payment</p>
+
+<ul>
+  <li>
+    <p>Double click on <em>Reverse a Payment</em>. This will bring up a list of all the payments you have entered. Once you have found the relevant payment infomation double click on the left hand side of the row. This will then bring up another payment screen.</p>
+  </li>
+  <li>
+    <p>Once you have opened this you will see a list of all invoices included in the payment. What you need to do is select (by using the check box) the payment which you want to reverse.</p>
+  </li>
+</ul>
+
+<p><strong>NOTE: You have to select every invoice that was in the original payment entry. You cannot partially reverse a payment.</strong></p>
+
+<ul>
+  <li>Now you have selected the relevant invoice numbers click <em>Update</em> in the top right which will then produce a message saying the details have been updated.</li>
+</ul>
+
+<p>##&lt;a name=5&gt;&lt;/a&gt;Reports</p>
+
+<p>Double click on <em>Reports</em> in the contents bar of Labtrac and you will see the Reports Package.</p>
+
+<p>This is where you can view all financial or operational reports.</p>
+
+<p>Please watch video for more infomation</p>
+
+<p>VIDEO!</p>
+
+<p>##&lt;a name=6&gt;&lt;/a&gt;Financial Manager (May have to change with new version of FM also add monthly invoice implications)</p>
+
+<p>Financial Manager is a program that runs alongside Labtrac and allows you to ammend completed jobs Labtrac does not.</p>
+
+<p>To open Financial Manager click <strong>Support</strong> in the very top left then <strong>Financial Manager</strong>.</p>
+
+<p>You can then search for any job and change any infomation you want.</p>
+
+<p>You wont find the job in the list if it is older than 3 months old or has had a payment posted against it. If the latter is the case please <a href="1.2">Reverse Payments</a> against the invoice.</p>
+
+<ul>
+  <li>
+    <p>Use the search bar to find the relevant job/invoice.</p>
+  </li>
+  <li>
+    <p>Once you have found the invoice double click to open the infomation screen.</p>
+  </li>
+  <li>
+    <p>In here you can change;</p>
+
+    <ul>
+      <li>
+        <p>Order Status</p>
+
+        <ul>
+          <li>To change the order status select from the dropdown menu the status you would like to set the job to and click <em>update</em> in the bottom right. (Note. Changing the status of a job will delete the previous invoice and create a new one)</li>
+        </ul>
+      </li>
+      <li>
+        <p>Dentist</p>
+
+        <ul>
+          <li>Select the correct dentist from the dropdown menu and click <em>update</em>. (This will delete the old invoice and create a new one)</li>
+        </ul>
+      </li>
+      <li>
+        <p>Order Details</p>
+
+        <ul>
+          <li>To change a product select the product in the order details box and change it using the dropdown menu. Once the correct product is selected in the dropdown menu click the green tick and then <em>Update</em>.</li>
+        </ul>
+      </li>
+      <li>
+        <p>Patient infomation</p>
+
+        <ul>
+          <li>Change the patient name in the top box then click <em>Update Patient</em> then <em>Update</em></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>##&lt;a name=7&gt;&lt;/a&gt;Videos</p>
+
+
+  </div>
+</div>
+
+     </div>
+      <footer>
+        <div class="container margin_bottom_30" style="min-height: 30px;">
+          <hr />
+          <nav class="pull-right">
+            <ul class="list-inline">
+                <li><a href="https://www.labtrac.com/en/Company">Contact Us</a></li>
+                <!--<li><a href="http://www.cirrux.com" target="_blank" title="Design by Cirrux">Design by Cirrux</a></li>-->
+            </ul>
+        </nav>
+        <p>© 2017 Labtrac Solutions Limited</p>
+    </div>
+      </footer>
+    <script src="https://www.labtrac.com/Scripts/jquery-2.1.3.min.js"></script>
+	<script src="https://www.labtrac.com/Scripts/bootstrap.min.js"></script>
+
+  <script>
+    (function ($) {
+  // custom css expression for a case-insensitive contains()
+  jQuery.expr[':'].Contains = function(a,i,m){
+      return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
+  };
+
+
+  function listFilter(header, list) { // header is any element, list is an unordered list
+    // create and add the filter form to the header
+    var form = $("<form>").attr({"class":"filterform","action":"#"}),
+        input = $("<input>").attr({"class":"filterinput","type":"search","placeholder":"Search..."});
+    $(form).append(input).appendTo(header);
+
+    $(input)
+      .change( function () {
+        var filter = $(this).val();
+        $(list).children().detach(".noresult")
+        if(filter || filter.length > 0) {
+          // this finds all links in a list that contain the input,
+          // and hide the ones not containing the input while showing the ones that do
+          $(list).find("li:not(:Contains(" + filter + "))").hide()
+          var count = $(list).find("li:Contains(" + filter + ")").show().length;
+            if (count > 0){
+            $(list).find("li:Contains(" + filter + ")").parent('.collapse').collapse('show').siblings("[data-toggle]").removeClass("collapsed");}
+            else { 
+              $(list).append("<p class='noresult'>No Results</p>")
+            }     
+        } else {
+          $(list).find("li").show();
+          $(list).find(".collapse").collapse('hide').siblings("[data-toggle]").addClass("collapsed");
+        };
+        return false;
+      })
+    .keyup( function () {
+        // fire the above change event after every letter
+        $(this).change();
+
+    });
+  }
+  //ondomready
+  $(function () {
+    listFilter($("#header"), $("#contents"));
+    //smooth scrolling with jquery
+     $('a[href*="#"]:not([href^="#"])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name="' + this.hash.slice(1) +'"]');
+      if (target.length) {
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+
+  });
+}(jQuery));
+
+  </script>
+  </body>
+</html>

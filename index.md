@@ -5,6 +5,8 @@ title: Labtrac Test Documentation
         
 <h1>This is content loaded by Jekyll</h1>
 
+<a href="/test-documentation/documentation">Click here to continue to documenation sub-directory</a>
+
 <h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
 

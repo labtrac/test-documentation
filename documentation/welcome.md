@@ -27,42 +27,22 @@ When we need to carry out any training or need to access your system to resolve 
 
 <a class="offset" name="#0.1"></a>
 
-## Installation of the Labtrac Software
+# Labtrac Installation
 
+When we need to Install Labtrac, carry out any training or resolve any issues we use TeamViewer. TeamViewer is a piece of software that allows us to remotely access your system, with your permission.
 
-* Firstly you need to install TeamViewer on all PC's which will have Labtrac on. To do this please follow these instructions:
+To install TeamViewer please follow these steps.
 
+* Go to labtrac.com/en/support
 
+* Under support click ***Labtrac Remote Support Client***. This will start a download of the software. When that has downloaded 'Run' the Installer.
 
-+ Open an internet browser and go to labtrac.com
+* Follow the instructions and go through the installer.
 
+* When it asks for a PC name please enter your lab name to allow us to find you in our list of PC's.
 
-
-* Click on the tap in the top right corner labelled *Support*.
-
-
-
-+ On this page, under where *Support* is , it will say *Labtrac Remote Support Client*. Click this link and it will start a download which you can say *Run* to.
-
-
-
-* This will then open the *TeamViewer* Installer. The first thing you will need to enter in this page is *How do you want to use TeamViewer* to which you should select *Both of the above*.
-
-
-+ Next it will ask you to agree to the terms of the license.
-
-
-
-+ Once you have agreed it will then ask for a password. This should be a password which you can tell the Labtrac Support team.
-
-
-
-+ After you have entered the Password then change the name of the PC to your lab name **eg. Knutsford Dental-PC 1** and click *Finish*
-
-
+* Enter a password. Please dont make this a personal password as you will need to tell the members of the Labtrac Support team.
 
 * This Process will take 4 or 5 minutes for each PC.
 
-
-
-* Once the TeamViewer link is available, the Labtrac Support Team can then proceed to install the latest Labtrac version on your PC and this will take around 20-30 minutes depending on broadband speeds and the modules that you have taken. Once this has been completed we can then start the Labtrac [data build](/documentation/getting-started) stage.
+Once the TeamViewer link is available, the Labtrac Support Team can then proceed to install the latest Labtrac version on your PC and this will take around 20-30 minutes depending on broadband speeds and the modules that you have taken.

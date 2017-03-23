@@ -1,0 +1,348 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+   
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/styles.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.labtrac.com/content/spacing.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/font-awesome.min.css">
+
+    <title>Welcome</title>
+    <style>
+    .offset:before {
+      content:"";
+      display:block;
+      height:90px; /* fixed header height*/
+      margin:-90px 0 0; /* negative fixed header height */
+      }
+    h1 {margin-top:0 !important;}
+    ul.list-unstyled li a.collapsed i {transform: rotate(90deg);}
+    ul.list-unstyled li a i {transition:0.5s; will-change: transform; margin-right:5px;}
+    ul ul[id] {list-style-type:disc;padding-left:15px;}
+    #header input {width:100%;border:1px inset #777;border-radius:5px; padding:5px;margin-bottom:10px;} 
+    a[data-toggle] {position: absolute; left:15px;}
+    .list-unstyled {padding-left:20px;}
+    </style>
+  </head>
+  <body>
+     <header class="navbar navbar-inverse navbar-fixed-top hidden-print" role="navigation">
+      <div class="" style="margin-left:4%;margin-right:4%;">
+        <div class="navbar-header">
+            <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+            
+            
+            <a class="navbar-brand" href="https://www.labtrac.com">
+                <span>Labtrac</span></a>
+            <ul class="list-inline pull-right visible-xs">
+               <li>
+                    <a class="navbar-toggle2" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <i class="fa fa-fw fa-bars" style=""></i> Menu
+                    </a>
+                </li>
+            </ul>
+        </div>
+         <div class="collapse navbar-collapse navbar-responsive-collapse">
+            <ul class="nav navbar-nav pull-right">
+              <!--         
+        
+        <li>
+        	<a  href="/documentation/financial-manager.html">Financial Manager</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/getting-started.html">Getting Started</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a class="active" href="/documentation/">Welcome</a>
+        </li>
+        
+        
+        
+        
+        
+        <li>
+        	<a  href="/documentation/invoicing-statements.html">Invoicing and Statements</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/payment-entry.html">Payment Entry</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/reports.html">Reports</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/rough-guide.html">Rough Guide</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/system-settings.html">System Settings</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/videos.html">Videos</a>
+        </li>
+        
+        
+        
+        <li>
+        	<a  href="/documentation/welcome.html">Welcome</a>
+        </li>
+        
+        
+   -->
+ 
+<li><a href="/">About</a></li>
+<li><a href="/en/Home/Features#features">Features</a></li>
+<li><a href="/en/Pricing">Pricing</a></li>
+
+<li><a href="/en/Support">Support</a></li>
+<li class="hidden-xs">
+    <a class="text-white">
+        <small style="line-height:20px;">
+            +44 3333 449970
+        </small>
+    </a>
+</li>
+<li class="hidden-xs"><a title="twitter" class="text-white" style=" margin-right 1px;" onclick="_gaq.push(['_trackEvent','Header','Click','Twitter']);" href="https://twitter.com/intent/user?screen_name=labtrac" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            </ul>
+        </div>
+      </div>
+      </header> 
+    <nav class="breadcrumb" role="menubar" aria-label="breadcrumbs">
+
+ <a href="http://localhost:4000">Home</a>
+
+ 
+
+   
+
+    
+
+        <span> // <span><a class="current">Welcome</a>
+
+    
+
+  
+
+</nav>
+      <div class="container">
+     <div class="row">
+  <div class="col-sm-2">
+    
+<div id="header"></div>
+<ul class="list-unstyled" id="contents">
+	<li>
+		<a data-toggle="collapse" class="" href="#welcome"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="welcome">Welcome</a>
+		<ul id="welcome" class="collapse in">
+			<li>
+				<a href="welcome#0.1">Installing Labtrac</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#getsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="getting-started">Getting Started</a>
+			<ul id="getsta" class="collapse">
+				<li><a href="getting-started#1.2">Data Build</a></li>
+				<li><a href="getting-started#1.4">Adding Dentists</a></li>
+				<li><a href="getting-started#1.5">Adding Products</a></li>
+				<li><a href="getting-started#1.6">Adding Materials</a></li>
+				<li><a href="getting-started#1.7">Adding a Job</a></li>
+			</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#sysset"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="system-settings">System Settings</a>
+		<ul class="collapse " id="sysset">
+			<li><a href="system-settings#2.1">Lab Details</a></li>
+			<li><a href="system-settings#2.2">System Options</a></li>
+			<li><a href="system-settings#2.3">Dentist Defaults</a></li>
+			<li><a href="system-settings#2.4">Financial</a></li>
+			<li><a href="system-settings#2.5">Order Enclosures</a></li>
+			<li><a href="system-settings#2.6">Footnotes</a></li>
+			<li><a href="system-settings#2.7">User Manager</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#invsta"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="invoicing-statements">Invoicing and Statements</a>
+		<ul id="invsta" class="collapse ">
+			<li><a href="invoicing-statements#3.1">Invoice List</a></li>
+			<li><a href="invoicing-statements#3.2">Invoice Manager</a></li>
+			<li><a href="invoicing-statements#3.3">Statement Manager</a></li>
+			<li><a href="invoicing-statements#3.4">Account Activity</a></li>
+			<li><a href="invoicing-statements#3.5">End of Month Guide</a></li>
+			<li><a href="invoicing-statements#3.6">CRM Studio and Backup</a></li>
+		</ul>
+	</li>
+	<li>
+		<a data-toggle="collapse" class="collapsed" href="#payent"><i class="fa fa-chevron-up fa-flip-vertical"></i></a>
+		<a href="payment-entry">Payment Entry</a>
+		<ul id="payent" class="collapse ">
+			<li><a href="payment-entry#4.1">Posting a Payment</a></li>
+			<li><a href="payment-entry#4.2">Reversing a Payment</a></li>
+		</ul>
+	</li>
+	<li><a href="reports">Reports</a></li>
+	<li><a href="financial-manager">Financial Manager</a></li>
+	<li><a href="videos">All Videos</a></li>
+</ul>
+  </div>
+  <div class="col-sm-10">
+    <h1 id="welcome-to-labtrac">Welcome to Labtrac</h1>
+
+<p>Thank you for choosing Labtrac and welcome to the Labtrac family of over 200 Laboratories in the UK who have run their systems successfully over the last 20 years.</p>
+
+<p>This document is to give you a guide to the implementation process so you know the sequence of events and particularly what you will need to prepare for.</p>
+
+<p>Some contact numbers that you will find useful;</p>
+
+<p><strong>Labtrac Support/Sales - 03333 449970</strong></p>
+
+<p><strong><em>(all calls charged at local rate)</em></strong></p>
+
+<p>These Numbers are available during 9:00 to 5:30 Monday to Thursday and 9:00 to 5:00 on Fridays, excluding Bank Holidays.</p>
+
+<p>If any issue is non-urgent then it is best to contact us using the <strong>support@labtrac.com</strong> email, explaining what the issue is and providing any details that you can, as well as Contact names etc. When we need to carry out any training or need to access your system to resolve any issues we have invested in the TeamViewer software package and this allows us to access your system with your permission.</p>
+
+<p><a class="offset" name="#0.1"></a></p>
+
+<h2 id="installation-of-the-labtrac-software">Installation of the Labtrac Software</h2>
+
+<ul>
+  <li>
+    <p>Firstly you need to install TeamViewer on all PC’s which will have Labtrac on. To do this please follow these instructions.</p>
+  </li>
+  <li>
+    <p>Open an internet browser and go to labtrac.com</p>
+  </li>
+  <li>
+    <p>Click on the tap in the top right corner called <em>Support</em>.</p>
+  </li>
+  <li>
+    <p>Now in this page you will see <em>Support</em> again in the middle of the page. Under this it will say <em>Labtrac Remote Support Client</em> click this link and it will start a download which you can say <em>Run</em> to.</p>
+  </li>
+  <li>
+    <p>This will then open the <em>TeamViewer</em> Installer. The first thing you will need to enter in this page is <em>How do you want to use TeamViewer</em> to which you should select <em>Both of the above</em>.</p>
+  </li>
+  <li>
+    <p>Next it will ask you to agree to the tearms of the license.</p>
+  </li>
+  <li>
+    <p>Once you have agreed it will then ask for a password. This should be a password which you can tell the Labtrac Support team.</p>
+  </li>
+  <li>
+    <p>After you have entered the Password then change the name of the PC to your lab name <strong>eg. Knutsford Dental-PC 1</strong> and click <em>Finish</em></p>
+  </li>
+  <li>
+    <p>This Process will take 4 or 5 minutes for each PC.</p>
+  </li>
+  <li>
+    <p>Once the TeamViewer link is available, the Labtrac Support Team can then proceed to install the latest Labtrac version on your PC and this will take around 20-30 minutes depending on broadband speeds and the modules that you have taken. Once this has been completed we can then start the Labtrac data build stage.</p>
+  </li>
+</ul>
+
+  </div>
+</div>
+
+     </div>
+      <footer>
+        <div class="container margin_bottom_30" style="min-height: 30px;">
+          <hr />
+          <nav class="pull-right">
+            <ul class="list-inline">
+                <li><a href="https://www.labtrac.com/en/Company">Contact Us</a></li>
+                <!--<li><a href="http://www.cirrux.com" target="_blank" title="Design by Cirrux">Design by Cirrux</a></li>-->
+            </ul>
+        </nav>
+        <p>© 2017 Labtrac Solutions Limited</p>
+    </div>
+      </footer>
+    <script src="https://www.labtrac.com/Scripts/jquery-2.1.3.min.js"></script>
+	<script src="https://www.labtrac.com/Scripts/bootstrap.min.js"></script>
+
+  <script>
+    (function ($) {
+  // custom css expression for a case-insensitive contains()
+  jQuery.expr[':'].Contains = function(a,i,m){
+      return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
+  };
+
+
+  function listFilter(header, list) { // header is any element, list is an unordered list
+    // create and add the filter form to the header
+    var form = $("<form>").attr({"class":"filterform","action":"#"}),
+        input = $("<input>").attr({"class":"filterinput","type":"search","placeholder":"Search..."});
+    $(form).append(input).appendTo(header);
+
+    $(input)
+      .change( function () {
+        var filter = $(this).val();
+        $(list).children().detach(".noresult")
+        if(filter || filter.length > 0) {
+          // this finds all links in a list that contain the input,
+          // and hide the ones not containing the input while showing the ones that do
+          $(list).find("li:not(:Contains(" + filter + "))").hide()
+          var count = $(list).find("li:Contains(" + filter + ")").show().length;
+            if (count > 0){
+            $(list).find("li:Contains(" + filter + ")").parent('.collapse').collapse('show').siblings("[data-toggle]").removeClass("collapsed");}
+            else { 
+              $(list).append("<p class='noresult'>No Results</p>")
+            }     
+        } else {
+          $(list).find("li").show();
+          $(list).find(".collapse").collapse('hide').siblings("[data-toggle]").addClass("collapsed");
+        };
+        return false;
+      })
+    .keyup( function () {
+        // fire the above change event after every letter
+        $(this).change();
+
+    });
+  }
+  //ondomready
+  $(function () {
+    listFilter($("#header"), $("#contents"));
+    //smooth scrolling with jquery
+     $('a[href*="#"]:not([href^="#"])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name="' + this.hash.slice(1) +'"]');
+      if (target.length) {
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000);
+        return false;
+      }
+    }
+  });
+
+  });
+}(jQuery));
+
+  </script>
+  </body>
+</html>

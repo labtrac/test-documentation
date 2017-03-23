@@ -154,7 +154,7 @@ The User Manager is used to set up and manage individual log-ins for users of La
 
 + Click *Add* to bring up a *User Details* Page. Fill the boxes with the correct infomation and click *OK*.
 
-**NOTE:** Security level is on a numerical scale from 1-9. **
+**NOTE: Security level is on a numerical scale from 1-9.**
 
 + 1 will only allow a user to input jobs. They wont be able to see prices for anything.
 
