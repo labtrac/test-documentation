@@ -15,15 +15,18 @@ This document provides a guide to implementating Labtrac, covering the sequence 
 
 Some contact numbers that you may find useful:
 
-**Labtrac Support/Sales - 03333 449970**
-
+**Labtrac Support/Sales - +44 3333 449 970**
 ***(all calls charged at local rate)***
 
+Labtrac support is availible 9:00 to 5:30 Monday to Thursday and 9:00 to 5:00 on Fridays, excluding bank holidays.
 
-These Numbers are available during 9:00 to 5:30 Monday to Thursday and 9:00 to 5:00 on Fridays, excluding Bank Holidays.
+You can also use;
 
-If an issue is non-urgent then it is best to contact us using the **[support@labtrac.com](mailto:support@labtrac.com)** email, explain what the issue is in as much detail as possible and provide contact names and numbers.
-When we need to carry out any training or need to access your system to resolve any issues we have invested in the TeamViewer software package and this allows us to access your system with your permission.
+**support@labtrac.com**
+
+Using support@labtrac.com is often the quickest way of getting any issue resolved as it will put you straight into our work queue. Please explain the issue you are having and any details that you can and one of the support team will get back to you as soon as possible.
+
+
 
 <a class="offset" name="#0.1"></a>
 
