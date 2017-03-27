@@ -283,27 +283,22 @@ Now the job is ready to launch do this by clicking **'Launch F11'**.
 
 ### Stage Work
 
-Now we are going to go through staging a job.
 
-* The first thing you need to do is to go into *Live Jobs* and click *Add* or press the F2 key to open a new job.
+* Go into *Live Jobs* and click *Add F2*  to open a new job.
 
 * Go through all the normal steps for adding a job.
 
 * Launch the job.
 
-* When the job is ready to be sent out to the dentist for approval, you need to reopen the live job. Then you can click *Task* or press the F10 key. This will then show a dropdown menu. From this select *Send on Approval*. This now tells Labtrac that the job is out with the dentist and no longer in the lab.
+* When the job is ready to be sent out to the dentist for approval, re-open the live job. Click *Task F10*.Thi swill open the dropdown menu. Select *Send on Approval*. This sets the job status as *Out on Approval*.
 
-* When we receive the work back from the dentist and are ready to move onto the next stage, open the job back up and again go to *Task* or press the F10 key and select *Surgeon Return*. It will now prompt you to change the date the work is due back in surgery.
+* When the work is returned from the dentist, open the job and go to *Task F10* then select *Surgeon Return*. You will then be prompted to change the in surgery date and the *pan number*.
 
-* To **add the new stage**, click on the *stage* tab (left of product button) or press the F5 key which brings up the products. Select which ever may apply for the second stage.
+* To **add the new stage**, click *stage F5*. This will open your list of products to choose from.
 
-* Now you are ready to send the work back into the lab, click *Launch* or press the F11 key.
+* Once you are ready to send to work back into the lab click *Launch F11*.
 
-* Again once the work in the lab is complete and ready to be sent back to the dentist, reopen the job and select *Send on Approval*.
-
-* When you receive the work back from the dentist, go back into the job and into *Task* press F10 and click *Surgeon return* then select *Stage* and choose from the product list.
-
-* You can now launch this job and when work is complete in the lab you can then go through and complete the job as normal.
+Repeat these steps for each stage. On the final stage complete the job as normal. 
 
 
 ### Sub Contracting
