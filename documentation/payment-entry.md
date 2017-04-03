@@ -15,7 +15,7 @@ To enter a Payment or Credit Note go to **Payment Entry** in the contents bar.
 
 Select the account, from the list, that you would like to post the payment against. You can search by clicking **Search** at the top of the contents bar.
 
-![Payment Entry](/test-documentation/images/pe_1.PNG "Payment Entry"){: .center-block}
+![Payment Entry](../images/pe_1.PNG "Payment Entry"){: .center-block.img-responsive}
 
 This will open a new window.
 
@@ -27,7 +27,7 @@ Enter a **Reference** and **Details**
 
 Then go through and tick every invoice in the list which the payment covers. If the payment does not clear an invoice you can either leave the invoice with a balance or discount the remaining amount. This is done by selecting **Include Discount** after entering the **Amount** and **Payment Date**.
 
-![Payment Entry](/test-documentation/pe_2.PNG "Payment Entry"){: .center-block}
+![Payment Entry](../images/pe_2.PNG "Payment Entry"){: .center-block.img-responsive}
 
 
 (Link)Here is a video of these steps.
@@ -40,13 +40,13 @@ To reverse a payment:
 
 * Open **Reverse Payment** in Labtrac.
 
-![Reversing a Payment](/test-documentation/images/pe_3.PNG "Reversing a Payment"){: .center-block}
+![Reversing a Payment](../images/pe_3.PNG "Reversing a Payment"){: .center-block.img-responsive}
 
 * Find the payment you wish to reverse by searching one of the fields or looking through the list of transactions.
 
 * Double click to open the payment
 
-![Reversing a Payment](/test-documentation/pe_4.PNG "Reversing a Payment"){: .center-block}
+![Reversing a Payment](../images/pe_4.PNG "Reversing a Payment"){: .center-block.img-responsive}
 
 * This will give you a list of all paid invoices.
 
@@ -56,6 +56,6 @@ To reverse a payment:
 
 * Once all invoices are selected you can then click 'Update'.
 
-![Reversing a Payment](/test-documentation/images/pe_5.PNG "Reversing a Payment"){: .center-block}
+![Reversing a Payment](../images/pe_5.PNG "Reversing a Payment"){: .center-block.img-responsive}
 
 Your invoice will now appear again in **Payment Entry**

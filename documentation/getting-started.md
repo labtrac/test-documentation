@@ -75,7 +75,7 @@ To add a new Dentist first, click **'Dentist'** in the contents bar then **'Add 
 
 This will open a new window where you can enter a Code and full dentist name. To see our recommended coding system please click 'here'.
 
-![Adding a Dentist](/test-documentation/images/gs_1.png "Adding a Dentist"){: .center-block}
+![Adding a Dentist](../images/gs_1.png "Adding a Dentist"){: .center-block.img-responsive}
 
 
 Once you have entered a code and name click **'Add'**
@@ -98,7 +98,7 @@ If invoiced is NOT selected - The principal handles the associates invoices. The
 The next thing to look at is 'Price List' *here* and 'Volume Discount' *here* make sure the dentist is selected on the correct list or discount.
 
 
-![Adding a Dentist](/test-documentation/images/gs_2.png "Adding a Dentist"){: .center-block}
+![Adding a Dentist](../images/gs_2.png "Adding a Dentist"){: .center-block.img-responsive}
 
 * * *
 
@@ -139,7 +139,7 @@ Settlement Details - Enter the % discount you would like to apply. The days in w
 Enter the dentist’s email address. If there is more than one email address enter a semi-colon, then a space before typing the next email. (eg. example@email.com; example2@email.com)
 You can then enter a greeting in the greeting box.
 
-![Adding a Dentist](/test-documentation/images/gs_3.png "Adding a Dentist"){: .center-block}
+![Adding a Dentist](../images/gs_3.png "Adding a Dentist"){: .center-block.img-responsive}
 
 Finally select the documents that you wish to send by email. 
 (Please note: If a document is selected to be emailed it will no longer appear in the printable lists).
