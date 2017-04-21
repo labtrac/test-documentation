@@ -9,7 +9,7 @@ markdownpage: true
 
 ## Invoice List
 
-Once you have clicked on the invoice list you will see a coprehensive list of every invoice you have ever produced. To open any of these invoices up all you have to do is double-click on the far left hand side of any of the rows. This will then open the invoice report. From here you can reprint an invoice at any time by clicking on the print icon in the top left - this will send to your default printer.
+The Invoice list shows a comprehensive list of every invoice you have ever produced. To open any of these invoices double-click on the the rows, This will then open the invoice report. Here you can reprint or export an invoice at any time by clicking on the print icon in the top left or by clicking the export button to produce a PDF.
 
 <a class="offset" name="3.2"></a>
 
@@ -28,8 +28,6 @@ Once you have clicked on the invoice list you will see a coprehensive list of ev
 <a class="offset" name="3.4"></a>
 
 ## Account Activity
-
-Tthe area of Labtrac in which you can see an overview and complete history of any account. 
 
 <a class="offset" name="3.5"></a>
 
