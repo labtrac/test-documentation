@@ -8,7 +8,6 @@ markdownpage: true
 <a class="offset" name="3.1"></a>
 
 ## Invoice List
-
 ***
 
 Once you have clicked on the invoice list you will see a coprehensive list of every invoice you have produced. To open these invoices double-click on the left hand side of the row. This will then open the invoice report. From here you can reprint an invoice by clicking on the print icon, in the top left, this will send to your default printer.
@@ -36,7 +35,6 @@ You can also export the invoice as a PDF by clicking on the envelope icon. Renam
 <a class="offset" name="3.4"></a>
 
 ## Account Activity
-
 ***
 
 This is where you are able to view the entire account history for any Dentist.
@@ -101,5 +99,3 @@ To Email Invoices, Statments, Patient Statments or Statments follow these instru
 **Backup** is a program that backs up all of your Data to Labtrac's secure Cloud Server at the click of a button.
 
 + Once the **Backup Module** has been installed on your PC all you need to do to back up your data is click **YES** to the box asking if you would like to back up when closing labtrac down. This will then run a Backup procedure the you should receive a message in the dialog box saying *Upload Succesful*. This message will then close and the upload is complete.
-
-

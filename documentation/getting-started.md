@@ -75,7 +75,7 @@ To add a new Dentist first, click **'Dentist'** in the contents bar then **'Add 
 
 This will open a new window where you can enter a Code and full dentist name. To see our recommended coding system please click 'here'.
 
-![Adding a Dentist](../images/gs_1.png "Adding a Dentist"){: .center-block.img-responsive}
+![Adding a Dentist](/test-documentation/images/gs_1.png "Adding a Dentist"){: .center-block}
 
 
 Once you have entered a code and name click **'Add'**
@@ -98,7 +98,7 @@ If invoiced is NOT selected - The principal handles the associates invoices. The
 The next thing to look at is 'Price List' *here* and 'Volume Discount' *here* make sure the dentist is selected on the correct list or discount.
 
 
-![Adding a Dentist](../images/gs_2.png "Adding a Dentist"){: .center-block.img-responsive}
+![Adding a Dentist](/test-documentation/images/gs_2.png "Adding a Dentist"){: .center-block}
 
 * * *
 
@@ -139,7 +139,7 @@ Settlement Details - Enter the % discount you would like to apply. The days in w
 Enter the dentist’s email address. If there is more than one email address enter a semi-colon, then a space before typing the next email. (eg. example@email.com; example2@email.com)
 You can then enter a greeting in the greeting box.
 
-![Adding a Dentist](../images/gs_3.png "Adding a Dentist"){: .center-block.img-responsive}
+![Adding a Dentist](/test-documentation/images/gs_3.png "Adding a Dentist"){: .center-block}
 
 Finally select the documents that you wish to send by email. 
 (Please note: If a document is selected to be emailed it will no longer appear in the printable lists).
@@ -154,15 +154,17 @@ The Dentist is ready to be entered by clicking OK.
 # Adding a Product
 
 
-To add a new Product first click 'Products' in the contents bar then 'Add F2' at the top of the Labtrac screen.
+To add a new Product click 'Products' in the contents bar then 'Add F2' at the top of the Labtrac screen.
 
-This will open a new window where you must enter a Code and full product description. To see our reccomended coding system please click 'here'
+This will open a new window where you must enter a Code and full product description. To see our recommended coding system please click 'here'
+
+![Adding a Product](/test-documentation/images/ap_1.png "Adding a Product"){: .center-block}
 
 Once you have entered the code and description click 'Add' this will open the product details page.
 
 The first thing to enter in the new window is the 'Category'.
 
-If you have never set up any categories before you will have to click  the box next to the drop down menu with 3 dots.
+If you have not yet set up your categories click the dotted box next to category. This will open a window which you can enter categories of your choice.
 
 The categories are optional but are a good way of seperating the lab into different areas - this will allow you to run reports on different aspects of the lab.
 
@@ -178,22 +180,20 @@ Dentures
 Miscellaneous
 etc.
 
-Once you have entered and selected a category we can then move onto standrard.
+Then select the **Standard**. Here you differentiate between quality of work. (eg. NHS, Independent or Private work or Standard, Superior, Exceptional etc). 
 
-This will be relevant if you are doing multiple 'standards' of work. (eg. NHS, Independent or Private) or (Standard,Superior, Exceptional etc.)
+If your Standards are not already set up you will need to do so in the same way as the categories above.
 
-You will need to set these up in the same way as the categories above.
+Select whether or not a tooth shade, stump shade or tooth mould are required by selecting the check box. 
+*If you select the product as 'requiring shade' Labtrac wont allow you to enter a job without this information. If you leave these boxes unchecked you still have the option to enter this information on a job, however, it is not mandatory.*
 
-Once you have selected the standard you can then select whether or not a tooth shade, stump shade or tooth mould are required by selecting the check box. 
-*If you select them to be required Labtrac wont allow you to enter a job without this infomation. If you leave these boxes unchecked you still have the option to enter this infomation on a job, however, it is not mandatory.*
-
-Next you can select if you would like to always record a material on the product by checking the box and selecting the material from the dropdown menu. (eg. you may select to always record a gold alloy on a full gold crown as it is a material you would always use) click *here* for more infomation.
+If the procuct always requires a material tick the 'Record Material" box and selecting the material from the dropdown menu. If you then add that material to a job, Labtrac will automatically add the selected Material.
 
 Next enter the price, for every *price list* you are going to use.
 
-If you wish to charge tax on a material enter the amount (in %) that you wish to charge. This will only be charge to a dentist set up to receive tax.
+If you wish to charge tax on a material enter the amount (in %) that you wish to charge. This will only be charged to a dentist set up to receive tax.
 
-
+![Adding a Product](/test-documentation/images/ap_2.png "Adding a Product"){: .center-block}
 
 
 
@@ -210,9 +210,9 @@ To add a new Material click 'Materials' in the contents bar then, **'Add F2'** a
 
 This will open a new window where you can enter a Code and full material description. To see our recommended coding system please click 'here'
 
-#(Pic 1)
-
 Once you have entered the code and description click **'Add'** this will open the Material details page.
+
+![Adding a Material](/test-documentation/images/am_1.png "Adding a Material"){: .center-block}
 
 Next enter the price for the product (in every *price list* that you use).
 
@@ -222,7 +222,8 @@ You can also add a Standard (which is set up in the product section) if applicab
 
 You also have the option of adding a nominal code (for use with external accounting systems) a ** 'Lead Time'** and **'U.O.M'** (unit of measure). These are all for your reference only.
 
-#(PIC 2)
+![Adding a Material](/test-documentation/images/am_2.png "Adding a Material"){: .center-block}
+
 # (VIDEO)
 
 
@@ -236,13 +237,18 @@ First add the patient name followed by the dentist the job is for.
 
 Next enter the **'Pan Number'** and **'Service Level'** and the date **'Required at Practice'**.
 
-Then add any additional patient infomation you require.
+Then add any additional patient information you require.
 
 To enter a product click **'Product F7'**. This will open a list of all products set up on your system. You can search through the list by typing in the search box.
 
 To add a material click **'Material F8'**. This will again open a list of all materials set up on your system. You can search through the list by typing in the search box.
 
-In **'Notepad'** you can enter any infomation on the case you may want. This will only be availible to be viewed within the lab.
+![Adding a Job](/test-documentation/images/aj_1.png "Adding a Job"){: .center-block}
+
+
+In **'Notepad'** you can enter any information on the case you may want. This will only be availible to be viewed within the lab.
+
+![Adding a Job](/test-documentation/images/aj_2.png "Adding a Job"){: .center-block}
 
 In **'Prescription'** you can add a notation.
 
@@ -254,13 +260,19 @@ You can select the job as a **'Remake'**
 * Select a reason for a remake from the dropdown menu. To add a new reason click the dotted box.
 * In the green dropdown menu you can select the original job that is being remade as a reference.
 
+![Adding a Job](/test-documentation/images/aj_3.png "Adding a Job"){: .center-block}
+
 You can attach images in a job in **'Images'**
 
 It will ask if you wish to create an image folder. Click yes.
 
 Then add images to this folder by clicking **'Add'** and navigating to the image you would like to store on the job.
 
+![Adding a Job](/test-documentation/images/aj_4.png "Adding a Job"){: .center-block}
+
 In **'Dentist Notes'** you can write any infomation you would like to send back to the dentist. This will appear the delivery note or single invoice.
+
+![Adding a Job](/test-documentation/images/aj_5.png "Adding a Job"){: .center-block}
 
 Now the job is ready to launch do this by clicking **'Launch F11'**.
 
@@ -273,32 +285,39 @@ Now the job is ready to launch do this by clicking **'Launch F11'**.
 
 *  Click on the **'Task'** button or F10.
 
-* This is where you can change the status of a job in Labtrac to a few different things. Such as the work being **'Out on Approval'** (see [Stage Work], **'Surgeon Return'** (see [Stage Work], **'Hold Job**, **'Sub Contract'** (see Sub Contracting) a job and **'Complete Job'**.
+* This is where you can change the status of a job in Labtrac to a few different things. Such as the work being **'Out on Approval'** (see [Stage Work]), **'Surgeon Return'** (see [Stage Work]), **'Hold Job**, **'Sub Contract'** (see Sub Contracting) a job and **'Complete Job'**.
 
 * If any detail on the job need ammending before completion select **'Hold Job'** and make any changes that are needed. Then Launch Job again.
 
 * Click **'Complete Job'** this will set the job as completed and produce an invoice and all relevant documents.
-'
+
+![Adding a Job](/test-documentation/images/aj_6.png "Completing a Job"){: .center-block}
+
 
 
 ### Stage Work
 
+Now we are going to go through staging a job.
 
-* Go into *Live Jobs* and click *Add F2*  to open a new job.
+* The first thing you need to do is to go into *Live Jobs* and click *Add* or press the F2 key to open a new job.
 
 * Go through all the normal steps for adding a job.
 
 * Launch the job.
 
-* When the job is ready to be sent out to the dentist for approval, re-open the live job. Click *Task F10*.Thi swill open the dropdown menu. Select *Send on Approval*. This sets the job status as *Out on Approval*.
+* When the job is ready to be sent out to the dentist for approval, you need to reopen the live job. Then you can click *Task* or press the F10 key. This will then show a dropdown menu. From this select *Send on Approval*. This now tells Labtrac that the job is out with the dentist and no longer in the lab.
 
-* When the work is returned from the dentist, open the job and go to *Task F10* then select *Surgeon Return*. You will then be prompted to change the in surgery date and the *pan number*.
+* When we receive the work back from the dentist and are ready to move onto the next stage, open the job back up and again go to *Task* or press the F10 key and select *Surgeon Return*. It will now prompt you to change the date the work is due back in surgery.
 
-* To **add the new stage**, click *stage F5*. This will open your list of products to choose from.
+* To **add the new stage**, click on the *stage* tab (left of product button) or press the F5 key which brings up the products. Select which ever may apply for the second stage.
 
-* Once you are ready to send to work back into the lab click *Launch F11*.
+* Now you are ready to send the work back into the lab, click *Launch* or press the F11 key.
 
-Repeat these steps for each stage. On the final stage complete the job as normal. 
+* Again once the work in the lab is complete and ready to be sent back to the dentist, reopen the job and select *Send on Approval*.
+
+* When you receive the work back from the dentist, go back into the job and into *Task* press F10 and click *Surgeon return* then select *Stage* and choose from the product list.
+
+* You can now launch this job and when work is complete in the lab you can then go through and complete the job as normal.
 
 
 ### Sub Contracting
