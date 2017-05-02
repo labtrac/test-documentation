@@ -9,7 +9,7 @@ markdownpage: true
 Clicking the Labtrac icon on the desktop will bring up the sign on screen. Enter your username and password.
 By default both these fields are set to ‘sys’.
 
-![Adding a Dentist](C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Sign In.PNG)
+![Adding a Dentist](/test-documentation/imageSign In.PNG)
 
 
 <a class="offset" name="1.2"></a>
@@ -62,7 +62,7 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 
 
 
-![Delivery Method Video](C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Delivery Method.PNG)
+![Delivery Method Video](/test-documentation/image\Delivery Method.PNG)
 
 
 <a class="offset" name="1.4"></a>
@@ -158,6 +158,7 @@ To add a new Product click **Products** in the contents bar then **Add F2** at t
 
 This will open a new window where you must enter a Code and full product description. To see our recommended coding system please click *link*
 
+
 ![Adding a Product](/test-documentation/images/ap_1.png "Adding a Product"){: .center-block}
 
 Once you have entered the code and description click **Add** this will open the product details page.
@@ -181,6 +182,7 @@ Miscellaneous
 etc.
 
 Then select the **Standard**. Here you differentiate between quality of work. (eg. NHS, Independent or Private work or Standard, Superior, Exceptional etc). 
+
 
 If your Standards are not already set up you will need to do so in the same way as the categories above.
 
@@ -211,6 +213,7 @@ Once you have entered the code and description click **Add** this will open the 
 
 ![Adding a Material](/test-documentation/images/am_1.png "Adding a Material"){: .center-block}
 
+
 Next enter the price for the product (in every *link[price list]* that you use).
 
 If you charge tax on the material, you can add that (in %) in the **Tax Rate** Box.
@@ -235,7 +238,6 @@ First add the patient name followed by the dentist the job is for.
 Next enter the **Pan Number** and **Service Level** and the date **Required at Practice**.
 
 Then add any additional patient information you require.
-
 To enter a product click **Product F7**. This will open a list of all products set up on your system. You can search through the list by typing in the search box.
 
 To add a material click **Material F8**. This will again open a list of all materials set up on your system. You can search through the list by typing in the search box.
@@ -259,13 +261,16 @@ You can select the job as a **Remake**
 
 ![Adding a Job](/test-documentation/images/aj_3.png "Adding a Job"){: .center-block}
 
+
 You can attach images in a job in **Images**
+
 
 It will ask if you wish to create an image folder. Click yes.
 
 Then add images to this folder by clicking **Add** and navigating to the image you would like to store on the job.
 
 ![Adding a Job](/test-documentation/images/aj_4.png "Adding a Job"){: .center-block}
+
 
 In **Dentist Notes** you can write any infomation you would like to send back to the dentist. This will appear the delivery note or single invoice.
 
@@ -287,6 +292,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 * If any detail on the job need ammending before completion select **Hold Job** and make any changes that are needed. Then Launch Job again.
 
 * Click **Complete Job** this will set the job as completed and produce an invoice and all relevant documents.
+
 
 ![Adding a Job](/test-documentation/images/aj_6.png "Completing a Job"){: .center-block}
 
