@@ -10,19 +10,25 @@ markdownpage: true
 Thank you for choosing Labtrac and welcome to the Labtrac family of over 200 Laboratories in the UK who have run their systems successfully over the last 20 years.
 
 
-This document is to give you a guide to the implementation process so you know the sequence of events and particularly what you will need to prepare for.
+This document provides a guide to implementating Labtrac, covering the sequence of events and particularly what you will need to prepare for.
 
 
-Some contact numbers that you will find useful;
+Some contact numbers that you may find useful:
 
-**Labtrac Support/Sales - 03333 449970**
-
+**Labtrac Support/Sales - +44 3333 449 970**
 ***(all calls charged at local rate)***
 
+Labtrac support is availible 9:00 to 5:30 Monday to Thursday and 9:00 to 5:00 on Fridays, excluding bank holidays.
 
-These Numbers are available during 9:00 to 5:30 Monday to Thursday and 9:00 to 5:00 on Fridays, excluding Bank Holidays.
+You can also use;
 
-If any issue is non-urgent then it is best to contact us using the **support@labtrac.com** email, explaining what the issue is and providing any details that you can, as well as Contact names etc. When we need to carry out any training or need to access your system to resolve any issues we have invested in the TeamViewer software package and this allows us to access your system with your permission.
+**support@labtrac.com**
+
+>**Tip**
+>
+>Using support@labtrac.com is often the quickest way of getting any issue resolved as it will put you straight into our work queue. Please explain the issue you are having and any details that you can and one of the support team will get back to you as soon as possible.
+{: .alert.alert-info}
+
 
 <a class="offset" name="#0.1"></a>
 
