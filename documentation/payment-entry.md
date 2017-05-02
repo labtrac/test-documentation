@@ -5,15 +5,15 @@ markdownpage: true
 ---
 # Payment Entry
 
-These options are available by double-clicking *Payment Entry* in the content bar.
+These options are available by double-clicking **Payment Entry** in the content bar.
 
 <a class="offset" name="4.1"></a>
 
 ## Posting a Payment
 
-To enter a Payment or Credit Note go to **Payment Entry** in the contents bar.
+To enter a **Payment** or **Credit Note** go to **Payment Entry** in the contents bar.
 
-Select the account, from the list, that you would like to post the payment against. You can search by clicking **Search** at the top of the contents bar.
+Select the account, from the list, that you would like to post the payment against. You can search by clicking **Search** at the top of the contents bar. **(MIGHT NEED TO CHANGE WITH NEW VERSION)**
 
 ![Payment Entry](../images/pe_1.PNG "Payment Entry"){: .center-block.img-responsive}
 
@@ -38,7 +38,7 @@ Then go through and tick every invoice in the list which the payment covers. If 
 
 To reverse a payment:
 
-* Open **Reverse Payment** in Labtrac.
+* Open **Reverse Payment** from the contents bar.
 
 ![Reversing a Payment](../images/pe_3.PNG "Reversing a Payment"){: .center-block.img-responsive}
 
@@ -54,7 +54,7 @@ To reverse a payment:
 
 ***Please note that you must select all invoices that were paid in that entry. You cannot partially reverse a payment.***
 
-* Once all invoices are selected you can then click 'Update'.
+* Once all invoices are selected you can then click **Update**.
 
 ![Reversing a Payment](../images/pe_5.PNG "Reversing a Payment"){: .center-block.img-responsive}
 
