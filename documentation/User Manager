@@ -1,0 +1,29 @@
+#User Manager
+
+---
+
+The **User Manager** allows you to set up accounts for different members of staff with different levels of security. Allowing them to see as much or as little information as you like.
+
+To set up a new user follow these steps:
+
+* Open **User Manager** from the contents bar
+
+* Click **Add**
+
+* Enter **Name**, **Initials**, **Security Level** (see below), and **Password**
+
+* Click **Ok**
+
+This user is now set up and can log onto Labtrac using their **Username** and **Password**.
+
+### Security Levels
+
+1 - Can only add, amend and complete **Jobs** (No financial information shown)
+
+3 - Can only add, amend and complete **Jobs** (Financial information shown)
+
+5 - Can add **Jobs**, **Products**, **Materials** and **Dentists**. No access to financial information (**Invoices**, **Statements**, **Payments** etc). Cannot delete **Dentist**/**Products**/**Materials**
+
+7 - Access to all information with the exception of **System Settings** and **User Manager**
+
+9 - **System Administrator** with total access
