@@ -58,7 +58,7 @@ System settings are used to customise the way Labtrac will work for you. This se
 
 + **Copy of Invoice sent to Principal**
 
-	- If this is set to **YES** this means that, for each Associate Dentist (non Principal) the designated Principal will receive a copy of the Associate's invoice
+	- If this is set to **YES** this means that, for each Associate Dentist (non Principal) the designated Principal will receive a copy of the Associate's invoice.
 
 	- If this is set to **NO** the system will not produce a copy of the Associate's invoice to be sent to the Principal.
 
@@ -99,7 +99,7 @@ The Laboratory's bank details can be added here but these details are **not used
 
 + **Bank Name** 
 
-	- Name of Laboratory's bank - up to 50 characters
+	- Name of Laboratory's bank - up to 50 characters.
 
 + **Bank Address**
 
@@ -123,11 +123,11 @@ The Laboratory's bank details can be added here but these details are **not used
 
 + **Last Invoice Number**
 
-	- Numeric or aplha/numeric field of up to 10 characters; the numeric part of which will be incremented each time an invoice is produced. **eg. I00001**
+	- Numeric or aplha/numeric field of up to 10 characters; the numeric part of which will be incremented each time an invoice is produced. **eg. I00001**.
 
 + **Last Credit Number** 
 
-	- Numeric or alpha/numeric field of up to 10 characters, the numeric part of which will be incremented each time a credit is raised. **eg. C00001**
+	- Numeric or alpha/numeric field of up to 10 characters, the numeric part of which will be incremented each time a credit is raised. **eg. C00001**.
 
 + **Last Transaction Number**
 
