@@ -13,7 +13,7 @@ These options are available by double-clicking **Payment Entry** in the content 
 
 To enter a **Payment** or **Credit Note** go to **Payment Entry** in the contents bar.
 
-Select the account, from the list, that you would like to post the payment against. You can search by clicking **Search** at the top of the contents bar. **(MIGHT NEED TO CHANGE WITH NEW VERSION)**
+Select the account, from the list, that you would like to post the payment against.
 
 ![Payment Entry](../images/pe_1.PNG "Payment Entry"){: .center-block.img-responsive}
 
@@ -21,9 +21,9 @@ This will open a new window.
 
 Enter the **Amount**, **Payment Date** and choose whether to **Include Discount** (select this if you are giving any discount on the outstanding invoices).
 
-Select if the **Payment Type** is **Cheque**, **BACS** or **Credit Note**
+Select if the **Payment Type** is **Cheque**, **BACS** or **Credit Note**.
 
-Enter a **Reference** and **Details** 
+Enter a **Reference** and **Details**.
 
 Then go through and tick every invoice in the list which the payment covers. If the payment does not clear an invoice you can either leave the invoice with a balance or discount the remaining amount. This is done by selecting **Include Discount** after entering the **Amount** and **Payment Date**.
 
@@ -42,15 +42,13 @@ To reverse a payment:
 
 ![Reversing a Payment](../images/pe_3.PNG "Reversing a Payment"){: .center-block.img-responsive}
 
-* Find the payment you wish to reverse by searching one of the fields or looking through the list of transactions.
-
-* Double click to open the payment
+* Find and open the payment you wish to reverse by searching one of the fields or looking through the list of transactions.
 
 ![Reversing a Payment](../images/pe_4.PNG "Reversing a Payment"){: .center-block.img-responsive}
 
 * This will give you a list of all paid invoices.
 
-* Find the invoice(s) that you wish to reverse and select them using the tick box.
+* Find and select all the invoice(s) that were allocated in the payment you wish to reverse.
 
 ***Please note that you must select all invoices that were paid in that entry. You cannot partially reverse a payment.***
 
