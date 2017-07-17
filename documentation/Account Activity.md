@@ -14,7 +14,7 @@ To access **Account Activity** follow these steps:
 
 * Select the account you wish to view from the dropdown menu and click **Refresh**
 
-* This will show you all **Invoices** *(paid and unpaid)*, **Payments**, Credit Notes, Balances and Aged Debt.
+* This will show you all **Invoices** *(paid and unpaid)*, **Payments**, **Credit Notes**, **Balances** and **Aged Debt**.
 
 You can also **Post a Balance** in **Account Activity**;
 
