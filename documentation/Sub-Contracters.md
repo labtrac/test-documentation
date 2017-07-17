@@ -1,4 +1,10 @@
-#Sub-Contracters
+---
+layout: article
+title: Invoicing and Statements
+markdownpage: true
+---
+
+# Sub-Contracters
 
 To add new Sub-Contracters follow these steps:
 
