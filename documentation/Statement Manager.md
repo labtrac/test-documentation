@@ -1,4 +1,4 @@
-#Statement Manager
+# Statement Manager
 
 To produce your statements please follow these steps:
 
