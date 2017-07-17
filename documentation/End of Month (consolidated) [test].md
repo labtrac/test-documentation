@@ -1,4 +1,10 @@
-#End of Month (Consolidated Invoices)
+---
+layout: article
+title: Invoicing and Statements
+markdownpage: true
+---
+
+# End of Month (Consolidated Invoices)
 
 To run your end of month tasks for consolidated invoices please follow these steps.
 
