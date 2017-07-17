@@ -1,4 +1,10 @@
-#Diary
+---
+layout: article
+title: Invoicing and Statements
+markdownpage: true
+---
+
+# Diary
 
 - - -
 
