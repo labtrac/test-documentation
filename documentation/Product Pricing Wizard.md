@@ -30,4 +30,4 @@ To change prices follow these steps;
 
 * Click **Calculate Prices** to commit these changes.
 
-#Image
+# Image
