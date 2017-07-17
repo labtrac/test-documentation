@@ -4,7 +4,7 @@ To export your invoices please follow these steps;
 
 ### Sage
 
-##### Exporting Dentist Accounts
+#### Exporting Dentist Accounts
 
 Before exporting invoices for the first time you need to export your **Dentists**.
 
@@ -18,7 +18,7 @@ Before exporting invoices for the first time you need to export your **Dentists*
 
 * Locate the file on your PC and Import into Sage.
 
-##### Exporting Invoices
+#### Exporting Invoices
 
 * Open **Invoice Export** from the content bar in Labtrac
 
