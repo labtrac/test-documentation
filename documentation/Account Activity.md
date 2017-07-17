@@ -1,4 +1,10 @@
-#Account Activity
+---
+layout: article
+title: Invoicing and Statements
+markdownpage: true
+---
+
+# Account Activity
 
 **Account Activity** allows you to see a complete overview of any of your Dentists Accounts.
 
