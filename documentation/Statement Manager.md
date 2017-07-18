@@ -19,4 +19,6 @@ To produce your statements please follow these steps:
 
 * Select **Preview** to view statements or **Print** to print without a preview
 
-NOTE: To email statements please see **Labtrac CRM** *(link)*
+>**Note**
+>
+>To email statements please see **Labtrac CRM** # *(link)*
