@@ -11,7 +11,7 @@ To produce your statements please follow these steps:
 
 * Choose the type of statement you wish to produce.
 
->**Remember**
+>**Note**
 >
 > If you used consolidated invoicing **Grouped** will just show the monthly value for each consolidated invoice. **Itemised** will show a line for each job.
 
