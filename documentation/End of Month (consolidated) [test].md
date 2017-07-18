@@ -8,7 +8,7 @@ markdownpage: true
 
 To run your end of month tasks for consolidated invoices please follow these steps.
 
->**Tip**
+>**Note**
 >
 >Make sure all jobs for the month are complete at this point and that you will not be completing any more jobs until the next calendar month.
 
