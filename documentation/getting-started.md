@@ -88,7 +88,7 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 <a class="offset" name="1.4"></a>
 <a name="Adding a Dentist"></a>	
 
-### Adding a Dentist
+## Adding a Dentist
 
 To add a new Dentist, click **Dentist** in the contents bar then **Add F2** at the top of the Labtrac screen. 
 
@@ -170,7 +170,7 @@ The Dentist is ready to be entered by clicking OK.
 <a class="offset" name="1.5"></a>
 <a name="AddingProducts"></a>
 
-### Adding Products
+## Adding Products
 
 To add a new Product click **Products** in the contents bar then **Add F2** at the top of the Labtrac screen.
 
@@ -226,7 +226,7 @@ If you wish to charge tax on a material enter the amount (in %) that you wish to
 <a class="offset" name="1.6"></a>
 <a name="AddingMaterials></a>
 
-### Adding Materials
+## Adding Materials
 
 Go to **Materials** in the Contents bar then, **'Add F2'** at the top of the Labtrac screen.
 
@@ -253,7 +253,7 @@ You also have the option of adding a nominal code (for use with external account
 <a class="offset" name="1.7"></a>
 <a name="EnteringJobs"></a>
 
-### Entering Jobs
+## Entering Jobs
 
 To add a new job click on **Live Jobs** in the contents bar then **Add F2** to open the Job entry screen.
 
