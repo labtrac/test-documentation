@@ -226,7 +226,7 @@ If you wish to charge tax on a material enter the amount (in %) that you wish to
 - - - 
 
 <a class="offset" name="1.6"></a>
-<a name="AddingMaterials></a>
+<a name="AddingMaterials"></a>
 
 ## Adding Materials
 
