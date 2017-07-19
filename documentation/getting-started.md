@@ -25,7 +25,9 @@ If you wish to add personlised users go to **User Manager**
 Now you have Labtrac set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
 <a name = "Price Lists">
+
 ### Price Lists
+
 </a>
 
 It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering a Dentist you will need to know which price list the dentist is on and when entering products and materials you will need to know the price for every price list you use.
