@@ -25,12 +25,12 @@ If you wish to add personlised users go to **User Manager**
 Now you have Labtrac set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
 
-<a name="PriceLists"></a>
+	<a name="PriceLists"></a>
 ### Price Lists
 
 It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering a Dentist you will need to know which price list the dentist is on and when entering products and materials you will need to know the price for every price list you use.
 
-
+	<a name="DentistCodes"></a>
 ### Dentist Codes
 	
 
@@ -44,11 +44,10 @@ EG.
 * WRIG01 - Owen Wright
 * WRIG02 - Michael Wright
 
-	<a name = "Product Codes">
-
+	<a name="ProductCodes"></a>
 ### Product Codes
 	
-	</a>
+	
 
 When setting up product codes in Labtrac there are a few things to bear in mind;
 
