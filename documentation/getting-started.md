@@ -17,6 +17,7 @@ If you wish to add personlised users go to **User Manager**
 
 <a class="offset" name="1.2"></a>
 <a name="DataBuild"></a>
+
 # Data Build
 
 ### Things to Consider Before Getting Started
@@ -24,11 +25,13 @@ If you wish to add personlised users go to **User Manager**
 Now you have Labtrac set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
 <a name="PriceLists"></a>
+
 ### Price Lists
 
 It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering a Dentist you will need to know which price list the dentist is on and when entering products and materials you will need to know the price for every price list you use.
 
 <a name="DentistCodes"></a>
+
 ### Dentist Codes
 
 Every dentist in Labtrac needs a unique code. If you already haev a coding system in place then you can carry on with that. If not we recommend using the first 4 letters of the surname followed by 01 (in case of duplicates then 02, 03, 04 etc).
@@ -41,6 +44,7 @@ EG.
 * WRIG02 - Michael Wright
 
 <a name="ProductCodes"></a>
+
 ### Product Codes
 	
 When setting up product codes in Labtrac there are a few things to bear in mind;
@@ -52,6 +56,7 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 	* **PBC-P** for (Private) Porcelain Bonded Crown
 
 <a name ="DeliveryMethods"></a>	
+
 ### Delivery Methods
 
 * To set up how the dentists recieve the work open **Delivery Details** from the content bar on the left side of the screen.
@@ -72,8 +77,8 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 
 
 <a class="offset" name="1.4"></a>
-
 <a name="Adding a Dentist"></a>	
+
 # Adding a Dentist
 
 To add a new Dentist first, click **Dentist** in the contents bar then **Add F2** at the top of the Labtrac screen. 
@@ -107,6 +112,7 @@ The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#V
 
 * * *
 <a name="Analysis"></a>
+
 ### Analysis + Prefs
 
 Here you can enter any preferences a dentist may have. This will show on the job details page as well as on the job ticket.
@@ -122,6 +128,7 @@ If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice N
 
 ***
 <a name="Financial"></a>
+
 ### Financial
 
 
@@ -134,6 +141,7 @@ If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice N
 
 ***
 <a name="Email"></a>
+
 ### Email
 
 Enter the dentist’s email address. If there is more than one email address enter a semi-colon, then a space before typing the next email. (eg. example@email.com; example2@email.com)
@@ -151,6 +159,7 @@ The Dentist is ready to be entered by clicking OK.
 ---
 <a class="offset" name="1.5"></a>
 <a name="AddingProducts"></a>
+
 # Adding Products
 
 To add a new Product click **Products** in the contents bar then **Add F2** at the top of the Labtrac screen.
@@ -202,6 +211,7 @@ If you wish to charge tax on a material enter the amount (in %) that you wish to
 
 <a class="offset" name="1.6"></a>
 <a name="AddingMaterials></a>
+
 # Adding Materials
 
 First go to **Materials** in the Contents bar then, **'Add F2'** at the top of the Labtrac screen.
@@ -228,6 +238,7 @@ You also have the option of adding a nominal code (for use with external account
 
 <a class="offset" name="1.7"></a>
 <a name="EnteringJobs"></a>
+
 # Entering Jobs
 
 To add a new job click on **Live Jobs** in the contents bar then **Add F2** to open the Job entry screen.
@@ -297,6 +308,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 
 <a name="StageWork"></a>
+
 ### Stage Work
 
 * Enter a job and fill out all the required information.
@@ -312,6 +324,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 Repeat these steps as many times as needed before finally completing the job as normal.
 
 <a name="SubContacting></a>
+
 ### Sub Contracting
 
 To Sub Contract a job, first you need to set up a list of **Sub-Contracters**. 
