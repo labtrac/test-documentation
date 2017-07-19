@@ -24,7 +24,6 @@ If you wish to add personlised users go to **User Manager**
 
 Now you have Labtrac set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
-[Price Lists]
 	
 ### Price Lists
 
