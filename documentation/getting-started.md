@@ -114,7 +114,7 @@ The first check box is **Invoiced** if the dentist is selected as the principal 
 If invoiced is selected - The associate receives and handles their own invoice. This means they pay their own account.
 If invoiced is NOT selected - The principal handles the associates invoices. The principal handles and pays the associate’s invoices.
 
-The next thing to look at is [Price Lists](#Price Lists) and [Volume Discount](#Volume Discount) make sure the dentist is selected on the correct list or discount.
+The next thing to look at is [Price Lists](#Price-Lists) and [Volume Discount](#Volume-Discount) make sure the dentist is selected on the correct list or discount.
 
 
 ![Adding a Dentist](/test-documentation/images/gs_2.png "Adding a Dentist"){: .center-block}
