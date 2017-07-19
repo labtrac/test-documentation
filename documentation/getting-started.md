@@ -111,7 +111,7 @@ Once the address is entered you can then choose from the invoicing options.
 
 The first check box is **Invoiced** if the dentist is selected as the principal this will be greyed out as a principal must be the one to receive their invoice. If the dentist is selected as an associate, then the invoiced box is optional.
 
---> Remember
+>**Remember**
 >
 > If invoiced is selected - The associate receives and handles their own invoice. This means they pay their own account.
 If invoiced is NOT selected - The principal handles the associates invoices. The principal handles and pays the associate’s invoices.
