@@ -25,7 +25,7 @@ If you wish to add personlised users go to **User Manager**
 Now you have Labtrac set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
 
-<a name="Price Lists"></a>
+<a name="PriceLists"></a>
 ### Price Lists
 
 It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering a Dentist you will need to know which price list the dentist is on and when entering products and materials you will need to know the price for every price list you use.
@@ -113,7 +113,7 @@ The first check box is **Invoiced** if the dentist is selected as the principal 
 If invoiced is selected - The associate receives and handles their own invoice. This means they pay their own account.
 If invoiced is NOT selected - The principal handles the associates invoices. The principal handles and pays the associate’s invoices.
 
-The next thing to look at is [Price Lists](#Price-Lists) and [Volume Discount](#Volume-Discount) make sure the dentist is selected on the correct list or discount.
+The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#VolumeDiscount) make sure the dentist is selected on the correct list or discount.
 
 
 ![Adding a Dentist](/test-documentation/images/gs_2.png "Adding a Dentist"){: .center-block}
