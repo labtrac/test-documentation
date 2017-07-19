@@ -5,6 +5,8 @@ markdownpage: true
 ---
 # Getting Started
 
+- - -
+
 ## Access to Labtrac
 
 Open Labtrac.
