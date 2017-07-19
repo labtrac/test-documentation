@@ -24,11 +24,15 @@ If you wish to add personlised users go to **User Manager**
 
 Now you have Labtrac set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
+- - - 
+
 <a name="PriceLists"></a>
 
 ### Price Lists
 
 It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering a Dentist you will need to know which price list the dentist is on and when entering products and materials you will need to know the price for every price list you use.
+
+- - - 
 
 <a name="DentistCodes"></a>
 
@@ -43,6 +47,8 @@ EG.
 * WRIG01 - Owen Wright
 * WRIG02 - Michael Wright
 
+- - - 
+
 <a name="ProductCodes"></a>
 
 ### Product Codes
@@ -54,6 +60,8 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 	* **PBC-N** for (NHS) Porcelain Bonded Crown
 	* **PBC-I** for (Independent) Porcelain Bonded Crown
 	* **PBC-P** for (Private) Porcelain Bonded Crown
+
+- - - 
 
 <a name ="DeliveryMethods"></a>	
 
@@ -75,6 +83,7 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 
 ![Delivery Method Video](/test-documentation/image\Delivery Method.PNG)
 
+- - - 
 
 <a class="offset" name="1.4"></a>
 <a name="Adding a Dentist"></a>	
@@ -110,7 +119,7 @@ The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#V
 
 ![Adding a Dentist](/test-documentation/images/gs_2.png "Adding a Dentist"){: .center-block}
 
-* * *
+***
 <a name="Analysis"></a>
 
 ### Analysis + Prefs
@@ -123,9 +132,6 @@ Analysis codes can be used for anything you like and are set up by yourself *lin
 
 If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice Number and Dentist GDC number. This is where our corporate invoicing module will pull all the relevant information from.
 
-
-
-
 ***
 <a name="Financial"></a>
 
@@ -137,7 +143,6 @@ If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice N
 **Volume Discount** - you can set the % discount for the dentist (until discount is re calculated. here)
 
 **Settlement Details** - Enter the % discount you would like to apply. The days in which they must pay to receive the discount. The terms in writing to appear on the document.
-
 
 ***
 <a name="Email"></a>
@@ -154,9 +159,8 @@ Finally select the documents that you wish to send by email.
 
 The Dentist is ready to be entered by clicking OK.
 
+- - -
 
-***
----
 <a class="offset" name="1.5"></a>
 <a name="AddingProducts"></a>
 
@@ -209,6 +213,8 @@ If you wish to charge tax on a material enter the amount (in %) that you wish to
 
 ![Delivery Method Video](C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Adding a Product.mp4)
 
+- - - 
+
 <a class="offset" name="1.6"></a>
 <a name="AddingMaterials></a>
 
@@ -235,6 +241,7 @@ You also have the option of adding a nominal code (for use with external account
 
 # (VIDEO)
 
+- - -
 
 <a class="offset" name="1.7"></a>
 <a name="EnteringJobs"></a>
