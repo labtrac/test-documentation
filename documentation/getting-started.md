@@ -11,7 +11,7 @@ Open Labtrac.
 
 The Username and Password will both be 'sys' by default. 
 
-If you wish to add personlised users go to **User Manager**
+If you wish to add personlised users go to [User Manager](#UserManager)
 
 ![Adding a Dentist](/test-documentation/imageSign In.PNG)
 
@@ -30,7 +30,7 @@ Now you have Labtrac set up, you will need to enter all required data (Dentists,
 
 ### Price Lists
 
-It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering a Dentist you will need to know which price list the dentist is on and when entering products and materials you will need to know the price for every price list you use.
+It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering a Dentist you will need to know which price list each dentist is on and when entering products and materials you will need to know the price for every price list you use.
 
 - - - 
 
@@ -38,7 +38,7 @@ It is important that before you start entering any information you have in mind 
 
 ### Dentist Codes
 
-Every dentist in Labtrac needs a unique code. If you already haev a coding system in place then you can carry on with that. If not we recommend using the first 4 letters of the surname followed by 01 (in case of duplicates then 02, 03, 04 etc).
+Every dentist in Labtrac needs a unique code. If you already have a coding system in place then you can carry on with that. If not we recommend using the first 4 letters of the surname followed by 01 (in case of duplicates then 02, 03, 04 etc).
 
 Labtrac allows a dentist code of up to 8 characters.
 
@@ -90,9 +90,9 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 
 # Adding a Dentist
 
-To add a new Dentist first, click **Dentist** in the contents bar then **Add F2** at the top of the Labtrac screen. 
+To add a new Dentist, click **Dentist** in the contents bar then **Add F2** at the top of the Labtrac screen. 
 
-This will open a new window where you can enter a **Dentist Code** and **Dentist Name**. To see our recommended coding system please click 'here'.
+In the new window enter a **Dentist Code** and **Dentist Name**. To see our recommended coding system please see [Product Codes](#ProductCodes).
 
 ![Adding a Dentist](/test-documentation/images/gs_1.png "Adding a Dentist"){: .center-block}
 
@@ -101,9 +101,9 @@ Once you have entered a code and name click **'Add'**
 
 This will open the dentist details page.
 
-Select whether the dentist is the principal or an associate. If the dentist is selected as the principal this means they receive all their own invoices and handle their own account. If they are selected as an associate you can select whether to invoice the principal or associate.
+First select whether the dentist is the principal or an associate. If the dentist is selected as the principal this means they receive all their own invoices and handle their own account. If they are selected as an associate you can select whether to invoice the principal or associate. 
 
-Next you can enter an address. The first address being the practice address and the 2nd the invoicing address. If these are the same, you can use the copy address button once you have entered the practice address.
+Enter an address. The first address being the practice address then the invoicing address. If these are the same, you can use the copy address button once you have entered the practice address.
 
 (If the dentist is selected as an associate you can use the **copy address** button next to the principal’s name to copy their address into all address fields).
 
@@ -111,7 +111,9 @@ Once the address is entered you can then choose from the invoicing options.
 
 The first check box is **Invoiced** if the dentist is selected as the principal this will be greyed out as a principal must be the one to receive their invoice. If the dentist is selected as an associate, then the invoiced box is optional.
 
-If invoiced is selected - The associate receives and handles their own invoice. This means they pay their own account.
+-->Remember
+>
+> If invoiced is selected - The associate receives and handles their own invoice. This means they pay their own account.
 If invoiced is NOT selected - The principal handles the associates invoices. The principal handles and pays the associate’s invoices.
 
 The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#VolumeDiscount) make sure the dentist is selected on the correct list or discount.
