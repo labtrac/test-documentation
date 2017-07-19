@@ -6,8 +6,12 @@ markdownpage: true
 # Getting Started
 
 ## Access to Labtrac
-Clicking the Labtrac icon on the desktop will bring up the sign on screen. Enter your username and password.
-By default both these fields are set to ‘sys’.
+
+Open Labtrac.
+
+The Username and Password will both be 'sys' by default. 
+
+If you wish to add personlised users go to **User Manager**
 
 ![Adding a Dentist](/test-documentation/imageSign In.PNG)
 
@@ -20,11 +24,15 @@ By default both these fields are set to ‘sys’.
 
 Now you have Labtrac set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
+<a name = "Price Lists">
 ### Price Lists
+</a>
 
 It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering a Dentist you will need to know which price list the dentist is on and when entering products and materials you will need to know the price for every price list you use.
 
+<a name = "Dentist Codes">
 ### Dentist Codes
+</a>
 
 Every dentist in Labtrac needs a unique code. If you already haev a coding system in place then you can carry on with that. If not we recommend using the first 4 letters of the surname followed by 01 (in case of duplicates then 02, 03, 04 etc).
 
@@ -35,8 +43,9 @@ EG.
 * WRIG01 - Owen Wright
 * WRIG02 - Michael Wright
 
-
+<a name = "Product Codes">
 ### Product Codes
+</a>
 
 When setting up product codes in Labtrac there are a few things to bear in mind;
 
@@ -46,7 +55,9 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 	* **PBC-I** for (Independent) Porcelain Bonded Crown
 	* **PBC-P** for (Private) Porcelain Bonded Crown
 
+<a name = "Delivery Methods">
 ### Delivery Methods
+</a>
 
 * To set up how the dentists recieve the work open **Delivery Details** from the content bar on the left side of the screen.
 
@@ -67,9 +78,9 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 
 <a class="offset" name="1.4"></a>
 
-
+<a name = "Adding a Dentist">
 # Adding a Dentist
-
+</a>
 
 To add a new Dentist first, click **Dentist** in the contents bar then **Add F2** at the top of the Labtrac screen. 
 
@@ -95,7 +106,7 @@ The first check box is **Invoiced** if the dentist is selected as the principal 
 If invoiced is selected - The associate receives and handles their own invoice. This means they pay their own account.
 If invoiced is NOT selected - The principal handles the associates invoices. The principal handles and pays the associate’s invoices.
 
-The next thing to look at is **Price List** *link* and **Volume Discount** *link* make sure the dentist is selected on the correct list or discount.
+The next thing to look at is *[Price Lists](#Price Lists)* and *[Volume Discount](#Volume Discount)* make sure the dentist is selected on the correct list or discount.
 
 
 ![Adding a Dentist](/test-documentation/images/gs_2.png "Adding a Dentist"){: .center-block}
