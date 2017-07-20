@@ -12,6 +12,7 @@ Thank you for choosing Labtrac and welcome to the Labtrac family of over 200 Lab
 
 This document provides a guide to implementating Labtrac, covering the sequence of events and particularly what you will need to prepare for.
 
+<a name="LabtracSupport"></a>
 
 Some contact numbers that you may find useful:
 
