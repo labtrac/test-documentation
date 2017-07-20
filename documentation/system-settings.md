@@ -74,6 +74,8 @@ The options are;
 
 If these are not selected you will receive a prompt on completion asking if you wish to print any of the above documents.
 
+- - - 
+
 <a class="offset" name="2.3"></a>
 <a name="Dentist"></a>
 ## Dentist
@@ -100,6 +102,7 @@ If these are not selected you will receive a prompt on completion asking if you 
 >**Remember**
 >
 >The value exported to an external accounts package will be the gross value.
+{: .alert.alert-info}
 
 <a name="Analysis"></a>
 + **Analysis**
@@ -109,6 +112,7 @@ If these are not selected you will receive a prompt on completion asking if you 
 >**Remember**
 >
 >If you do work for MyDentist Analysis box 4 and 5 must be set to MyDentist Lab ID and Dentist GDC number respectivley.
+{: .alert.alert-info}
 
 + **Nominal Code**
 
@@ -198,6 +202,7 @@ Enter any information that you would like to be included in the footnotes of a d
 >**Remember**
 >
 >CTRL + Enter will give you a new line.
+{: .alert.alert-info}
 
 - - - 
 
