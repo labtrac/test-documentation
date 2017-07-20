@@ -16,7 +16,6 @@ This document provides a guide to implementating Labtrac, covering the sequence 
 Some contact numbers that you may find useful:
 
 **Labtrac Support/Sales - +44 3333 449 970**
-***(all calls charged at local rate)***
 
 Labtrac support is availible 9:00 to 5:30 Monday to Thursday and 9:00 to 5:00 on Fridays, excluding bank holidays.
 
