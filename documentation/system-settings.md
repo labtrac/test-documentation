@@ -17,7 +17,7 @@ In the new window there will be 7 tabs.
 - - -
 
 <a class="offset" name="2.1"></a>
-<a name="LabDetails></a>
+<a name="LabDetails"></a>
 ### Lab Details
 
 **Lab Details** will hold all the Lab information. The **Name**, **Address**, **Phone Number**, and **MHRA Number**. 
