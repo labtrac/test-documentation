@@ -7,7 +7,7 @@ markdownpage: true
 
 
 
-Thank you for choosing Labtrac and welcome to the Labtrac family of over 200 Laboratories in the UK who have run their systems successfully over the last 20 years.
+Thank you for choosing Labtrac and welcome to the Labtrac family of over 200 Laboratories who have run their systems successfully over the last 20 years.
 
 
 This document provides a guide to implementating Labtrac, covering the sequence of events and particularly what you will need to prepare for.
@@ -50,4 +50,4 @@ To install TeamViewer please follow these steps.
 
 * This Process will take 4 or 5 minutes for each PC.
 
-Once the TeamViewer link is available, the Labtrac Support Team can then proceed to install the latest Labtrac version on your PC and this will take around 20-30 minutes depending on broadband speeds and the modules that you have taken.
+Once the TeamViewer link is available, the Labtrac Support Team can then proceed to install the latest Labtrac version on your PC and this will take around 20-30 minutes depending on internet speeds and the modules that you have taken.
