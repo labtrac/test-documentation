@@ -54,7 +54,7 @@ The options are;
 
 - *Apply Discount to Jobs* - With this selected any volume discounts entered will be applied on your jobs.
 
-- *Print Prices on Delivery Notes* - Using this you can select wether or not prices are shown on the **Delivery Notes**
+- *Print Prices on Delivery Notes* - Using this you can select whether or not prices are shown on the **Delivery Notes**
 
 - *Print Delivery Note on A5 Paper* - Using this you can to print on A5 paper rather than the default A4.
 
@@ -62,6 +62,17 @@ The options are;
 
 - *Export to External Accounts* - Select here if you wish to export your invoices to an external accounts package. (Sage, Xero and Quickbooks Online are currently supported, if you have another accounts system that you would like integrated please contact [Labtrac Support](#LabtracSupport)
 
+#### Printing
+
+- *Print Invoice* - If selected an **Invoice** will automatically print when a job is completed.
+
+- *Print Delivery Note* - If selected a **Delivery Note** will automatically print when a job is completed.
+
+- *Print Patient Statement* - If selected a **Patient Statement** will automatically print when a job is completed
+
+- *On Approval Notes* - If selected an **On Approval Note** will automatically print when a job is sent out on approval. See [Stage Work](#StageWork).
+
+If these are not selected you will receive a prompt on completion asking if you wish to print any of the above documents.
 
 <a class="offset" name="2.3"></a>
 <a name="Dentist"></a>
@@ -86,7 +97,18 @@ The options are;
 
 	- If this is set to **NO** the discount will not be shown on the invoice.
 
-***NOTE:***  *The value exported to an external accounts package will be the gross value.*
+>**Remember**
+>
+>The value exported to an external accounts package will be the gross value.
+
+<a name="Analysis"></a>
++ **Analysis**
+
+	- The analysis boxes can be set to whatever you like. *EG. Sales Area, Run Sequence etc.
+	
+>**Remember**
+>
+>If you do work for MyDentist Analysis box 4 and 5 must be set to MyDentist Lab ID and Dentist GDC number respectivley.
 
 + **Nominal Code**
 
@@ -100,6 +122,7 @@ The options are;
 
 	- **Terms** - The payment terms to be shown on the invoice.
 
+<a name="SettlementDetails"></a>
 + **Settlement Details** 
 
 	- The default details entered in this section will be placed on any new Dentist record automatically. They can then be amended on the Dentist Details page as required.
@@ -107,7 +130,10 @@ The options are;
 	- **Days** - The number of days withinwhich the settlement discount will apply.
 
 	- **Terms** - The settlement terms to be shown on the invoice.
-
+	
++ **Contact**
+	
+	- The Contact fields can be set to record any information you like. Box 1 and 2 are set up for you, the rest are free form boxes to be filled in.
 
 <a class="offset" name="2.4"></a>
 
@@ -133,7 +159,7 @@ The Laboratory's bank details can be added here but these details are **not used
 
 + **Account Name**
 
-	- The name of the Laboratory's bank accouny.
+	- The name of the Laboratory's bank account.
 
 + **Export Accounts To**
 
@@ -152,15 +178,20 @@ The Laboratory's bank details can be added here but these details are **not used
 	- This field cannot be amended, it displays the last financial number.
 
 <a class="offset" name="2.5"></a>
-
+<a name="OrderEnclosures"></a>
 ## Order Enclosures
-{content pending}
 
+Here you can enter anything you may receive with a job. You can then log what you have received with a case when entering the job.
 
 <a class="offset" name="2.6"></a>
-
+<a name="Footnotes"></a>
 ## Footnotes
-{content pending}
+
+Enter any information that you would like to be included in the footnotes of a document.
+
+>**Remember**
+>
+>CTRL + Enter will give you a new line.
 
 <a class="offset" name="2.7"></a>
 
