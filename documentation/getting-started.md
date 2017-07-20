@@ -117,6 +117,7 @@ The first check box is **Invoiced** if the dentist is selected as the principal 
 >
 > If invoiced is selected - The associate receives and handles their own invoice. This means they pay their own account.
 If invoiced is NOT selected - The principal handles the associates invoices. The principal handles and pays the associate’s invoices.
+{: .alert.alert-info}
 
 The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#VolumeDiscount) make sure the dentist is selected on the correct list or discount.
 
@@ -163,7 +164,8 @@ Select the documents that you wish to send by email.
 
 >**Remember**
 >
->If a document is selected to be emailed it will no longer appear in the printable lists).
+>If a document is selected to be emailed it will no longer appear in the printable lists.
+{: .alert.alert-info}
 
 The Dentist is ready to be entered by clicking OK.
 
@@ -210,6 +212,7 @@ Select whether or not a tooth shade, stump shade or tooth mould are required.
 >**Remember**
 >
 >If you select the product as requiring a shade Labtrac wont allow you to enter a job without this information. If you leave these boxes unchecked you still have the option to enter this information on a job, however, it is not mandatory.
+{: .alert.alert-info}
 
 If the procuct always requires a material tick the **Record Material** box and selecting the material from the dropdown menu. When you then add that material to a job, Labtrac will automatically add the selected Material.
 
@@ -296,7 +299,7 @@ You can attach images in a job in **Images**
 >**Remember**
 >
 >Its not just images you can add to the job using the **Image** section. You can also add PDF's and more.
-
+{: .alert.alert-info}
 
 It will ask if you wish to create an image folder. Click yes.
 
