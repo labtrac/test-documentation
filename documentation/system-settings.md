@@ -3,51 +3,69 @@ layout: article
 title: System Settings
 markdownpage: true
 ---
-# System Settings
+# Settings & More
 
-System settings are used to customise the way Labtrac will work for you. This section outlines the different settings that can be used and the effect they will have on the way Labtrac will work. These can be accessed by double clicking System Parameters under the System Utilities tab in the content bar.
+<a name="SystemSettings"></a>
+## System Settings
+
+System settings are used to customise the way Labtrac will work for you. This section outlines the different settings that can be used and the effect they will have on the way Labtrac will work. These can be accessed by double clicking System Settings in the content bar.
+
+In the new window there will be 7 tabs.
+
+[Lab Details](#LabDetails), [System Options](#SystemOptions), [Dentist](#Dentist), [Financial](#Financial), [Order Enclosures](#OrderEnclosures), [Footnotes](#Footnotes), [Custom Reports](#CustomReports).
+
+- - -
 
 <a class="offset" name="2.1"></a>
+<a name="LabDetails></a>
+### Lab Details
 
-## Lab Details
+**Lab Details** will hold all the Lab information. The **Name**, **Address**, **Phone Number**, and **MHRA Number**. 
 
-+ **Lab Name** - Maximum of 50 characters - used on screens and optionally on external documents.
+It will also show the **Last Order Number** and **Last Delivery Number**. You can change these if necessary.
 
-
-+ **Lab Address** - used on Delivery Notes and Invoices. When filling out this field remember to use **CTRL + ENTER** keys together to create a new line.
-
-
-+ ***MHRA* Number** - The number provided by MHRA qualified labs. This appears on all documentation.
-
-
-+ **Last Order Number** - a numeric or alphanumeric field of up to 10 characters. The numeric part will be incremednted each time an order is processed. By default it will start at ***J00001***.
-
-
-+ **Last Delivery Number** - a numeric or alphanumeric field of up to 10 characters. The numeric part will be incremented each time a delivery note is produced. By Default it will start ***D00001***.
-
-
-+ **Last Purchase Number** - a numeric or alphanumeric field of up to 10 characters. The numeric part will be incremented each time a purchase order is produced. By Default it will start ***P00001***.
+- - -
 
 <a class="offset" name="2.2"></a>
+<a name="SystemOptions"></a>
+### System Options
 
-## System Options
+#### Order 
 
-+ Order
+Using the Order section you can set your default options for when you are entering a job.
 
-	- *Include Bin No* -  if checked Labtrac won't allow you to enter a job without entering a Bin Number (Pan Number).
+The options are;
 
-	- *Check if Patient is Already on the System* - 
+- *Include Pan No* -  if checked Labtrac won't allow you to enter a job without entering a **Pan Number**.
 
-	- *Price Final Stage Only* - 
+- *Check if Patient is Already on the System* - If the patient name, that you are entering, is already on the system for the same Dentist **Labtrac** will prompt you to view the previous case before you **Launch** the job. 
 
-	- *Job Ticket by Batch* -
+- *Price Final Stage Only* - If this is selected when entering [Stage Work](#StageWork) **Labtrac** will ignore the prices on all but the last stage.
 
-	- *Disable Work Ticket Prompt* -
+- *Job Ticket by Batch* - NEED TO ENTER
+
+- *Disable Work Ticket Prompt* - Disables the prompt to print a work ticket when you **Launch** a job.
+
+#### Invoicing
+
+Using the Invoicing section you can set your default invoicing options.
+
+The options are;
+
+- *Apply Discount to Jobs* - With this selected any volume discounts entered will be applied on your jobs.
+
+- *Print Prices on Delivery Notes* - Using this you can select wether or not prices are shown on the **Delivery Notes**
+
+- *Print Delivery Note on A5 Paper* - Using this you can to print on A5 paper rather than the default A4.
+
+- *Print Invoice on A5 Paper* - Using this you can to print on A5 paper rather than the default A4
+
+- *Export to External Accounts* - Select here if you wish to export your invoices to an external accounts package. (Sage, Xero and Quickbooks Online are currently supported, if you have another accounts system that you would like integrated please contact [Labtrac Support](#LabtracSupport)
 
 
 <a class="offset" name="2.3"></a>
-
-## Dentist Defaults
+<a name="Dentist"></a>
+## Dentist
 
 + **Invoice on Delivery** 
 
