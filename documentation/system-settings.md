@@ -134,6 +134,8 @@ If these are not selected you will receive a prompt on completion asking if you 
 + **Contact**
 	
 	- The Contact fields can be set to record any information you like. Box 1 and 2 are set up for you, the rest are free form boxes to be filled in.
+	
+- - -
 
 <a class="offset" name="2.4"></a>
 
@@ -176,12 +178,16 @@ The Laboratory's bank details can be added here but these details are **not used
 + **Last Transaction Number**
 
 	- This field cannot be amended, it displays the last financial number.
+	
+- - -
 
 <a class="offset" name="2.5"></a>
 <a name="OrderEnclosures"></a>
 ## Order Enclosures
 
 Here you can enter anything you may receive with a job. You can then log what you have received with a case when entering the job.
+
+- - -
 
 <a class="offset" name="2.6"></a>
 <a name="Footnotes"></a>
@@ -193,20 +199,44 @@ Enter any information that you would like to be included in the footnotes of a d
 >
 >CTRL + Enter will give you a new line.
 
-<a class="offset" name="2.7"></a>
+- - - 
 
+<a name="CustomReports"></a>
+## Custom Reports
+
+Custom Reports gives you an alternative version of anyone of our reports. We reccomend speaking to [Labtrac Support](#LabtracSupport) before using these.
+
+- - -
+
+<a class="offset" name="2.7"></a>
+<a name="UserManager"></a>
 ## User Manager
 
-The User Manager is used to set up and manage individual log-ins for users of Labtrac. 
+---
 
-+ To add a new user, double-click on *User Manager* in the contents bar. That will open a new window in which you will see all the current users listed.
+The **User Manager** allows you to set up accounts for different members of staff with different levels of security. Allowing them to see as much or as little information as you like.
 
-+ Click *Add* to bring up a *User Details* Page. Fill the boxes with the correct infomation and click *OK*.
+To set up a new user follow these steps:
 
-**NOTE: Security level is on a numerical scale from 1-9.**
+* Open **User Manager** from the contents bar
 
-+ 1 will only allow a user to input jobs. They wont be able to see prices for anything.
+* Click **Add**
 
-+ 5 allows a user to view and enter jobs, products and dentists as well as see any reports that a user with a higher security level allows. 
+* Enter **Name**, **Initials**, **Security Level** (see below), and **Password**
 
-+ 9 is full access.
+* Click **Ok**
+
+This user is now set up and can log onto Labtrac using their **Username** and **Password**.
+
+<a name="SecurityLevels"></a>
+### Security Levels
+
+1 - Can only add, amend and complete **Jobs** (No financial information shown)
+
+3 - Can only add, amend and complete **Jobs** (Financial information shown)
+
+5 - Can add **Jobs**, **Products**, **Materials** and **Dentists**. No access to financial information (**Invoices**, **Statements**, **Payments** etc). Cannot delete **Dentist**/**Products**/**Materials**
+
+7 - Access to all information with the exception of **System Settings** and **User Manager**
+
+9 - **System Administrator** with total access
