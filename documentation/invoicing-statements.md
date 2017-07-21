@@ -48,7 +48,7 @@ To produce your statements please follow these steps:
 
 >**Note**
 >
->To email statements please see **Labtrac CRM** # *(link)*
+>To email statements please see [Labtrac CRM](#CRM)
 
 - - -
 	
