@@ -151,11 +151,11 @@ To Email Invoices, Statments, Patient Statments or Delivery Notes:
 
 + Once the **Backup Module** has been installed on your PC all you need to do to back up your data is click **YES** to the box asking if you would like to back up when closing **Labtrac** down. 
 
-This will run a Backup procedure.
++ This will run a Backup procedure.
 
-You should then see *Upload Succesful*. 
++ You will then see *Upload Succesful*. 
 
-This message will then close and the upload is complete.
++ This message will then close and the upload is complete.
 
 
 
