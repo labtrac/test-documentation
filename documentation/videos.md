@@ -16,7 +16,7 @@ markdownpage: true
 
 ### Adding Materials
 
-<iframe width="720" height="480" autostart="0" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Material%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="480" autostart="0" autoplay="0" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Material%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
 
 - - - 
 
