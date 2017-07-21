@@ -222,6 +222,8 @@ If you wish to charge tax on a material enter the amount (in %) that you wish to
 
 ![Adding a Product](/test-documentation/images/ap_2.png "Adding a Product"){: .center-block}
 
+![Adding a Product Video](https://labtracdownloads.blob.core.windows.net/media/adding%20a%20product.m4v){: .center-block}
+
 
 
 ![Delivery Method Video](C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Adding a Product.mp4)
