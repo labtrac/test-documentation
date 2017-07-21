@@ -28,7 +28,7 @@ markdownpage: true
 
 ### Stage Work
 
-<iframe width="720" height="480" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Stage%20Work%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
+<iframe width="680" height="400" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Stage%20Work%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
 
 - - - 
 
