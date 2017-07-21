@@ -83,7 +83,7 @@ If you wish to bring an outstanding balance on an account into Labtrac you can *
 
 ***
 <a name="Consolidated"></a>
-# End of Month (Consolidated Invoices)
+### Consolidated Invoices
 
 To run your end of month tasks for consolidated invoices please follow these steps.
 
@@ -144,6 +144,8 @@ To Email Invoices, Statments, Patient Statments or Delivery Notes:
 - - -
 <a name="Backup"></a>
 ### Backup
+
+- - - 
 
 **Backup** is a program that backs up all of your Data to Labtrac's secure Cloud Server at the click of a button.
 
