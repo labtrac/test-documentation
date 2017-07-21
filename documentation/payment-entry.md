@@ -29,8 +29,7 @@ Then go through and tick every invoice in the list which the payment covers. If 
 
 ![Payment Entry](../images/pe_2.PNG "Payment Entry"){: .center-block.img-responsive}
 
-
-(Link)Here is a video of these steps.
+<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Payment%20Entry%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
 
 <a class="offset" name="4.2"></a>
 
@@ -57,3 +56,5 @@ To reverse a payment:
 ![Reversing a Payment](../images/pe_5.PNG "Reversing a Payment"){: .center-block.img-responsive}
 
 Your invoice will now appear again in **Payment Entry**
+
+<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Reversing%20a%20Payment%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
