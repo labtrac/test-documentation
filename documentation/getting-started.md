@@ -223,7 +223,7 @@ If you wish to charge tax on a material enter the amount (in %) that you wish to
 ![Adding a Product](/test-documentation/images/ap_2.png "Adding a Product"){: .center-block}
 
 
-<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Product%20(Export%203).m4v" frameborder="1" allowfullscreen></iframe>
+<iframe width="720" height="480" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Product%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
 
 - - - 
 
