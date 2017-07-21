@@ -13,6 +13,14 @@ markdownpage: true
 <iframe width="1280" height="720" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Product%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
 
 - - - 
+- - - 
+- - - 
+
+<video width="720" height="400" controls>
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Product%20(Export%203).m4v" type="video/mp4">
+</video>
+
+- - - 
 
 ### Adding Materials
 
