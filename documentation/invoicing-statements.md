@@ -49,6 +49,7 @@ To produce your statements please follow these steps:
 >**Note**
 >
 >To email statements please see [Labtrac CRM](#CRM)
+{: .alert.alert-info}
 
 - - -
 	
@@ -90,6 +91,7 @@ To run your end of month tasks for consolidated invoices please follow these ste
 >**Remember**
 >
 >Make sure all jobs for the month are complete at this point and that you will not be completing any more jobs until the next calendar month.
+{: .alert.alert-info}
 
 * Open **Invoice Manager** from the contents bar
 
