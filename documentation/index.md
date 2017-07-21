@@ -32,7 +32,7 @@ You can also use;
 
 <a class="offset" name="#0.1"></a>
 
-# Labtrac Installation
+## Labtrac Installation
 
 When we need to Install Labtrac, carry out any training or resolve any issues we use TeamViewer. TeamViewer is a piece of software that allows us to remotely access your system, with your permission.
 
