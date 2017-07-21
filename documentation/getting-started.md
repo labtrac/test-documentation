@@ -223,7 +223,9 @@ If you wish to charge tax on a material enter the amount (in %) that you wish to
 ![Adding a Product](/test-documentation/images/ap_2.png "Adding a Product"){: .center-block}
 
 
-<iframe width="720" height="480" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Product%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
+<video width="720" height="400" controls>
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Product%20(Export%203).m4v" type="video/mp4">
+</video>{: .center-block}
 
 - - - 
 
@@ -250,7 +252,9 @@ You also have the option of adding a nominal code (for use with external account
 
 ![Adding a Material](/test-documentation/images/am_2.png "Adding a Material"){: .center-block}
 
-<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Material%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
+<video width="720" height="400" controls>
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Material%20(Export%203).m4v">
+</video>{: .center-block}
 
 - - -
 
@@ -331,7 +335,9 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 ![Adding a Job](/test-documentation/images/aj_6.png "Completing a Job"){: .center-block}
 
-<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Job%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
+<video width="720" height="400" controls>
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Job%20(Export%203).m4v">
+</video>{: .center-block}
 
 <a name="StageWork"></a>
 
@@ -349,7 +355,9 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 Repeat these steps as many times as needed before finally completing the job as normal.
 
-<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Stage%20Work%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
+<video width="720" height="400" controls>
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Stage%20Work%20(Export%203).m4v">
+</video>{: .center-block}
 
 <a name="SubContacting"></a>
 
