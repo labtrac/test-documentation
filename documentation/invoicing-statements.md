@@ -5,10 +5,14 @@ markdownpage: true
 ---
 # Invoicing and Statements
 
+- - -
+
 <a class="offset" name="3.1"></a>
 <a name="InvoiceList"></a>
 ## Invoice List
+
 ***
+
 The **Invoice List** gives you a comprehensive list of all Invoices ever produced. You are able to re-print or export *(as a PDF)* any of these invoices.
 
 Find and open an invoice you wish to print. Then select either the print icon or export.
@@ -16,8 +20,6 @@ Find and open an invoice you wish to print. Then select either the print icon or
 To export, click the envelope icon. Rename the Invoice, select the location you wish to save it to and click **Export**.
 
 - - - 
-
-***
 
 <a class="offset" name="3.2"></a>
 <a name="StatementManager"></a>
@@ -48,46 +50,62 @@ To produce your statements please follow these steps:
 >
 >To email statements please see **Labtrac CRM** # *(link)*
 
-
+- - -
 	
 <a class="offset" name="3.4"></a>
 <a name="AccountActivity"></a>
 ## Account Activity
 ***
 
-Where you are able to view the entire account history for any Dentist.
+**Account Activity** allows you to see a complete overview of any of your Dentists Accounts.
 
-+ Double click **Account Activity** to open.
+To access **Account Activity** follow these steps:
 
-+ Select the account you wish to view from the dropdown menu at the top of the screen then click **Refresh**.
+* Open **Account Activity** from the contents bar
 
-+ This will bring in all the financial information on that account.
+* Select the account you wish to view from the dropdown menu and click **Refresh**
 
-+ Invoices will show a balance in the **Credit List** and Payments will show in the **Debit List**. You can also see if any invoice has an outstanding balance by using the **Outstanding List**.
+* This will show you all **Invoices** *(paid and unpaid)*, **Payments**, **Credit Notes**, **Balances** and **Aged Debt**.
 
-+ At the bottom of the screen you can also view the **Aged Debt** for this account broken down month by month as well as the total account balance.
+You can also **Post a Balance** in **Account Activity**;
 
 <a name="PostingBalance"></a>
-### Posting a Balance
 
-If you are just setting up an account and would like to bring an outstanding balance into Labtrac you can do that here.
+If you wish to bring an outstanding balance on an account into Labtrac you can **Post a Balance**
 
-At the bottom off **Account Activity** you will see **Post a Balance**.
+* In the **Post a Balance** section enter a **Description, Amount and Date** then click **Post**. 
 
-+ Enter a Description, a Date and a Value and click post to enter a balance onto an account.
-
+- - -
 
 <a class="offset" name="3.5"></a>
 <a name="EndOfMonth"></a>
 ## End Of Month Guide
 
 ***
+<a name="Consolidated"></a>
+# End of Month (Consolidated Invoices)
 
-If you use Consolidated Monthly Invoices click HERE
+To run your end of month tasks for consolidated invoices please follow these steps.
 
-If you use Single Invoices click HERE
+>**Remember**
+>
+>Make sure all jobs for the month are complete at this point and that you will not be completing any more jobs until the next calendar month.
 
-If you use a mixture of both please follow the Consolidated Monthly Invoice guide HERE
+* Open **Invoice Manager** from the contents bar
+
+* Make sure the correct month is selected in the dropdown menu
+
+* Click **Data Integrity Check** *(this will make sure there have been no errors during the month)*. This will produce 3 reports all of which should be blank. If they are not blank please contact **Labtrac Support** #LINK
+
+* Click **Prepare**. This will start consolidating all of your invoices for the month. *If you have a lot of invoices for the month this process may take a few minutes.*
+
+*  To print Invoice click **Select All** then **Preview**. You can then print invoices from here.
+
+* To email invoice please see **Labtrac CRM** *#LINK*
+
+* Please follow these links for **Statements**, **Invoice Export**, **Payment Entry**
+
+- - - 
 
 <a class="offset" name="3.6"></a>
 
@@ -95,25 +113,33 @@ If you use a mixture of both please follow the Consolidated Monthly Invoice guid
 ## CRM Studio
 ***
 
-**CRM Studio**  is for email and corporate invoicing. 
+**CRM Studio**  is for email and MyDentist invoicing. 
 
-+ To set up your Dentists fo email please click [here](#1.1) <---Incorrect Link, no such section.
++ To set up your Dentists for email see [Adding a Dentist](#AddingDentist)
 
-To Email Invoices, Statments, Patient Statments or Statments follow these instructions:
+To Email Invoices, Statments, Patient Statments or Delivery Notes:
 
 + Open CRM Studio and click **Email**
 
 + This will then open a window which will list all dentists that are currently set up with email addresses in Labtrac.
 
-+ Click on the appropriate tab for **Single Invoices** or **Patient Statements**. Click **Case Documents**.
++ Click on the appropriate tab for **Case Documents**, **Monthly Invoices**, or **Statements**.
+
+>**Remember**
+>
+>**Case Documents** are for any document specific to a job. Such as a **Single Invoice**, **Delivery Note**, or **Patient Statement**. If you send more than one of these documents by email *(eg Single Invoice and Patient Statement)* Then both documents will be attached to a single email.
 
 + For Consolidated Invoices, click **Monthly Invoices**.
 
 + For *Statements*, click **Statements**.
 
-+ Then using the date filter in the top right select a date range. This will then show all documents that fall within this period. You can then select the documents you wish to send and click **Send** in the bottom right.
++ Use the date filter in the top right select a date range. 
 
-+ This will then produce a report which should say *X invoices sent succesfully*.
++ This will show all documents that fall within this period. Click **Send** in the bottom right.
+
++ This will produce a report which should say *X invoices sent succesfully*.
+
++ If you have any issues when sending emails please contact [Labtrac Support](#LabtracSupport).
 
 - - -
 <a name="Backup"></a>
@@ -121,4 +147,14 @@ To Email Invoices, Statments, Patient Statments or Statments follow these instru
 
 **Backup** is a program that backs up all of your Data to Labtrac's secure Cloud Server at the click of a button.
 
-+ Once the **Backup Module** has been installed on your PC all you need to do to back up your data is click **YES** to the box asking if you would like to back up when closing labtrac down. This will then run a Backup procedure the you should receive a message in the dialog box saying *Upload Succesful*. This message will then close and the upload is complete.
++ Once the **Backup Module** has been installed on your PC all you need to do to back up your data is click **YES** to the box asking if you would like to back up when closing **Labtrac** down. 
+
+This will run a Backup procedure.
+
+You should then see *Upload Succesful*. 
+
+This message will then close and the upload is complete.
+
+
+
+
