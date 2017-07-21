@@ -6,34 +6,52 @@ markdownpage: true
 # Invoicing and Statements
 
 <a class="offset" name="3.1"></a>
-
+<a name="InvoiceList"></a>
 ## Invoice List
 ***
+The **Invoice List** gives you a comprehensive list of all Invoices ever produced. You are able to re-print or export *(as a PDF)* any of these invoices.
 
-Once you have clicked on the invoice list you will see a coprehensive list of every invoice you have produced. To open these invoices double-click on the left hand side of the row. This will then open the invoice report. From here you can reprint an invoice by clicking on the print icon, in the top left, this will send to your default printer.
+Find and open an invoice you wish to print. Then select either the print icon or export.
 
-You can also export the invoice as a PDF by clicking on the envelope icon. Rename the Invoice, select where you wish to save the invoice and click export.
+To export, click the envelope icon. Rename the Invoice, select the location you wish to save it to and click **Export**.
+
+- - - 
+
+***
 
 <a class="offset" name="3.2"></a>
-
-
+<a name="StatementManager"></a>
 ## Statement Manager
 
 ***
 
-+ To produce your statements double-click on **Statment Manager**. 
+To produce your statements please follow these steps:
 
-+ Select the correct month in **Aged Debt Reference**.
 
-+ Enter a **Date Filter** or **Dentist Filter** if required
+* Open **Statement Manager** from the contents bar
 
-+ Select the type of statement you wish to produce.
+* Select the correct month in **Aged Debt Reference**
 
-+ Click **Preview** to view Statements or **Print** to print the statements.
+* Apply a **Date Filter** *if required*
+
+* Choose the type of statement you wish to produce.
+
+>**Note**
+>
+> If you used consolidated invoicing **Grouped** will just show the monthly value for each consolidated invoice. **Itemised** will show a line for each job.
+
+* Apply a **Dentist Filter** *if required*
+
+* Select **Preview** to view statements or **Print** to print without a preview
+
+>**Note**
+>
+>To email statements please see **Labtrac CRM** # *(link)*
+
 
 	
 <a class="offset" name="3.4"></a>
-
+<a name="AccountActivity"></a>
 ## Account Activity
 ***
 
@@ -49,6 +67,7 @@ Where you are able to view the entire account history for any Dentist.
 
 + At the bottom of the screen you can also view the **Aged Debt** for this account broken down month by month as well as the total account balance.
 
+<a name="PostingBalance"></a>
 ### Posting a Balance
 
 If you are just setting up an account and would like to bring an outstanding balance into Labtrac you can do that here.
@@ -59,7 +78,7 @@ At the bottom off **Account Activity** you will see **Post a Balance**.
 
 
 <a class="offset" name="3.5"></a>
-
+<a name="EndOfMonth"></a>
 ## End Of Month Guide
 
 ***
@@ -72,8 +91,8 @@ If you use a mixture of both please follow the Consolidated Monthly Invoice guid
 
 <a class="offset" name="3.6"></a>
 
-## CRM Studio and Backup Module 
-
+<a name="CRM"></a>
+## CRM Studio
 ***
 
 **CRM Studio**  is for email and corporate invoicing. 
@@ -95,6 +114,10 @@ To Email Invoices, Statments, Patient Statments or Statments follow these instru
 + Then using the date filter in the top right select a date range. This will then show all documents that fall within this period. You can then select the documents you wish to send and click **Send** in the bottom right.
 
 + This will then produce a report which should say *X invoices sent succesfully*.
+
+- - -
+<a name="Backup"></a>
+### Backup
 
 **Backup** is a program that backs up all of your Data to Labtrac's secure Cloud Server at the click of a button.
 
