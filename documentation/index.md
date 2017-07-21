@@ -3,7 +3,7 @@ layout: article
 title: Welcome
 markdownpage: true
 ---
-# Welcome to Labtrac{: .center-block}
+<center> <h1>Welcome to Labtrac</h1> </center>
 - - - 
 
 Thank you for choosing Labtrac and welcome to the Labtrac family of over 200 Laboratories who have run their systems successfully over the last 20 years.
