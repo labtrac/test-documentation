@@ -223,11 +223,7 @@ If you wish to charge tax on a material enter the amount (in %) that you wish to
 ![Adding a Product](/test-documentation/images/ap_2.png "Adding a Product"){: .center-block}
 
 
-![Adding a Product Vid](https://www.youtube.com/watch?v=COlMd5oj3cI){: .center-block}
-
-<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Product%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
-
-![Delivery Method Video](C:\Users\dannysitunes\SharePoint\Home - Shared Documents\Support\Labtrac Manual\Media\Adding a Product.mp4)
+<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Product%20(Export%203).m4v" frameborder="1" allowfullscreen></iframe>
 
 - - - 
 
@@ -254,7 +250,7 @@ You also have the option of adding a nominal code (for use with external account
 
 ![Adding a Material](/test-documentation/images/am_2.png "Adding a Material"){: .center-block}
 
-# (VIDEO)
+<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Material%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
 
 - - -
 
@@ -335,6 +331,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 ![Adding a Job](/test-documentation/images/aj_6.png "Completing a Job"){: .center-block}
 
+<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Job%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
 
 <a name="StageWork"></a>
 
@@ -352,7 +349,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 Repeat these steps as many times as needed before finally completing the job as normal.
 
-# Video
+<iframe width="560" height="315" src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Stage%20Work%20(Export%203).m4v" frameborder="0" allowfullscreen></iframe>
 
 <a name="SubContacting"></a>
 
