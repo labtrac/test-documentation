@@ -176,7 +176,7 @@ You are now set up and can send invoices.
 
 <a class="offset" name="3.7"></a>
 <a name="Backup"></a>
-### Backup
+## Backup
 
 - - - 
 
