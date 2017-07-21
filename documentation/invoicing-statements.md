@@ -101,7 +101,7 @@ To run your end of month tasks for consolidated invoices please follow these ste
 
 *  To print Invoice click **Select All** then **Preview**. You can then print invoices from here.
 
-* To email invoice please see **Labtrac CRM** *#LINK*
+* To email invoice please see [CRM Studio](#CRM)
 
 * Please follow these links for **Statements**, **Invoice Export**, **Payment Entry**
 
@@ -128,6 +128,7 @@ To Email Invoices, Statments, Patient Statments or Delivery Notes:
 >**Remember**
 >
 >**Case Documents** are for any document specific to a job. Such as a **Single Invoice**, **Delivery Note**, or **Patient Statement**. If you send more than one of these documents by email *(eg Single Invoice and Patient Statement)* Then both documents will be attached to a single email.
+{: .alert.alert-info}
 
 + For Consolidated Invoices, click **Monthly Invoices**.
 
@@ -140,6 +141,34 @@ To Email Invoices, Statments, Patient Statments or Delivery Notes:
 + This will produce a report which should say *X invoices sent succesfully*.
 
 + If you have any issues when sending emails please contact [Labtrac Support](#LabtracSupport).
+
+### MyDentist Invoicing
+
+MyDentist require their invoices to be sent in a certain (CSV) format. Labtrac has made this easy by introducing a **Corporate Invoicing Module**
+
+Make sure you **Dentists** are set up for MyDentist Invocing. See [Adding a Dentist](#AddingDentists)
+
+To set this up you must first map your products to the product descriptions provided by MyDentist.
+
++ In CRM go to **Corporate Invoicing**
+
++ Then **Product Mapping**
+
++ **Refresh Grid** This will open your product list from Labtrac.
+
++ Go through and select the MyDentist product description that matches your description. 
+
++ Once you have mapped all of your products **Save Mapping**
+
+You are now set up and can send invoices.
+
++ Go to **Invoices**
+
++ Select the month you wish to Invoice
+
++ **Test Mappings** to make sure all of your Products are mapped correctly.
+
++ **Send**
 
 - - -
 <a name="Backup"></a>
