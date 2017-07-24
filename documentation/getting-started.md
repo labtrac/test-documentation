@@ -24,7 +24,7 @@ If you wish to add personlised users go to [User Manager](#UserManager)
 
 ### Things to Consider Before Getting Started
 
-Now you have Labtrac set up, you will need to enter all required data (Dentists, Products, Materials etc)
+Now Labtrac is set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
 - - - 
 
@@ -32,7 +32,7 @@ Now you have Labtrac set up, you will need to enter all required data (Dentists,
 
 ### Price Lists
 
-It is important that before you start entering any information you have in mind your price lists that are used for all dentists. When entering a Dentist you will need to know which price list each dentist is on and when entering products and materials you will need to know the price for every price list you use.
+# Re-wrie
 
 - - - 
 
@@ -211,14 +211,14 @@ Select whether or not a tooth shade, stump shade or tooth mould are required.
 
 >**Remember**
 >
->If you select the product as requiring a shade Labtrac wont allow you to enter a job without this information. If you leave these boxes unchecked you still have the option to enter this information on a job, however, it is not mandatory.
+>If you select the product as requiring a shade, Labtrac won't allow you to enter a job without this information. If you leave these boxes unchecked you still have the option to enter this information on a job, however, it is not mandatory.
 {: .alert.alert-info}
 
 If the procuct always requires a material tick the **Record Material** box and selecting the material from the dropdown menu. When you then add that material to a job, Labtrac will automatically add the selected Material.
 
 Enter the price for every **price list** you are going to use.
 
-If you wish to charge tax on a material enter the amount (in %) that you wish to charge. This will only be charged to a dentist set up to receive tax.
+If you wish to charge tax on a material enter the amount *(in %)* that you wish to charge. This will only be charged to a dentist set up to receive tax.
 
 ![Adding a Product](/test-documentation/images/ap_2.png "Adding a Product"){: .center-block}
 
@@ -301,7 +301,7 @@ You can attach images in a job in **Images**
 
 >**Remember**
 >
->Its not just images you can add to the job using the **Image** section. You can also add PDF's and more.
+>Its not just images you can add to the job using the **Image** section. You can also add PDF's, 3D scans, and more.
 {: .alert.alert-info}
 
 It will ask if you wish to create an image folder. Click yes.
