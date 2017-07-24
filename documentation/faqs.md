@@ -16,7 +16,7 @@ or
 
 >**Remember**
 >
->**support@labtrac.com** is the fastest way to get a response from our team as you will be added to our support queue instantly. {: .alert.alert-info}
+>**support@labtrac.com** is the fastest way to get a response from our team as you will be added to our support queue instantly.{: .alert.alert-info}
 
 - - -
 
