@@ -27,7 +27,15 @@ or
 
 - - -
 
-#### How do i add a Discount to a job?
+#### How do i add a Discount?
+
+There are 3 types of **Discount** you use in Labtrac.
+
+##### Volume Discount
+
+##### Discount on a job
+
+##### Sttlement Discount
 
 - - - 
 
