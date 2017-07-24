@@ -29,13 +29,13 @@ or
 
 #### How do i add a Discount?
 
-> There are 3 types of **Discount** you use in Labtrac.
+There are 3 types of **Discount** you use in Labtrac.
 
-> ##### Volume Discount
+**Volume Discount**
 
-> ##### Discount on a job
+**Discount on a job**
 
-> ##### Sttlement Discount
+**Settlement Discount**
 
 - - - 
 
