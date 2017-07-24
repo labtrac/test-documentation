@@ -4,6 +4,18 @@
 
 - - -
 
+Here are some of the questions that our support team are regularly asked.
+
+If you cannot find the answer you are looking for here please contact the **Labtrac Support Team** using;
+
+**support@labtrac.com**
+or
+**+44 3333 449 970**
+
+>**Remember**
+>
+>**support@labtrac.com** is the fastest way to get a response from our team as you will be added to our support queue instantly.
+
 ### How do I change the quantity on a Product or Material in a Job?
 
 - - -
