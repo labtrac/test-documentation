@@ -20,7 +20,7 @@ or
 
 - - -
 
-### How do I change the quantity on a Product or Material in a Job?
+### How do I change the quantity on a Product or Material in a job?
 
 - - -
 
