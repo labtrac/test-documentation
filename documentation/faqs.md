@@ -8,6 +8,8 @@ Here are some of the questions that our support team are regularly asked.
 
 If you cannot find the answer you are looking for here please contact the **Labtrac Support Team** using;
 
+<a name="supportfaq"></a>
+
 **support@labtrac.com**
 
 or
@@ -86,6 +88,8 @@ or
 - - - 
 
 ### Error Message: Cannot Find DB (MS JET OLE)?
+
+This error message could indicate an issue within your database. Please contact [**Labtrac Support**](#supportfaq) who will help you with this issue.
 
 - - -
 
