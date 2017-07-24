@@ -10,7 +10,7 @@ markdownpage: true
 
 ---
 
-The **Product Pricing Wizard** allows you to update prices for numberous products at once.
+The **Product Pricing Wizard** allows you to update prices for numerous products at once.
 
 This is especially useful when creating a new price list or increasing all of you prices.
 
@@ -55,8 +55,8 @@ To change prices follow these steps;
 * Select the **Conversion Details**. 
 
 *EG:*
-*x 1.1 to add 10% to the price list.*
-*x 0.95 to lower price by 5%*
+*x 1.15 to add 15% to the price list.*
+*x 0.98 to lower price by 2%*
 
 * Click **Execute** to commit these changes.
 
