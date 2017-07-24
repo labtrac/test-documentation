@@ -58,9 +58,9 @@ The options are;
 
 - *Print Delivery Note on A5 Paper* - Using this you can to print on A5 paper rather than the default A4.
 
-- *Print Invoice on A5 Paper* - Using this you can to print on A5 paper rather than the default A4
+- *Print Invoice on A5 Paper* - Using this you can to print on A5 paper rather than the default A4.
 
-- *Export to External Accounts* - Select here if you wish to export your invoices to an external accounts package. (Sage, Xero and Quickbooks Online are currently supported, if you have another accounts system that you would like integrated please contact [Labtrac Support](#LabtracSupport)
+- *Export to External Accounts* - Select here if you wish to export your invoices to an external accounts package. Sage, Xero and Quickbooks Online are currently supported, if you have another accounts system that you would like integrated please contact [Labtrac Support](#LabtracSupport).
 
 #### Printing
 
@@ -68,7 +68,7 @@ The options are;
 
 - *Print Delivery Note* - If selected a **Delivery Note** will automatically print when a job is completed.
 
-- *Print Patient Statement* - If selected a **Patient Statement** will automatically print when a job is completed
+- *Print Patient Statement* - If selected a **Patient Statement** will automatically print when a job is completed.
 
 - *On Approval Notes* - If selected an **On Approval Note** will automatically print when a job is sent out on approval. See [Stage Work](#StageWork).
 
@@ -227,7 +227,7 @@ To set up a new user follow these steps:
 
 * Click **Add**
 
-* Enter **Name**, **Initials**, **Security Level** (see below), and **Password**
+* Enter **Name**, **Initials**, **Security Level** (see below) and **Password**
 
 * Click **Ok**
 
