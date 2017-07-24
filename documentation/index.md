@@ -8,7 +8,6 @@ markdownpage: true
 
 Thank you for choosing Labtrac and welcome to the Labtrac family of over 200 Laboratories who have run their systems successfully over the last 20 years.
 
-
 This document provides a guide to implementating Labtrac, covering the sequence of events and particularly what you will need to prepare for.
 
 <a name="LabtracSupport"></a>
@@ -34,20 +33,22 @@ You can also use;
 
 ## Labtrac Installation
 
-When we need to Install Labtrac, carry out any training or resolve any issues we use TeamViewer. TeamViewer is a piece of software that allows us to remotely access your system, with your permission.
+When we need to Install Labtrac, carry out any training or resolve any issues we use TeamViewer. TeamViewer is a piece of software that allows us to access your system remotely, with your permission.
 
 To install TeamViewer please follow these steps.
 
 * Go to labtrac.com/en/support
 
-* Under support click ***Labtrac Remote Support Client***. This will start a download of the software. When that has downloaded 'Run' the Installer.
+* Under support click ***Labtrac Remote Support Client***. This will start a download of the software. 
+
+* Open the Teamviewer installer.
 
 * Follow the instructions and go through the installer.
 
 * When it asks for a PC name please enter your lab name to allow us to find you in our list of PC's.
 
-* Enter a password. Please dont make this a personal password as you will need to tell the members of the Labtrac Support team.
+* Enter a password. Please don't make this a personal password as you will need to tell the members of the Labtrac Support team.
 
 * This Process will take 4 or 5 minutes for each PC.
 
-Once the TeamViewer link is available, the Labtrac Support Team can then proceed to install the latest Labtrac version on your PC and this will take around 20-30 minutes depending on internet speeds and the modules that you have taken.
+Once TeamViewer is installed. The support team can then access your PC and set you up with Labtrac and any additional modules that you require.
