@@ -137,31 +137,43 @@ I the **Data Integrity Check** is showing jobs while running your End of Month t
 
 #### How do i export Invoices?
 
-To Export invoices please follow the steps [Here](#export)
+To Export invoices please follow the steps [Here](#export).
 
 - - -
 
 #### How do i add a Payment or Credit Note?
 
+To add a **Payment** or **Credit Notes** please follow the steps here [Payment Entry](#paymententry).
+
 - - - 
 
 #### What do i do if i have Unallocated Money?
+
+
 
 - - -
 
 #### How do i Reverse a Payment or Credit Note?
 
+To reverse a **Payment** or **Credit Note** please follow the steps here [Reverse a Payment](#reversepayment).
+
 - - -
 
 #### How do i make my data Sync to Labtrac Online?
+
+
 
 - - -
 
 #### How do i add a new Labtrac user?
 
+To add a new user log in for Labtrac please follow the steps here [User Manager](#usermanager)
+
 - - -
 
 #### How do i add a new Labtrac Online user?
+
+To add a new user log in for Labtrac Online please follow the steps here [Labtrac Online](#online)
 
 - - - 
 
