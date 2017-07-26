@@ -25,6 +25,12 @@ or
 
 #### How do I change the quantity on a Product or Material in a job?
 
+To change the quantity on either a Product or Material within a job simply select the Product/Material line and type the quantity that you require.
+
+>**Remember**
+>
+>**Products** can only have whole numbers as quantities whereas **Materials** can have a decimal place.
+{: .alert.alert-info}
 - - -
 
 #### How do i add a Discount?
@@ -41,25 +47,81 @@ There are 3 types of **Discount** you use in Labtrac.
 
 #### How can i automatically print of a Job Ticket?
 
+To print a job ticket with every entered job follow these steps:
+
++ Go to **System Settings** 
+
++ Then **System Options**
+
++ Untick **Disable Work Ticket Prompt**
+
+Now when you launch a job you will have the option to print the ticket.
+
+Go to [System Settings](#systemsettings) for further details.
+
 - - - 
 
 #### How do i change an invoice once a job is complete?
+
+To change an Invoice you need to uncomplete the original job to do this follow these steps:
+
++ Go to the Job you wish to change
+
++ Select **Reverse Invoice**
+
++ Make the changes you need to make and re-**complete** job
+
+This will then have deleted the old inovice and re-produced a new one.
+
+>**Remember**
+>
+> A job/invoice that is over 3 months old, been exported, or had a payment allocated against it will not be able to be reversed. If this is the case you will need to produce a [Credit Note](#CreditNote). 
+{: .alert.alert-info}
 
 - - - 
 
 #### How do i delete a Job?
 
+You can delete any job from the **Live Jobs** screen. Select the job you wish to delete and click **Delete** at the top of your screen.
+
+>**Remember**
+>
+>The deleted job will always remain in your **Order History** with the status of **Deleted**
+{: .alert.alert-info}
+
 - - -
 
 #### How do i delete a Dentist?
+
+You can delete a dentist from the **Dentist** list. Select the dentist you wish to delete and click **Delete** at the top of your screen.
+
+>**Remember**
+>
+>A dentist can only be delete if they have paid of their entire account balance.
+{: .alert.alert-info}
 
 - - -
 
 #### How do i re-print a document?
 
+To re-print any document go to the relevant list (**Invoice**, **Deliveries** or **Patient Statements**) and open the document you wish to print. You can then either print the document by selecting the printer icon or export the document as a PDF by clicking the export icon.
+
 - - -
 
 #### How do i add footnotes to a document?
+
+To add footnotes to any of your documents:
+
++ Go to **System Settings**
+
++ Then **Footnotes**
+
++ Anything added in here will appear at the bottom of the relevant document.
+
+>**Remember**
+>
+> CTRL and Enter will give you a new line when adding footnotes.
+{: .alert.alert-info}
 
 - - -
 
