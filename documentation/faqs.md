@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Frequently Asked Questions
+title: Welcome
 markdownpage: true
 - - -
 
