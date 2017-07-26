@@ -8,7 +8,7 @@ markdownpage: true
 These options are available by double-clicking **Payment Entry** in the content bar.
 
 <a class="offset" name="4.1"></a>
-
+<a name="paymententry"></a>
 ## Posting a Payment
 
 To enter a **Payment** or **Credit Note** go to **Payment Entry** in the contents bar.
@@ -34,7 +34,7 @@ Then go through and tick every invoice in the list which the payment covers. If 
 </video>{: .center-block}
 
 <a class="offset" name="4.2"></a>
-
+<a name="reversepayment"></a>
 # Reversing a Payment
 
 To reverse a payment:
