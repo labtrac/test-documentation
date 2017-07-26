@@ -1,3 +1,7 @@
+---
+layout: article
+title: Frequently Asked Questions
+markdownpage: true
 - - -
 
 ## Frequently Asked Questions
