@@ -131,9 +131,13 @@ To add footnotes to any of your documents:
 
 #### What do i do if Data Integrity Check shows jobs?
 
+I the **Data Integrity Check** is showing jobs while running your End of Month then please call [Labtrac Support](#supportfaq) who will help you with this.
+
 - - - 
 
 #### How do i export Invoices?
+
+To Export invoices please follow the steps [Here](#export)
 
 - - -
 
