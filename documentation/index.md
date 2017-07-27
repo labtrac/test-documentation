@@ -6,9 +6,9 @@ markdownpage: true
 <center> <h1>Welcome to Labtrac</h1> </center>
 - - - 
 
-Thank you for choosing Labtrac and welcome to the Labtrac family of over 200 Laboratories who have run their systems successfully over the last 20 years.
+This document provides a guide to Labtrac, covering everything from the initial set up to day to day running of the system. We will also try to answer the questions we are asked regularly in [Frequntly Asked Questions](#faq).
 
-This document provides a guide to implementating Labtrac, covering the sequence of events and particularly what you will need to prepare for.
+If you feel there is any area we have missed in this guide please let us know and we will look to add it as soon as possible.
 
 <a name="LabtracSupport"></a>
 
