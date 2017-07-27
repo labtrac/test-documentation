@@ -32,7 +32,12 @@ Now Labtrac is set up, you will need to enter all required data (Dentists, Produ
 
 ### Price Lists
 
-# Re-wrie
+Before you set up your **Dentists**, **Products** and **Materials** make sure you have a clear understanding of all the pricelists that will be in use.
+
+>**Remember**
+>
+> The **pricelist** is not the [Standard](#Standard) of work *(eg. NHS, Independent, Private)*
+{: alert.alert-info}
 
 - - - 
 
