@@ -36,7 +36,7 @@ Before you set up your **Dentists**, **Products** and **Materials** make sure yo
 
 >**Remember**
 >
->The **Pricelist** is not the [Standard](#Standard) of work *(eg. NHS, Independent, Private)*
+>The **Pricelist** is NOT the [Standard](#Standard) of work *(eg. NHS, Independent, Private)*
 {: alert.alert-info}
 
 - - - 
