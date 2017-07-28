@@ -30,7 +30,7 @@ The dashboard in labtrac online displays a number of visual reports including;
 
 - - -
 ---
-#### Files
+#### + Files
 ---
 
 - - -
