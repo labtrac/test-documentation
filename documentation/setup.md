@@ -200,13 +200,7 @@ Enter a **Category**.
 
 * EG:
 
-*Crown & Bridge
-Orthodontics
-Implants
-Mouthguards
-Dentures
-Miscellaneous
-etc.*
+*Crown & Bridge, Orthodontics, Implants, Mouthguards, Dentures, Miscellaneous, etc.*
 
 <a name="standard"></a>
 
