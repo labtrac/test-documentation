@@ -4,13 +4,13 @@
 
 - - -
 
-#### Sync
+### Sync
 
 - - -
 
 - - - 
 
-#### Dashboard
+### Dashboard
 
 - - - 
 
@@ -26,37 +26,35 @@ The dashboard in labtrac online displays a number of visual reports including;
 
 - - -
 
-#### Cases
+### Cases
 
 - - -
 
-##### Files
+#### Files
 
 
 - - -
 
-#### Dentists
-
-- - -
-
-- - -
-
-#### Practices
+### Dentists
 
 - - -
 
 - - -
 
-#### Inventory
+### Practices
 
 - - -
 
 - - -
 
-#### Settings
+### Inventory
 
 - - -
 
 - - -
 
-####
+### Settings
+
+- - -
+
+- - -
