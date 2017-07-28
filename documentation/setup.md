@@ -192,13 +192,13 @@ Once you have entered the code and description click **Add** to open the product
 
 Enter a **Category**.
 
-*If you have not yet set up your categories click the dotted box next to category. This will open a window which you can enter categories of your choice.
+* If you have not yet set up your categories click the dotted box next to category. This will open a window which you can enter categories of your choice.
 
-*The categories are optional but are a good way of seperating the lab into different areas - this will allow you to run reports on different aspects of the lab.
+* The categories are optional but are a good way of seperating the lab into different areas - this will allow you to run reports on different aspects of the lab.
 
-*The categories can be whatever you like.
+* The categories can be whatever you like.
 
-*EG:
+* EG:
 
 *Crown & Bridge
 Orthodontics
