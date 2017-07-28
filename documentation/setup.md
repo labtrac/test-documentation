@@ -198,9 +198,7 @@ Enter a **Category**.
 
 * The categories can be whatever you like.
 
-* EG:
-
-*Crown & Bridge, Orthodontics, Implants, Mouthguards, Dentures, Miscellaneous, etc.*
+* EG: *Crown & Bridge, Orthodontics, Implants, Mouthguards, Dentures, Miscellaneous, etc.*
 
 <a name="standard"></a>
 
