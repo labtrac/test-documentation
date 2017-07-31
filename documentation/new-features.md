@@ -53,8 +53,34 @@ Now with a brand new layout to make adding jobs quicker and easier.
 
 - - -
 
+Both **Product** and **Material** entry screens have been improved to speed up workflow.
+
+For more on **Adding a Product** see [here](#addingproducts)
+
+For more on **Adding Materials** see [here](#addingmaterials)
+
 - - -
 
 #### Tax
 
 - - -
+
+Labtrac now supports tax.
+
+To set up tax on a dentist;
+
++ Go to **Dentists** details and to **Financial**.
+
++ Under **Tax Code** enter **?**
+
++ Then you must set the **Products/Materials** that require tax.
+
++ Go to **Products** and in **Tax Rate** enter the tax rate in **%**.
+
++ Open a **Material** and in **Tax Rate** enter the tax rate in **%**.
+
+When you now enter a job the tax will be shown on all products that you have set up with tax.
+
+If you need to remove **Tax** from an individual job go to **Alter Price** the select the product and click **F6** to remove tax.
+
+- - - 
