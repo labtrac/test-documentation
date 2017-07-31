@@ -6,7 +6,7 @@
 
 - - - 
 
-The dashboard in labtrac online displays a number of visual reports including;
+The dashboard in Labtrac online displays a number of visual reports including;
 
 + **Due Out Today**
 
