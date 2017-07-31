@@ -8,6 +8,8 @@ markdownpage: true
 <a name="SystemSettings"></a>
 ## System Settings
 
+- - - 
+
 System settings are used to customise the way Labtrac will work for you. This section outlines the different settings that can be used and the effect they will have on the way Labtrac will work. These can be accessed by double clicking System Settings in the content bar.
 
 In the new window there will be 7 tabs.
@@ -20,6 +22,8 @@ In the new window there will be 7 tabs.
 <a name="LabDetails"></a>
 ### Lab Details
 
+- - -
+
 **Lab Details** will hold all the Lab information. The **Name**, **Address**, **Phone Number**, and **MHRA Number**. 
 
 It will also show the **Last Order Number** and **Last Delivery Number**. You can change these if necessary.
@@ -30,7 +34,11 @@ It will also show the **Last Order Number** and **Last Delivery Number**. You ca
 <a name="SystemOptions"></a>
 ### System Options
 
+- - - 
+
 #### Order 
+
+- - - 
 
 Using the Order section you can set your default options for when you are entering a job.
 
@@ -46,7 +54,11 @@ The options are;
 
 - *Disable Work Ticket Prompt* - Disables the prompt to print a work ticket when you **Launch** a job.
 
+- - - 
+
 #### Invoicing
+
+- - - 
 
 Using the Invoicing section you can set your default invoicing options.
 
@@ -62,7 +74,11 @@ The options are;
 
 - *Export to External Accounts* - Select here if you wish to export your invoices to an external accounts package. Sage, Xero and Quickbooks Online are currently supported, if you have another accounts system that you would like integrated please contact [Labtrac Support](#LabtracSupport).
 
+- - - 
+
 #### Printing
+
+- - - 
 
 - *Print Invoice* - If selected an **Invoice** will automatically print when a job is completed.
 
@@ -79,6 +95,8 @@ If these are not selected you will receive a prompt on completion asking if you 
 <a class="offset" name="2.3"></a>
 <a name="Dentist"></a>
 ## Dentist
+
+- - - 
 
 + **Invoice on Delivery** 
 
@@ -145,6 +163,8 @@ If these are not selected you will receive a prompt on completion asking if you 
 
 ## Financial
 
+- - - 
+
 The Laboratory's bank details can be added here but these details are **not used** by the system. These are purely for your reference.
 
 + **Bank Name** 
@@ -189,6 +209,7 @@ The Laboratory's bank details can be added here but these details are **not used
 <a name="OrderEnclosures"></a>
 ## Order Enclosures
 
+- - - 
 Here you can enter anything you may receive with a job. You can then log what you have received with a case when entering the job.
 
 - - -
@@ -196,6 +217,8 @@ Here you can enter anything you may receive with a job. You can then log what yo
 <a class="offset" name="2.6"></a>
 <a name="Footnotes"></a>
 ## Footnotes
+
+- - - 
 
 Enter any information that you would like to be included in the footnotes of a document.
 
@@ -233,8 +256,12 @@ To set up a new user follow these steps:
 
 This user is now set up and can log onto Labtrac using their **Username** and **Password**.
 
+- - - 
+
 <a name="SecurityLevels"></a>
 ### Security Levels
+
+- - -
 
 1 - Can only add, amend and complete **Jobs** (No financial information shown)
 
