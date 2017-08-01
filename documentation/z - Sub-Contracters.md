@@ -33,3 +33,4 @@ To send a job to a **Sub-Contracter** first follow the normal steps for adding a
 * Once you receive the work back from the **Sub-Contracter** open the job, click **Task F10**, **Sub Contract** and **Receive Back**. This will then change the job status back to **Launched**.
 
 * You can then go through and **Complete** the job as normal.
+
