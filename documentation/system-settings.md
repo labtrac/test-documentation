@@ -274,7 +274,8 @@ This user is now set up and can log onto Labtrac using their **Username** and **
 9 - **System Administrator** with total access
 
 - - -
-
+<a name="diary"></a>
+<a href="system-settings#2.8">
 ## Diary
 
 - - -
