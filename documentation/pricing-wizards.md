@@ -5,7 +5,7 @@ markdownpage: true
 ---
 
 <a class="offset" name="#10.1"></a>
-<a name="ProductWiz"></a>
+<a class="offset" name="ProductWiz"></a>
 # Product Pricing Wizard
 
 ---
@@ -37,7 +37,7 @@ To change prices follow these steps;
 - - - 
 
 <a class="offset" name="#10.2"></a>
-<a name="MaterialWiz"></a>
+<a class="offset" name="MaterialWiz"></a>
 # Material Pricing Wizard
 
 ---
