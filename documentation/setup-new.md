@@ -358,9 +358,13 @@ Repeat these steps as many times as needed before finally completing the job as 
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Stage%20Work%20(Export%203).m4v">
 </video>{: .center-block}
 
+- - -
+
 <a name="SubContacting"></a>
 
 ### Sub Contracting
+
+- - -
 
 To Sub Contract a job, first you need to set up a list of **Sub-Contracters**. 
 
