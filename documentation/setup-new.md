@@ -223,7 +223,7 @@ If you wish to charge tax on a material enter the amount *(in %)* that you wish 
 
 
 <video width="720" height="400" controls>
-<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Product%20(Export%203).m4v" type="video/mp4">
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20product%20(export%203).m4v" type="video/mp4">
 </video>{: .center-block}
 
 - - - 
@@ -252,7 +252,7 @@ You also have the option of adding a nominal code (for use with external account
 ![Adding a Material](/test-documentation/images/am_2.png "Adding a Material"){: .center-block}
 
 <video width="720" height="400" controls>
-<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Material%20(Export%203).m4v">
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20material%20(export%203).m4v">
 </video>{: .center-block}
 
 - - -
@@ -335,7 +335,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 ![Adding a Job](/test-documentation/images/aj_6.png "Completing a Job"){: .center-block}
 
 <video width="720" height="400" controls>
-<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Adding%20a%20Job%20(Export%203).m4v">
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20job%20(export%203).m4v">
 </video>{: .center-block}
 
 <a name="StageWork"></a>
@@ -355,7 +355,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 Repeat these steps as many times as needed before finally completing the job as normal.
 
 <video width="720" height="400" controls>
-<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/Stage%20Work%20(Export%203).m4v">
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/stage%20work%20(Export%203).m4v">
 </video>{: .center-block}
 
 - - -
