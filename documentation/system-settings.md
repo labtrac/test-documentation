@@ -10,7 +10,7 @@ markdownpage: true
 
 - - - 
 
-<a href="index.htm">Test</a>
+<a href="setup-new#1.5">Test</a>
 
 System settings are used to customise the way Labtrac will work for you. This section outlines the different settings that can be used and the effect they will have on the way Labtrac will work. These can be accessed by double clicking System Settings in the content bar.
 
