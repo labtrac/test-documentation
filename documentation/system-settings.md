@@ -10,13 +10,17 @@ markdownpage: true
 
 - - - 
 
-<a href="setup-new#1.5">Test</a>
-
 System settings are used to customise the way Labtrac will work for you. This section outlines the different settings that can be used and the effect they will have on the way Labtrac will work. These can be accessed by double clicking System Settings in the content bar.
 
 In the new window there will be 7 tabs.
 
-[Lab Details](#LabDetails), [System Options](#SystemOptions), [Dentist](#Dentist), [Financial](#Financial), [Order Enclosures](#OrderEnclosures), [Footnotes](#Footnotes), [Custom Reports](#CustomReports).
++ [Lab Details](#LabDetails)
++ [System Options](#SystemOptions)
++ [Dentist](#Dentist)
++ [Financial](#Financial)
++ [Order Enclosures](#OrderEnclosures)
++ [Footnotes](#Footnotes)
++ [Custom Reports](#CustomReports)
 
 - - -
 
