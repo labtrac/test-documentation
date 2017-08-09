@@ -4,7 +4,7 @@
 
 ### Dashboard
 
-<li><a href="index.htm"><"#thisisatest">Test</a></li>
+<a href="index.htm#thisisatest">Test</a>
 
 - - - 
 
