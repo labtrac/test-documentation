@@ -17,7 +17,7 @@ We have broken down the new features here.
 
 Labtrac Online allows you to work on the go. You are now able to view jobs, check whats due into the lab or late work as well as upload images and notes.
 
-For more please see [Online](#online).
+For more please see <a href="online">Online</a>.
 
 - - -
 
@@ -27,7 +27,7 @@ For more please see [Online](#online).
 
 The Payment section has been updated to have a more clear discount and streamlined payment entry.
 
-For more please see [Payment Entry](#payments)
+For more please see <a href="payment-entry#paymententry">Entering a Payment</a>.
 
 - - -
 
@@ -55,9 +55,9 @@ Now with a brand new layout to make adding jobs quicker and easier.
 
 Both **Product** and **Material** entry screens have been improved to speed up workflow.
 
-For more on **Adding a Product** see [here](#addingproducts)
+For more on **Adding a Product** see <a href="setup-new#addingproducts">Adding Products</a>
 
-For more on **Adding Materials** see [here](#addingmaterials)
+For more on **Adding Materials** see <a href="setup-new#addingmaterials">Adding Materials</a>
 
 - - -
 
