@@ -103,6 +103,8 @@ In the new window enter a **Dentist Code** and **Dentist Name**. To see our reco
 
 ![Adding a Dentist]("https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_1.PNG"){: .center-block}
 
+<a href="Adding a Dentist" rel="ad_1"><img src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_1.PNG"></a>
+
 ![Adding a Dentist](<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_1.PNG" type="image/png">
 </image>{: .center-block}g "Adding a Dentist"){: .center-block}
 
