@@ -15,7 +15,7 @@ The Username and Password will both be 'sys' by default.
 
 If you wish to add personlised users go to [User Manager](#UserManager)
 
-![Adding a Dentist](/test-documentation/imageSign In.PNG)
+![Sign In](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/signin.PNG "Sign In"){: .center-block}
 
 <a class="offset" name="1.2"></a>
 <a name="DataBuild"></a>
