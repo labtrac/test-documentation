@@ -102,8 +102,7 @@ To add a new Dentist, click **Dentist** in the contents bar then **Add F2** at t
 In the new window enter a **Dentist Code** and **Dentist Name**. To see our recommended coding system please see [Product Codes](#ProductCodes).
 
 
-<a href="Adding a Dentist" rel="ad_1"><img src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_1.PNG"></a>
-{: .center-block}
+<a href="Adding a Dentist" rel="ad_1"><img src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_1.PNG"></a>{: .center-block}
 
 
 
