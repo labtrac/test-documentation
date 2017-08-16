@@ -3,9 +3,11 @@ layout: article
 title: System Settings
 markdownpage: true
 ---
+<a class="offset" name="settings"></a>
 # Settings & More
 
 <a name="SystemSettings"></a>
+<a class="offset" name="systemsettings"></a>
 ## System Settings
 
 - - - 
@@ -26,6 +28,7 @@ In the new window there will be 7 tabs.
 
 <a class="offset" name="2.1"></a>
 <a name="LabDetails"></a>
+<a class="offset" name="labdetails"></a>
 ### Lab Details
 
 - - -
@@ -38,10 +41,12 @@ It will also show the **Last Order Number** and **Last Delivery Number**. You ca
 
 <a class="offset" name="2.2"></a>
 <a name="SystemOptions"></a>
+<a class="offset" name="systemoptions"></a>
 ### System Options
 
 - - - 
 
+<a class="offset" name="order"></a>
 #### Order 
 
 - - - 
@@ -62,6 +67,7 @@ The options are;
 
 - - - 
 
+<a class="offset" name="invoicing"></a>
 #### Invoicing
 
 - - - 
@@ -82,6 +88,7 @@ The options are;
 
 - - - 
 
+<a class="offset" name="printing"></a>
 #### Printing
 
 - - - 
@@ -100,6 +107,7 @@ If these are not selected you will receive a prompt on completion asking if you 
 
 <a class="offset" name="2.3"></a>
 <a name="Dentist"></a>
+<a class="offset" name="dentist"></a>
 ## Dentist
 
 - - - 
@@ -166,7 +174,7 @@ If these are not selected you will receive a prompt on completion asking if you 
 - - -
 
 <a class="offset" name="2.4"></a>
-
+<a class="offset" name="financial"></a>
 ## Financial
 
 - - - 
@@ -213,6 +221,7 @@ The Laboratory's bank details can be added here but these details are **not used
 
 <a class="offset" name="2.5"></a>
 <a name="OrderEnclosures"></a>
+<a class="offset" name="orderenclosures"></a>
 ## Order Enclosures
 
 - - - 
@@ -222,6 +231,7 @@ Here you can enter anything you may receive with a job. You can then log what yo
 
 <a class="offset" name="2.6"></a>
 <a name="Footnotes"></a>
+<a class="offset" name="footnotes"></a>
 ## Footnotes
 
 - - - 
@@ -236,6 +246,7 @@ Enter any information that you would like to be included in the footnotes of a d
 - - - 
 
 <a name="CustomReports"></a>
+<a class="offset" name="customreports"></a>
 ## Custom Reports
 
 Custom Reports gives you an alternative version of anyone of our reports. We reccomend speaking to [Labtrac Support](#LabtracSupport) before using these.
@@ -244,6 +255,7 @@ Custom Reports gives you an alternative version of anyone of our reports. We rec
 
 <a class="offset" name="2.7"></a>
 <a name="UserManager"></a>
+<a class="offset" name="usermanager"></a>
 ## User Manager
 
 ---
@@ -265,6 +277,7 @@ This user is now set up and can log onto Labtrac using their **Username** and **
 - - - 
 
 <a name="SecurityLevels"></a>
+<a class="offset" name="security"></a>
 ### Security Levels
 
 - - -
@@ -282,6 +295,7 @@ This user is now set up and can log onto Labtrac using their **Username** and **
 - - -
 <a name="diary"></a>
 <a class="offset" name="2.8"></a>
+<a class="offset" name="diary"></a>
 ## Diary
 
 - - -
