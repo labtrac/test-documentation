@@ -9,6 +9,7 @@ These options are available by double-clicking **Payment Entry** in the content 
 
 <a class="offset" name="4.1"></a>
 <a name="paymententry"></a>
+<a class="offset" name="paymententry"></a>
 ## Posting a Payment
 
 To enter a **Payment** or **Credit Note** go to **Payment Entry** in the contents bar.
@@ -35,6 +36,7 @@ Then go through and tick every invoice in the list which the payment covers. If 
 
 <a class="offset" name="4.2"></a>
 <a name="reversepayment"></a>
+<a class="offset" name="reversepayment"></a>
 # Reversing a Payment
 
 To reverse a payment:
@@ -58,6 +60,8 @@ To reverse a payment:
 ![Reversing a Payment](../images/pe_5.PNG "Reversing a Payment"){: .center-block.img-responsive}
 
 Your invoice will now appear again in **Payment Entry**
+
+---
 
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/reversing%20a%20payment%20(export%203).m4v">
