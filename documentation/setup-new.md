@@ -14,7 +14,7 @@ Open Labtrac.
 
 The Username and Password will both be 'sys' by default. 
 
-If you wish to add personlised users go to [User Manager](#UserManager)
+If you wish to add personlised users go to <a href="system-settings#usermanager">User Manager</a>
 
 ---
 
