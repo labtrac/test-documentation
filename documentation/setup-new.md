@@ -129,8 +129,11 @@ If invoiced is NOT selected - The principal handles the associates invoices. The
 
 The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#VolumeDiscount) make sure the dentist is selected on the correct list or discount.
 
+---
 
 ![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_2.PNG "Adding a Dentist"){: .center-block}
+
+---
 
 ***
 <a name="Analysis"></a>
@@ -166,7 +169,11 @@ Enter the dentist’s email address. If there is more than one email address ent
 
 You can then enter a greeting in the greeting box.
 
+---
+
 ![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_3.PNG "Adding a Dentist"){: .center-block}
+
+---
 
 Select the documents that you wish to send by email. 
 
@@ -194,8 +201,11 @@ To add a new Product click **Products** in the contents bar then **Add F2** at t
 
 In the new window enter a Product Code and Description. To see our recommended coding system see [Product Codes](#ProductCodes)
 
+---
 
 ![Adding a Product](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ap_1.PNG "Adding a Product"){: .center-block}
+
+---
 
 Once you have entered the code and description click **Add** to open the product details page.
 
@@ -228,7 +238,13 @@ Enter the price for every **price list** you are going to use.
 
 If you wish to charge tax on a material enter the amount *(in %)* that you wish to charge. This will only be charged to a dentist set up to receive tax.
 
+---
+
 ![Adding a Product](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ap_2.PNG "Adding a Product"){: .center-block}
+
+---
+
+---
 
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20product%20(export%203).m4v" type="video/mp4">
@@ -247,7 +263,11 @@ This will open a new window where you can enter a **Material Code** and **Descri
 
 Click **Add** this will open the Material details page.
 
+---
+
 ![Adding a Material](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/am_1.PNG "Adding a Material"){: .center-block}
+
+---
 
 Enter the price for the product in every Pricelist that you use.
 
@@ -257,7 +277,13 @@ You can also add a **Standard** (which is set up in the [Product](#AddingProduct
 
 You also have the option of adding a nominal code (for use with external accounting systems) a **Lead Time** and **U.O.M** (unit of measure). These are all for your reference only.
 
+---
+
 ![Adding a Material](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/am_2.PNG "Adding a Material"){: .center-block}
+
+---
+
+---
 
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20material%20(export%203).m4v">
@@ -284,12 +310,19 @@ To enter a product click **Product F7**. This will open a list of all products s
 
 To add a material click **Material F8**. This will again open a list of all materials set up on your system. You can search using the search box.
 
+---
+
 ![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_1.PNG "Adding a Job"){: .center-block}
 
+---
 
 In **Notepad** you can enter any information on the case you may want. This will only be availible to be viewed within the lab.
 
+---
+
 ![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_2.PNG "Adding a Job"){: .center-block}
+
+---
 
 In **Prescription** you can add a notation.
 
@@ -301,8 +334,11 @@ You can select the job as a **Remake**
 * Select a reason for a remake from the dropdown menu. To add a new reason click the dotted box.
 * In the green dropdown menu you can select the original job that is being remade as a reference.
 
+---
+
 ![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_3.PNG "Adding a Job"){: .center-block}
 
+---
 
 You can attach images in a job in **Images**
 
@@ -315,12 +351,19 @@ It will ask if you wish to create an image folder. Click yes.
 
 Then add images to this folder by clicking **Add** and navigating to the image you would like to store on the job.
 
+---
+
 ![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_4.PNG "Adding a Job"){: .center-block}
 
+---
 
 In **Dentist Notes** you can write any infomation you would like to send back to the dentist. This will appear the delivery note or single invoice.
 
+---
+
 ![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_5.PNG "Adding a Job"){: .center-block}
+
+---
 
 Now the job is ready to launch do this by clicking **Launch F11**.
 
@@ -339,13 +382,19 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 * Click **Complete Job** this will set the job as completed and produce all relevant documents.
 
+---
 
 ![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_6.PNG "Adding a Job"){: .center-block}
+
+---
+
+---
 
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20job%20(export%203).m4v">
 </video>{: .center-block}
 
+---
 <a name="StageWork"></a>
 
 ### Stage Work
@@ -361,6 +410,8 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 * To add the new stage, click on **Stage F5**. Select the products for the next stage and again **Launch** the job.
 
 Repeat these steps as many times as needed before finally completing the job as normal.
+
+---
 
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/stage%20work%20(Export%203).m4v">
@@ -380,7 +431,11 @@ To Sub Contract a job, first you need to set up a list of **Sub-Contracters**.
 
 + Click **Add** and fill in the relevant infomation, making sure to add a **Run** then **Save**.
 
+---
+
 ![Subcontracter](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sc_1.PNG "Sub Contract"){: .center-block}
+
+---
 
 + Now you have your **Sub-Contracters** set up you can go through and enter a job as normal, however, once you launch the job click on **Task F10**, select **Sub-Contract** then **Send Out** (This changes the Job Status to **Sub Contract** ). Then select the date that the work is due back to you. 
 
@@ -388,4 +443,8 @@ To Sub Contract a job, first you need to set up a list of **Sub-Contracters**.
 
 Repeat these steps as much as necessary before completeing th job as normal.
 
+---
+
 ![Subcontracter](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sc_2.PNG "Sub Contract"){: .center-block}
+
+---
