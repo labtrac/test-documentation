@@ -130,7 +130,7 @@ If invoiced is NOT selected - The principal handles the associates invoices. The
 The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#VolumeDiscount) make sure the dentist is selected on the correct list or discount.
 
 
-![Adding a Dentist](/test-documentation/images/gs_2.png "Adding a Dentist"){: .center-block}
+![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_2.PNG "Adding a Dentist"){: .center-block}
 
 ***
 <a name="Analysis"></a>
@@ -166,7 +166,7 @@ Enter the dentist’s email address. If there is more than one email address ent
 
 You can then enter a greeting in the greeting box.
 
-![Adding a Dentist](/test-documentation/images/gs_3.png "Adding a Dentist"){: .center-block}
+![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_3.PNG "Adding a Dentist"){: .center-block}
 
 Select the documents that you wish to send by email. 
 
