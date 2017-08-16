@@ -3,12 +3,14 @@ layout: article
 title: Invoicing and Statements
 markdownpage: true
 ---
+<a class="offset" name="invoicingandstatements"></a>
 # Invoicing and Statements
 
 - - -
 
 <a class="offset" name="3.1"></a>
 <a name="InvoiceList"></a>
+<a class="offset" name="invoicelist"></a>
 ## Invoice List
 
 ***
@@ -23,6 +25,7 @@ To export, click the envelope icon. Rename the Invoice, select the location you 
 
 <a class="offset" name="3.2"></a>
 <a name="StatementManager"></a>
+<a class="offset" name="statementmanager"></a>
 ## Statement Manager
 
 ***
@@ -55,6 +58,7 @@ To produce your statements please follow these steps:
 	
 <a class="offset" name="3.4"></a>
 <a name="AccountActivity"></a>
+<a class="offset" name="accountactivity"></a>
 ## Account Activity
 ***
 
@@ -80,10 +84,12 @@ If you wish to bring an outstanding balance on an account into Labtrac you can *
 
 <a class="offset" name="3.5"></a>
 <a name="EndOfMonth"></a>
+<a class="offset" name="endofmonth"></a>
 ## End Of Month Guide
 
 ***
 <a name="Consolidated"></a>
+<a class="offset" name="consolidated"></a>
 ### Consolidated Invoices
 
 To run your end of month tasks for consolidated invoices please follow these steps.
@@ -112,6 +118,7 @@ To run your end of month tasks for consolidated invoices please follow these ste
 <a class="offset" name="3.6"></a>
 
 <a name="CRM"></a>
+<a class="offset" name="crm"></a>
 ## CRM Studio
 ***
 
@@ -144,6 +151,7 @@ To Email Invoices, Statments, Patient Statments or Delivery Notes:
 
 + If you have any issues when sending emails please contact [Labtrac Support](#LabtracSupport).
 
+<a class="offset" name="mydentist"></a>
 ### MyDentist Invoicing
 
 MyDentist require their invoices to be sent in a certain (CSV) format. Labtrac has made this easy by introducing a **Corporate Invoicing Module**
@@ -174,6 +182,7 @@ You are now set up and can send invoices.
 
 - - - 
 <a class="offset" name="3.65"></a>
+<a class="offset" name="invoiceexport"></a>
 ## Invoice Export
 
 To export your invoices please follow these steps;
@@ -214,6 +223,7 @@ Before exporting invoices for the first time you need to export your **Dentists*
 
 <a class="offset" name="3.7"></a>
 <a name="Backup"></a>
+<a class="offset" name="backup"></a>
 ## Backup
 
 - - - 
