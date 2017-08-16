@@ -177,6 +177,10 @@ Select the documents that you wish to send by email.
 
 The Dentist is ready to be entered by clicking OK.
 
+<video width="720" height="400" controls>
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%dentist%20(export%203).mp4" type="video/mp4">
+</video>{: .center-block}
+
 - - -
 
 <a class="offset" name="1.5"></a>
