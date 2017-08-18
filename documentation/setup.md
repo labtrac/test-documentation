@@ -66,7 +66,7 @@ EG.
 	
 When setting up product codes in Labtrac there are a few things to bear in mind;
 
-* There must be a product code for every standard of work that you do. Meaning if you do NHS, Independent and Private work then you will need 3 codes for each product. In the example below the code (PBC - for Porcelain Bonded Crown) is suffixed with either a N, I or P depending on the standard.
+* There must be a product code for every standard of work that you do. Meaning if you do NHS, Independent and Private work then you will need 3 codes for each product. In the example below the code (PBC - for Porcelain Bonded Crown) is suffixed with either a **N**, **I** or **P** depending on the standard.
 
 	* **PBC-N** for (NHS) Porcelain Bonded Crown
 	* **PBC-I** for (Independent) Porcelain Bonded Crown
@@ -131,7 +131,7 @@ The first check box is **Invoiced** if the dentist is selected as the principal 
 If invoiced is NOT selected - The principal handles the associates invoices. The principal handles and pays the associate’s invoices.
 {: .alert.alert-info}
 
-The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#VolumeDiscount) make sure the dentist is selected on the correct list or discount.
+The next thing to look at is <a href="setup#pricelists">Price Lists</a> and <a href="setup#volumediscount">Volume Discount</a> make sure the dentist is selected on the correct list or discount.
 
 ---
 
@@ -148,7 +148,7 @@ Here you can enter any preferences a dentist may have. This will show on the job
 
 If you have set up any analysis fields they will also appear in this tab. 
 
-Analysis codes can be used for anything you like and are set up by yourself in [System Settings](#SystemSettings).
+Analysis codes can be used for anything you like and are set up by yourself in <a href="system-settings#dentist">System Settings</a>.
 
 If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice Number and Dentist GDC number. This is where our corporate invoicing module will pull all the relevant information from.
 
@@ -159,7 +159,7 @@ If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice N
 
 **Tax Code** - here you can enter the amount of tax you wish to charge this dentist (tax must be set on the product/material also)
 
-**Volume Discount** - you can set the % discount for the dentist (until discount is re-calculated in [Discount](#Discount))
+**Volume Discount** - you can set the % discount for the dentist.
 
 **Settlement Details** - Enter the % discount you would like to apply. The days in which they must pay to receive the discount. The terms in writing to appear on the document.
 
@@ -202,7 +202,7 @@ The Dentist is ready to be entered by clicking OK.
 
 To add a new Product click **Products** in the contents bar then **Add F2** at the top of the Labtrac screen.
 
-In the new window enter a Product Code and Description. To see our recommended coding system see [Product Codes](#ProductCodes)
+In the new window enter a Product Code and Description. To see our recommended coding system see <a href="setup#productcodes">Product Codes</a>.
 
 ---
 
@@ -260,7 +260,7 @@ If you wish to charge tax on a material enter the amount *(in %)* that you wish 
 
 Go to **Materials** in the Contents bar then, **'Add F2'** at the top of the Labtrac screen.
 
-This will open a new window where you can enter a **Material Code** and **Description**. To see our recommended coding system please see [Product Codes](#ProductCodes).
+This will open a new window where you can enter a **Material Code** and **Description**. To see our recommended coding system please see <a href="setup#productcodes">Product Codes</a>.
 
 Click **Add** this will open the Material details page.
 
@@ -274,7 +274,7 @@ Enter the price for the product in every Pricelist that you use.
 
 If you charge tax on the material, you can add that (in %) in the **Tax Rate** Box.
 
-You can also add a **Standard** (which is set up in the [Product](#AddingProducts) section) if applicable.
+You can also add a **Standard** (which is set up in the <a href="setup#addingproducts">Adding Products</a> section) if applicable.
 
 You also have the option of adding a nominal code (for use with external accounting systems) a **Lead Time** and **U.O.M** (unit of measure). These are all for your reference only.
 
@@ -374,7 +374,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 *  Click **Task F10**.
 
-* This is where you can change the status of a job in Labtrac to a few different things. Such as the work being **'Out on Approval'** (see [Stage Work](#StageWork)), **Surgeon Return** (see [Stage Work](#StageWork)), **Hold Job**, **Sub Contract** (see [Sub-Contracting](#SubContracting) a job and **Complete Job**.
+* This is where you can change the status of a job in Labtrac to a few different things. Such as the work being **'Out on Approval'** (see <a href="setup#stagework">Stage Work</a>), **Surgeon Return** (see <a href="setup#stagework">Stage Work</a>), **Hold Job**, **Sub Contract** (see <a href="setup#subcontracting">Sub Contracting</a>) a job and **Complete Job**.
 
 * If any detail on the job need ammending before completion select **Hold Job** and make any changes that are needed. Then Launch Job again.
 
@@ -391,7 +391,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 </video>{: .center-block}
 
 ---
-<a name="StageWork"></a>
+
 <a class="offset" name="stagework"></a>
 ### Stage Work
 
@@ -415,7 +415,6 @@ Repeat these steps as many times as needed before finally completing the job as 
 
 - - -
 
-<a name="SubContacting"></a>
 <a class="offset" name="subcontracting"></a>
 ### Sub Contracting
 
