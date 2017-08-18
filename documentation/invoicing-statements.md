@@ -17,7 +17,7 @@ The **Invoice List** gives you a comprehensive list of all Invoices ever produce
 
 Find and open an invoice you wish to print. Then select either the print icon or export.
 
-![saveprint](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/saveprint.PNG "Save & Print"){: .center-block}
+![saveprint](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/saveprint.PNG "Save & Print"){: .center-block.img-responsive}
 
 To export, click the envelope icon. Rename the Invoice, select the location you wish to save it to and click **Export**.
 
@@ -47,7 +47,7 @@ To produce your statements please follow these steps:
 
 * Select **Preview** to view statements or **Print** to print without a preview
 
-![Statement Manager](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sm_1.PNG "Statement Manager"){: .center-block}
+![Statement Manager](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sm_1.PNG "Statement Manager"){: .center-block.img-responsive}
 
 >**Remember**
 >
@@ -73,7 +73,7 @@ To access **Account Activity** follow these steps:
 
 ---
 
-![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_1.PNG "Account Activity"){: .center-block}
+![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_1.PNG "Account Activity"){: .center-block.img-responsive}
 
 ---
 
@@ -87,7 +87,7 @@ If you wish to bring an outstanding balance on an account into Labtrac you can *
 
 ---
 
-![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_2.PNG "Post a Balance"){: .center-block}
+![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_2.PNG "Post a Balance"){: .center-block.img-responsive}
 
 - - -
 
