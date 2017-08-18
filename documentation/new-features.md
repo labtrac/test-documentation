@@ -7,21 +7,21 @@ We have added some new features in our latest version of Labtrac. We have improv
 We have broken down the new features here.
 
 
-# Video
+# Video 
 
 - - - 
 
-#### Online
+### Online
 
 - - -
 
-Labtrac Online allows you to work on the go. You are now able to view jobs, check whats due into the lab or late work as well as upload images and notes.
+Labtrac Online allows you to work on the go. You are able to view jobs, check whats due into the lab or late work as well as upload images and notes.
 
 For more please see <a href="online">Online</a>.
 
 - - -
 
-#### Payment Entry
+### Payment Entry
 
 - - -
 
@@ -31,7 +31,7 @@ For more please see <a href="payment-entry#paymententry">Entering a Payment</a>.
 
 - - -
 
-#### Job Entry
+### Job Entry
 
 - - -
 
@@ -47,9 +47,11 @@ Now with a brand new layout to make adding jobs quicker and easier.
 
 **Reverse Invoice** allows you to reverse a completed job and make changes directly from the job screen.
 
+For more please see <a href="setup-new#addingjobs">Adding a Job</a>
+
 - - -
 
-#### Product/Material Entry
+### Product/Material Entry
 
 - - -
 
@@ -61,7 +63,7 @@ For more on **Adding Materials** see <a href="setup-new#addingmaterials">Adding 
 
 - - -
 
-#### Tax
+### Tax
 
 - - -
 
