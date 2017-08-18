@@ -8,8 +8,6 @@ markdownpage: true
 
 - - -
 
-<a class="offset" name="3.1"></a>
-<a name="InvoiceList"></a>
 <a class="offset" name="invoicelist"></a>
 ## Invoice List
 
@@ -19,12 +17,12 @@ The **Invoice List** gives you a comprehensive list of all Invoices ever produce
 
 Find and open an invoice you wish to print. Then select either the print icon or export.
 
+![saveprint](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/saveprint.PNG "Save & Print")
+
 To export, click the envelope icon. Rename the Invoice, select the location you wish to save it to and click **Export**.
 
 - - - 
 
-<a class="offset" name="3.2"></a>
-<a name="StatementManager"></a>
 <a class="offset" name="statementmanager"></a>
 ## Statement Manager
 
@@ -41,25 +39,26 @@ To produce your statements please follow these steps:
 
 * Choose the type of statement you wish to produce.
 
->**Note**
+>**Remember**
 >
-> If you used consolidated invoicing **Grouped** will just show the monthly value for each consolidated invoice. **Itemised** will show a line for each job.
+> If you used consolidated invoicing **Grouped** will just show the monthly value for each consolidated invoice. **Itemised** will show a line for each job.{: .alert.alert-info}
 
 * Apply a **Dentist Filter** *if required*
 
 * Select **Preview** to view statements or **Print** to print without a preview
 
->**Note**
+![Statement Manager](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sm_1.PNG "Statement Manager")
+
+>**Remember**
 >
->To email statements please see [Labtrac CRM](#CRM)
+>To email statements please see <a href="invoicing-statements#crm">CRM Studio</a>
 {: .alert.alert-info}
 
 - - -
-	
-<a class="offset" name="3.4"></a>
-<a name="AccountActivity"></a>
+
 <a class="offset" name="accountactivity"></a>
 ## Account Activity
+
 ***
 
 **Account Activity** allows you to see a complete overview of any of your Dentists Accounts.
@@ -72,6 +71,12 @@ To access **Account Activity** follow these steps:
 
 * This will show you all **Invoices** *(paid and unpaid)*, **Payments**, **Credit Notes**, **Balances** and **Aged Debt**.
 
+---
+
+![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_1.PNG "Account Activity")
+
+---
+
 You can also **Post a Balance** in **Account Activity**;
 
 <a name="PostingBalance"></a>
@@ -80,15 +85,17 @@ If you wish to bring an outstanding balance on an account into Labtrac you can *
 
 * In the **Post a Balance** section enter a **Description, Amount and Date** then click **Post**. 
 
+---
+
+![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_3.PNG "Post a Balance")
+
 - - -
 
-<a class="offset" name="3.5"></a>
-<a name="EndOfMonth"></a>
 <a class="offset" name="endofmonth"></a>
 ## End Of Month Guide
 
 ***
-<a name="Consolidated"></a>
+
 <a class="offset" name="consolidated"></a>
 ### Consolidated Invoices
 
@@ -103,28 +110,25 @@ To run your end of month tasks for consolidated invoices please follow these ste
 
 * Make sure the correct month is selected in the dropdown menu
 
-* Click **Data Integrity Check** *(this will make sure there have been no errors during the month)*. This will produce 3 reports all of which should be blank. If they are not blank please contact **Labtrac Support** #LINK
+* Click **Data Integrity Check** *(this will make sure there have been no errors during the month)*. This will produce 3 reports all of which should be blank. If they are not blank please contact <a href="welcome#labtracsupport">Labtrac Support</a>
 
 * Click **Prepare**. This will start consolidating all of your invoices for the month. *If you have a lot of invoices for the month this process may take a few minutes.*
 
 *  To print Invoice click **Select All** then **Preview**. You can then print invoices from here.
 
-* To email invoice please see [CRM Studio](#CRM)
+* To email invoice please see <a href="invoicing-statements#crm">CRM Studio</a>
 
 * Please follow these links for **Statements**, **Invoice Export**, **Payment Entry**
 
 - - - 
 
-<a class="offset" name="3.6"></a>
-
-<a name="CRM"></a>
 <a class="offset" name="crm"></a>
 ## CRM Studio
 ***
 
 **CRM Studio**  is for email and MyDentist invoicing. 
 
-+ To set up your Dentists for email see [Adding a Dentist](#AddingDentist)
++ To set up your Dentists for email see <a href="setup#email">Adding Email on a Dentist</a>
 
 To Email Invoices, Statments, Patient Statments or Delivery Notes:
 
@@ -149,14 +153,14 @@ To Email Invoices, Statments, Patient Statments or Delivery Notes:
 
 + This will produce a report which should say *X invoices sent succesfully*.
 
-+ If you have any issues when sending emails please contact [Labtrac Support](#LabtracSupport).
++ If you have any issues when sending emails please contact <a href="welcome#labtracsupport">Labtrac Support</a>.
 
 <a class="offset" name="mydentist"></a>
 ### MyDentist Invoicing
 
 MyDentist require their invoices to be sent in a certain (CSV) format. Labtrac has made this easy by introducing a **Corporate Invoicing Module**
 
-Make sure you **Dentists** are set up for MyDentist Invocing. See [Adding a Dentist](#AddingDentists)
+Make sure you **Dentists** are set up for MyDentist Invocing. See <a href="setup#addingdentists">Adding a Dentist</a>
 
 To set this up you must first map your products to the product descriptions provided by MyDentist.
 
@@ -181,7 +185,7 @@ You are now set up and can send invoices.
 + **Send**
 
 - - - 
-<a class="offset" name="3.65"></a>
+
 <a class="offset" name="invoiceexport"></a>
 ## Invoice Export
 
@@ -221,8 +225,6 @@ Before exporting invoices for the first time you need to export your **Dentists*
 
 - - -
 
-<a class="offset" name="3.7"></a>
-<a name="Backup"></a>
 <a class="offset" name="backup"></a>
 ## Backup
 
@@ -238,6 +240,4 @@ Before exporting invoices for the first time you need to export your **Dentists*
 
 + This message will then close and the upload is complete.
 
-
-
-
+---
