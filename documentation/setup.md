@@ -43,7 +43,7 @@ Before you set up your **Dentists**, **Products** and **Materials** make sure yo
 >**Remember**
 >
 >The **Pricelist** is NOT the [Standard](#standard) of work *(eg. NHS, Independent, Private)*
-{: alert.alert-info}
+{: .alert.alert-info}
 
 - - - 
 
