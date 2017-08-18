@@ -20,8 +20,7 @@ If you wish to add personlised users go to <a href="system-settings#usermanager"
 
 ---
 
-![Sign In](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/signin.PNG "Sign In"){: .center-block}
-
+![Sign In](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/signin.PNG "Sign In"){: .center-block.img-responsive}
 ---
 
 <a class="offset" name="yourdata"></a>
@@ -107,7 +106,7 @@ In the new window enter a **Dentist Code** and **Dentist Name**. To see our reco
 
 - - -
 
-![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_1.PNG "Adding a Dentist"){: .center-block}
+![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_1.PNG "Adding a Dentist"){: .center-block.img-responsive}
 
 - - - 
 
@@ -135,7 +134,7 @@ The next thing to look at is <a href="setup#pricelists">Price Lists</a> and <a h
 
 ---
 
-![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_2.PNG "Adding a Dentist"){: .center-block}
+![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_2.PNG "Adding a Dentist"){: .center-block.img-responsive}
 
 ---
 
@@ -174,7 +173,7 @@ You can then enter a greeting in the greeting box.
 
 ---
 
-![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_3.PNG "Adding a Dentist"){: .center-block}
+![Adding a Dentist](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ad_3.PNG "Adding a Dentist"){: .center-block.img-responsive}
 
 ---
 
@@ -206,7 +205,7 @@ In the new window enter a Product Code and Description. To see our recommended c
 
 ---
 
-![Adding a Product](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ap_1.PNG "Adding a Product"){: .center-block}
+![Adding a Product](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ap_1.PNG "Adding a Product"){: .center-block.img-responsive}
 
 ---
 
@@ -243,7 +242,7 @@ If you wish to charge tax on a material enter the amount *(in %)* that you wish 
 
 ---
 
-![Adding a Product](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ap_2.PNG "Adding a Product"){: .center-block}
+![Adding a Product](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ap_2.PNG "Adding a Product"){: .center-block.img-responsive}
 
 ---
 
@@ -266,7 +265,7 @@ Click **Add** this will open the Material details page.
 
 ---
 
-![Adding a Material](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/am_1.PNG "Adding a Material"){: .center-block}
+![Adding a Material](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/am_1.PNG "Adding a Material"){: .center-block.img-responsive}
 
 ---
 
@@ -280,7 +279,7 @@ You also have the option of adding a nominal code (for use with external account
 
 ---
 
-![Adding a Material](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/am_2.PNG "Adding a Material"){: .center-block}
+![Adding a Material](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/am_2.PNG "Adding a Material"){: .center-block.img-responsive}
 
 ---
 
@@ -311,7 +310,7 @@ To add a material click **Material F8**. This will again open a list of all mate
 
 ---
 
-![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_1.PNG "Adding a Job"){: .center-block}
+![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_1.PNG "Adding a Job"){: .center-block.img-responsive}
 
 ---
 
@@ -319,7 +318,7 @@ In **Notepad** you can enter any information on the case you may want. This will
 
 ---
 
-![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_2.PNG "Adding a Job"){: .center-block}
+![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_2.PNG "Adding a Job"){: .center-block.img-responsive}
 
 ---
 
@@ -335,7 +334,7 @@ You can select the job as a **Remake**
 
 ---
 
-![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_3.PNG "Adding a Job"){: .center-block}
+![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_3.PNG "Adding a Job"){: .center-block.img-responsive}
 
 ---
 
@@ -352,7 +351,7 @@ Then add images to this folder by clicking **Add** and navigating to the image y
 
 ---
 
-![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_4.PNG "Adding a Job"){: .center-block}
+![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_4.PNG "Adding a Job"){: .center-block.img-responsive}
 
 ---
 
@@ -360,7 +359,7 @@ In **Dentist Notes** you can write any infomation you would like to send back to
 
 ---
 
-![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_5.PNG "Adding a Job"){: .center-block}
+![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_5.PNG "Adding a Job"){: .center-block.img-responsive}
 
 ---
 
@@ -382,7 +381,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 ---
 
-![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_6.PNG "Adding a Job"){: .center-block}
+![Adding a Job](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aj_6.PNG "Adding a Job"){: .center-block.img-responsive}
 
 ---
 
@@ -426,7 +425,7 @@ To Sub Contract a job, first you need to set up a list of **Sub-Contracters**.
 
 ---
 
-![Subcontracter](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sc_1.PNG "Sub Contract"){: .center-block}
+![Subcontracter](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sc_1.PNG "Sub Contract"){: .center-block.img-responsive}
 
 ---
 
@@ -438,6 +437,6 @@ Repeat these steps as much as necessary before completeing th job as normal.
 
 ---
 
-![Subcontracter](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sc_2.PNG "Sub Contract"){: .center-block}
+![Subcontracter](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sc_2.PNG "Sub Contract"){: .center-block.img-responsive}
 
 ---
