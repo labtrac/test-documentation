@@ -55,7 +55,7 @@ The options are;
 
 - *Check if Patient is Already on the System* - If the patient name, that you are entering, is already on the system for the same Dentist **Labtrac** will prompt you to view the previous case before you **Launch** the job. 
 
-- *Price Final Stage Only* - If this is selected when entering [Stage Work](#StageWork) **Labtrac** will ignore the prices on all but the last stage.
+- *Price Final Stage Only* - If this is selected when entering <a href="setup#stagework">Stage Work</a> **Labtrac** will ignore the prices on all but the last stage.
 
 - *Job Ticket by Batch* - Stops the job ticket printing and disables the prompt - allowing you to print job tickets by batch whenever you choose.
 
@@ -78,7 +78,7 @@ The options are;
 
 - *Print Invoice on A5 Paper* - Using this you can to print on A5 paper rather than the default A4.
 
-- *Export to External Accounts* - Select here if you wish to export your invoices to an external accounts package. Sage, Xero and Quickbooks Online are currently supported, if you have another accounts system that you would like integrated please contact [Labtrac Support](#LabtracSupport).
+- *Export to External Accounts* - Select here if you wish to export your invoices to an external accounts package. Sage, Xero and Quickbooks Online are currently supported, if you have another accounts system that you would like integrated please contact <a href="welcome#labtracsupport">Labtrac Support</a>
 
 - - - 
 
@@ -91,7 +91,7 @@ The options are;
 
 - *Print Patient Statement* - If selected a **Patient Statement** will automatically print when a job is completed.
 
-- *On Approval Notes* - If selected an **On Approval Note** will automatically print when a job is sent out on approval. See [Stage Work](#StageWork).
+- *On Approval Notes* - If selected an **On Approval Note** will automatically print when a job is sent out on approval. See <a href="setup#stagework">Stage Work</a>.
 
 If these are not selected you will receive a prompt on completion asking if you wish to print any of the above documents.
 
@@ -107,7 +107,7 @@ If these are not selected you will receive a prompt on completion asking if you 
 
 	- If this is set to **YES** the system will produce a *Single Invoice* with every completed job.
 
-	- If this is set to **NO** then the completed job will be added to a Consolidated Invoice for preparing and printing at the month end.
+	- If this is set to **NO** then the completed job will be added to a *Consolidated Invoice* for preparing and printing at the month end.
 
 
 + **Copy of Invoice sent to Principal**
@@ -124,7 +124,7 @@ If these are not selected you will receive a prompt on completion asking if you 
 
 >**Remember**
 >
->The value exported to an external accounts package will be the gross value.
+>The value exported to an external accounts package will be the gross value. Discount will not be included.
 {: .alert.alert-info}
 
 <a name="Analysis"></a>
@@ -154,13 +154,13 @@ If these are not selected you will receive a prompt on completion asking if you 
 
 	- The default details entered in this section will be placed on any new Dentist record automatically. They can then be amended on the Dentist Details page as required.
 
-	- **Days** - The number of days withinwhich the settlement discount will apply.
+	- **Days** - The number of days within which the settlement discount will apply.
 
 	- **Terms** - The settlement terms to be shown on the invoice.
 	
 + **Contact**
 	
-	- The Contact fields can be set to record any information you like. Box 1 and 2 are set up for you, the rest are free form boxes to be filled in.
+	- The Contact fields can be set to record any information you like. Box 1 and 2 are set up for you, the rest are free form boxes to be filled in with any information you may require.
 	
 - - -
 
@@ -169,7 +169,7 @@ If these are not selected you will receive a prompt on completion asking if you 
 
 - - - 
 
-The Laboratory's bank details can be added here but these details are **not used** by the system. These are purely for your reference.
+The Laboratories bank details can be added here but these details are **not used** within the system. These are purely for your reference.
 
 + **Bank Name** 
 
