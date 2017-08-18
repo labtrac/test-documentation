@@ -47,7 +47,7 @@ To produce your statements please follow these steps:
 
 * Select **Preview** to view statements or **Print** to print without a preview
 
-![Statement Manager](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sm_1.PNG "Statement Manager")
+![Statement Manager](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sm_1.PNG "Statement Manager"){: .center-block}
 
 >**Remember**
 >
@@ -73,7 +73,7 @@ To access **Account Activity** follow these steps:
 
 ---
 
-![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_1.PNG "Account Activity")
+![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_2.PNG "Account Activity"){: .center-block}
 
 ---
 
@@ -87,7 +87,7 @@ If you wish to bring an outstanding balance on an account into Labtrac you can *
 
 ---
 
-![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_3.PNG "Post a Balance")
+![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_3.PNG "Post a Balance"){: .center-block}
 
 - - -
 
