@@ -73,7 +73,7 @@ To access **Account Activity** follow these steps:
 
 ---
 
-![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_1.PNG "Account Activity"){: .center-block}
+![Account Activity](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/aa_2.PNG "Account Activity"){: .center-block}
 
 ---
 
