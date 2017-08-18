@@ -9,9 +9,7 @@ markdownpage: true
 
 This document provides a guide to Labtrac, covering everything from the initial set up to day to day running of the system. We will also try to answer the questions we are asked regularly in <a href="faqs">Frequently Asked Questions</a>.
 
-If you feel there is any area we have missed in this guide please let us know and we will look to add it as soon as possible.
-
-<a name="LabtracSupport"></a>
+<a href name="labtracsupport"></a>
 
 Some contact numbers that you may find useful:
 
