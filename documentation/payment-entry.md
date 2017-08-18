@@ -18,7 +18,7 @@ Select the account, from the list, that you would like to post the payment again
 
 ---
 
-![Payment Entry](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_1.PNG "Payment Entry"){: .center-block.img responsive}
+![Payment Entry](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_1.PNG "Payment Entry"){: .center-block.img-responsive}
 
 ![Payment Entry](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_1.PNG "Payment Entry"){: .center-block.}
 
