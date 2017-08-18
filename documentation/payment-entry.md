@@ -20,8 +20,6 @@ Select the account, from the list, that you would like to post the payment again
 
 ![Payment Entry](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_1.PNG "Payment Entry"){: .center-block.img-responsive}
 
-![Payment Entry](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_1.PNG "Payment Entry"){: .center-block.}
-
 ---
 
 This will open a new window.
@@ -36,13 +34,13 @@ Then go through and tick every invoice in the list which the payment covers. If 
 
 ---
 
-![Payment Entry](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_2.PNG "Payment Entry"){: .center-block}
+![Payment Entry](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_2.PNG "Payment Entry"){: .center-block.img-responsive}
 
 ---
 
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/payment%20entry%20(export%203).m4v">
-</video>{: .center-block}
+</video>{: .center-block.img-responsive}
 
 ---
 
@@ -55,7 +53,7 @@ To reverse a payment:
 
 ---
 
-![Reverse a Payment](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_3.PNG "Reverse Payment"){: .center-block}
+![Reverse a Payment](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_3.PNG "Reverse Payment"){: .center-block.img-responsive}
 
 ---
 
@@ -63,7 +61,7 @@ To reverse a payment:
 
 ---
 
-![Reverse a Payment](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_4.PNG "Reverse Payment"){: .center-block}
+![Reverse a Payment](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_4.PNG "Reverse Payment"){: .center-block.img-responsive}
 
 ---
 
@@ -77,7 +75,7 @@ To reverse a payment:
 
 ---
 
-![Reverse a Payment](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_5.PNG "Reverse Payment"){: .center-block}
+![Reverse a Payment](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/pe_5.PNG "Reverse Payment"){: .center-block.img-responsive}
 
 ---
 
@@ -87,6 +85,6 @@ Your invoice will now appear again in **Payment Entry**
 
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/reversing%20a%20payment%20(export%203).m4v">
-</video>{: .center-block}
+</video>{: .center-block.img-responsive}
 
 ---
