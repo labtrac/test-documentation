@@ -236,7 +236,7 @@ Enter any information that you would like to be included in the footnotes of a d
 
 ---
 
-Custom Reports gives you an alternative version of anyone of our reports. We reccomend speaking to [Labtrac Support](#LabtracSupport) before using these.
+Custom Reports gives you an alternative version of anyone of our reports. We recommend speaking to <a href="setup#labtracsupport">Labtrac Support</a> before using these.
 
 - - -
 
