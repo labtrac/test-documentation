@@ -10,6 +10,8 @@ markdownpage: true
 <a class="offset" name="access"></a>
 ## Access to Labtrac
 
+---
+
 Open Labtrac.
 
 The Username and Password will both be 'sys' by default. 
@@ -27,7 +29,11 @@ If you wish to add personlised users go to <a href="system-settings#usermanager"
 <a class="offset" name="yourdata"></a>
 ## Inputting Your Data
 
+---
+
 ### Things to Consider Before Getting Started
+
+---
 
 Now Labtrac is set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
@@ -36,6 +42,8 @@ Now Labtrac is set up, you will need to enter all required data (Dentists, Produ
 <a name="PriceLists"></a>
 <a class="offset" name="pricelists"></a>
 ### Price Lists
+
+---
 
 Before you set up your **Dentists**, **Products** and **Materials** make sure you have a clear understanding of all the pricelists that will be in use.
 
@@ -49,6 +57,8 @@ Before you set up your **Dentists**, **Products** and **Materials** make sure yo
 <a name="DentistCodes"></a>
 <a class="offset" name="dentistcodes"></a>
 ### Dentist Codes
+
+---
 
 Every dentist in Labtrac needs a unique code. If you already have a coding system in place then you can carry on with that. If not we recommend using the first 4 letters of the surname followed by 01 (in case of duplicates then 02, 03, 04 etc).
 
@@ -79,6 +89,8 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 <a class="offset" name="delivery methods"></a>
 ### Delivery Methods
 
+---
+
 * To set up how the dentists recieve the work open **Delivery Details** from the content bar on the left side of the screen.
 
 * This opens a list of all your Delivery Methods to add a new one click **Add** in the bottom left.
@@ -101,6 +113,8 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 <a name="Adding a Dentist"></a>	
 <a class="offset" name="addingdentists"></a>
 ## Adding a Dentist
+
+---
 
 To add a new Dentist, click **Dentist** in the contents bar then **Add F2** at the top of the Labtrac screen. 
 
@@ -145,6 +159,8 @@ The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#V
 <a class="offset" name="analysis"></a>
 ### Analysis + Prefs
 
+---
+
 Here you can enter any preferences a dentist may have. This will show on the job details page as well as on the job ticket.
 
 If you have set up any analysis fields they will also appear in this tab. 
@@ -158,6 +174,7 @@ If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice N
 <a class="offset" name="financial"></a>
 ### Financial
 
+---
 
 **Tax Code** - here you can enter the amount of tax you wish to charge this dentist (tax must be set on the product/material also)
 
@@ -169,6 +186,8 @@ If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice N
 <a name="Email"></a>
 <a class="offset" name="email"></a>
 ### Email
+
+---
 
 Enter the dentist’s email address. If there is more than one email address enter a semi-colon, then a space before typing the next email. *(eg. example@email.com; example2@email.com)*
 
@@ -201,6 +220,8 @@ The Dentist is ready to be entered by clicking OK.
 <a name="AddingProducts"></a>
 <a class="offset" name="addingproducts"></a>
 ## Adding Products
+
+---
 
 To add a new Product click **Products** in the contents bar then **Add F2** at the top of the Labtrac screen.
 
@@ -262,6 +283,8 @@ If you wish to charge tax on a material enter the amount *(in %)* that you wish 
 <a class="offset" name="addingmaterials"></a>
 ## Adding Materials
 
+---
+
 Go to **Materials** in the Contents bar then, **'Add F2'** at the top of the Labtrac screen.
 
 This will open a new window where you can enter a **Material Code** and **Description**. To see our recommended coding system please see [Product Codes](#ProductCodes).
@@ -300,6 +323,8 @@ You also have the option of adding a nominal code (for use with external account
 <a name="EnteringJobs"></a>
 <a class="offset" name="addingjobs"></a>
 ## Adding a Job
+
+---
 
 To add a new job click on **Live Jobs** in the contents bar then **Add F2** to open the Job entry screen.
 
@@ -376,6 +401,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 <a class="offset" name="completingjobs"></a>
 ### Completing the Job
 
+---
 
 * Open up a job that is ready to be completed.
 
@@ -403,6 +429,8 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 <a name="StageWork"></a>
 <a class="offset" name="stagework"></a>
 ### Stage Work
+
+---
 
 * Enter a job and fill out all the required information.
 
