@@ -24,8 +24,6 @@ If you wish to add personlised users go to <a href="system-settings#usermanager"
 
 ---
 
-<a class="offset" name="1.2"></a>
-<a name="DataBuild"></a>
 <a class="offset" name="yourdata"></a>
 ## Inputting Your Data
 
@@ -33,17 +31,12 @@ If you wish to add personlised users go to <a href="system-settings#usermanager"
 
 ### Things to Consider Before Getting Started
 
----
-
 Now Labtrac is set up, you will need to enter all required data (Dentists, Products, Materials etc)
 
 - - - 
 
-<a name="PriceLists"></a>
 <a class="offset" name="pricelists"></a>
 ### Price Lists
-
----
 
 Before you set up your **Dentists**, **Products** and **Materials** make sure you have a clear understanding of all the pricelists that will be in use.
 
@@ -54,11 +47,8 @@ Before you set up your **Dentists**, **Products** and **Materials** make sure yo
 
 - - - 
 
-<a name="DentistCodes"></a>
 <a class="offset" name="dentistcodes"></a>
 ### Dentist Codes
-
----
 
 Every dentist in Labtrac needs a unique code. If you already have a coding system in place then you can carry on with that. If not we recommend using the first 4 letters of the surname followed by 01 (in case of duplicates then 02, 03, 04 etc).
 
@@ -71,7 +61,6 @@ EG.
 
 - - - 
 
-<a name="ProductCodes"></a>
 <a class="offset" name="productcodes"></a>
 ### Product Codes
 	
@@ -85,11 +74,9 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 
 - - - 
 
-<a name ="DeliveryMethods"></a>	
-<a class="offset" name="delivery methods"></a>
+<a class="offset" name="deliverymethods"></a>
 ### Delivery Methods
 
----
 
 * To set up how the dentists recieve the work open **Delivery Details** from the content bar on the left side of the screen.
 
@@ -103,14 +90,12 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 
 * The **Rep** and **Sales Area** boxes are optional additional infomation, it is not needed to set up a Run.
 
-
+---
 
 ![Delivery Method Video](/test-documentation/image\Delivery Method.PNG)
 
 - - - 
 
-<a class="offset" name="1.4"></a>
-<a name="Adding a Dentist"></a>	
 <a class="offset" name="addingdentists"></a>
 ## Adding a Dentist
 
@@ -155,11 +140,9 @@ The next thing to look at is [Price Lists](#PriceLists) and [Volume Discount](#V
 ---
 
 ***
-<a name="Analysis"></a>
+
 <a class="offset" name="analysis"></a>
 ### Analysis + Prefs
-
----
 
 Here you can enter any preferences a dentist may have. This will show on the job details page as well as on the job ticket.
 
@@ -170,11 +153,9 @@ Analysis codes can be used for anything you like and are set up by yourself in [
 If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice Number and Dentist GDC number. This is where our corporate invoicing module will pull all the relevant information from.
 
 ***
-<a name="Financial"></a>
+
 <a class="offset" name="financial"></a>
 ### Financial
-
----
 
 **Tax Code** - here you can enter the amount of tax you wish to charge this dentist (tax must be set on the product/material also)
 
@@ -183,11 +164,9 @@ If you are a MyDentist lab analysis fields 4 + 5 will be used for the Practice N
 **Settlement Details** - Enter the % discount you would like to apply. The days in which they must pay to receive the discount. The terms in writing to appear on the document.
 
 ***
-<a name="Email"></a>
+
 <a class="offset" name="email"></a>
 ### Email
-
----
 
 Enter the dentist’s email address. If there is more than one email address enter a semi-colon, then a space before typing the next email. *(eg. example@email.com; example2@email.com)*
 
@@ -216,8 +195,6 @@ The Dentist is ready to be entered by clicking OK.
 
 - - -
 
-<a class="offset" name="1.5"></a>
-<a name="AddingProducts"></a>
 <a class="offset" name="addingproducts"></a>
 ## Adding Products
 
@@ -270,16 +247,12 @@ If you wish to charge tax on a material enter the amount *(in %)* that you wish 
 
 ---
 
----
-
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20product%20(export%203).m4v" type="video/mp4">
 </video>{: .center-block}
 
 - - - 
 
-<a class="offset" name="1.6"></a>
-<a name="AddingMaterials"></a>
 <a class="offset" name="addingmaterials"></a>
 ## Adding Materials
 
@@ -311,16 +284,12 @@ You also have the option of adding a nominal code (for use with external account
 
 ---
 
----
-
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20material%20(export%203).m4v">
 </video>{: .center-block}
 
 - - -
 
-<a class="offset" name="1.7"></a>
-<a name="EnteringJobs"></a>
 <a class="offset" name="addingjobs"></a>
 ## Adding a Job
 
@@ -401,8 +370,6 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 <a class="offset" name="completingjobs"></a>
 ### Completing the Job
 
----
-
 * Open up a job that is ready to be completed.
 
 *  Click **Task F10**.
@@ -419,8 +386,6 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 ---
 
----
-
 <video width="720" height="400" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20job%20(export%203).m4v">
 </video>{: .center-block}
@@ -429,8 +394,6 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 <a name="StageWork"></a>
 <a class="offset" name="stagework"></a>
 ### Stage Work
-
----
 
 * Enter a job and fill out all the required information.
 
@@ -455,8 +418,6 @@ Repeat these steps as many times as needed before finally completing the job as 
 <a name="SubContacting"></a>
 <a class="offset" name="subcontracting"></a>
 ### Sub Contracting
-
-- - -
 
 To Sub Contract a job, first you need to set up a list of **Sub-Contracters**. 
 
