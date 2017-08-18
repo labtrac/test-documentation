@@ -17,7 +17,7 @@ The **Invoice List** gives you a comprehensive list of all Invoices ever produce
 
 Find and open an invoice you wish to print. Then select either the print icon or export.
 
-![saveprint](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/saveprint.PNG "Save & Print")
+![saveprint](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/saveprint.PNG "Save & Print"){: .center-block}
 
 To export, click the envelope icon. Rename the Invoice, select the location you wish to save it to and click **Export**.
 
