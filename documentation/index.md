@@ -38,7 +38,9 @@ When we need to Install Labtrac, carry out any training or resolve any issues we
 
 To install TeamViewer please follow these steps.
 
-* Go to labtrac.com/en/support
+* Go to labtrac.com
+
+* Click support in the upper right corner.
 
 * Under support click ***Labtrac Remote Support Client***. This will start a download of the software. 
 
@@ -46,7 +48,7 @@ To install TeamViewer please follow these steps.
 
 * Follow the instructions and go through the installer.
 
-* When it asks for a PC name please enter your lab name to allow us to find you in our list of PC's.
+* When the installer asks for a PC name please enter your lab name to allow us to find you in our list of PC's.
 
 * Enter a password. Please don't make this a personal password as you will need to tell the members of the Labtrac Support team.
 
