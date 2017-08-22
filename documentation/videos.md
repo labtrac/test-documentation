@@ -8,6 +8,16 @@ markdownpage: true
 
 - - - 
 
+### Adding Dentists
+
+- - -
+
+<video width="720" height="400" controls>
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%dentist%20(export%203).m4v" type="video/mp4">
+</video>{: .center-block}
+
+- - -
+
 ### Adding Products
 
 - - -
