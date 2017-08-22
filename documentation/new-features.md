@@ -6,8 +6,11 @@ We have added some new features in our latest version of Labtrac. We have improv
 
 We have broken down the new features here.
 
+- - -
 
-# Video 
+<video width="720" height="400" controls>
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/whats%20new%%20(export%203).m4v" type="video/mp4">
+</video>{: .center-block}
 
 - - - 
 
