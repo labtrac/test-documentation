@@ -32,7 +32,10 @@ To change prices follow these steps;
 
 * Click **Calculate Prices** to commit these changes.
 
-# Image
+---
+
+![Product Pricing Wizard](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/ppw_1.PNG "Product Pricing Wizard"){: .center-block.img-responsive}
+
 
 - - - 
 
@@ -60,4 +63,8 @@ To change prices follow these steps;
 
 * Click **Execute** to commit these changes.
 
-# Image
+---
+
+![Material Pricing Wizard](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/mpw_1.PNG "Material Pricing Wizard"){: .center-block.img-responsive}
+
+---
