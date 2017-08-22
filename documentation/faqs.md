@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Invoicing and Statements
+title: Frequently Asked Questions
 markdownpage: true
 ---
 ## Frequently Asked Questions
