@@ -1,3 +1,9 @@
+---
+layout: article
+title: Invoicing and Statements
+markdownpage: true
+---
+
 ## Labtrac Online
 
 - - - 
