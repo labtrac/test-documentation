@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Invoicing and Statements
+title: Pricing Wizards
 markdownpage: true
 ---
 
