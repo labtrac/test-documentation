@@ -1,9 +1,8 @@
 ---
 layout: article
-title: Welcome
+title: Invoicing and Statements
 markdownpage: true
-- - -
-
+---
 ## Frequently Asked Questions
 
 - - -
