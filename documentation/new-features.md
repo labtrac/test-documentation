@@ -1,3 +1,9 @@
+---
+layout: article
+title: New Features
+markdownpage: true
+---
+
 ## Whats new in Labtrac?
 
 - - -
