@@ -18,8 +18,12 @@ The reports are broken down into 6 sections.
 
 This contains the general accounting reports including;
 
-    - Aged Debt - Full
-    - Aged Debt - Non Zero
++ Aged Debt - Full
+    - Complete list of Aged Debt on all accounts
+    
++ Aged Debt - Non Zero
+    -
+    
     - Aged Debt Historic
     - Invoice List
     - Payment Summary with Page Break
