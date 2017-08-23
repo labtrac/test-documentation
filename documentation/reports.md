@@ -4,13 +4,15 @@ title: Reports
 markdownpage: true
 ---
 
-# Reports
+## Reports
 
 
 
 Double click on *Reports* in the contents bar of Labtrac and you will see the Reports Package.
 
 The reports are broken down into 6 sections.
+
+---
 
 ### Accounting
 
@@ -24,6 +26,8 @@ This contains the general accounting reports including;
     - Payment Summary
     - Total Completed Sales
     - Total Invoiced Sales
+    
+---
 
 ### Custom
 
@@ -34,10 +38,13 @@ By default there will be 2 reports in the custom folder.
     - Consolidated Delivery Note with Notation
     - MyDentist Statement
 
+---
+
 ### General
 
-    - General reports are available to any user with any security level. You are able to select which report they view.
-   
+General reports are available to any user with any security level. You are able to select which report they view.
+
+---
     
 ### Management
 
@@ -60,7 +67,9 @@ This contains managment reports including;
     - Remake Report
     - Work in Progress by Category
     - Work in Progress by Value
-    
+
+---
+
 ### Operational    
 
 This breaks down the labs performance by;
@@ -70,7 +79,9 @@ This breaks down the labs performance by;
     - Work Booked In by 'Received' Date
     - Work Due Out by 'Due' Date
     - Work Due Out by 'Requierd at Practice' Date
-    
+
+---
+
 ### Sales    
 
 This breaks down sales by;
@@ -94,6 +105,7 @@ This breaks down sales by;
     - Performance by Standard
     - Sales by Dentist
     - Sales by Practice
-    
+
+---
     
 VIDEO!
