@@ -24,12 +24,12 @@ This contains the general accounting reports including;
 + Aged Debt - Non Zero
     -
     
-    - Aged Debt Historic
-    - Invoice List
-    - Payment Summary with Page Break
-    - Payment Summary
-    - Total Completed Sales
-    - Total Invoiced Sales
++ Aged Debt Historic
++ Invoice List
++ Payment Summary with Page Break
++ Payment Summary
++ Total Completed Sales
++ Total Invoiced Sales
     
 ---
 
