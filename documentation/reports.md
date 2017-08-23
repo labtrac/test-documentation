@@ -4,9 +4,9 @@ title: Reports
 markdownpage: true
 ---
 
-# Reports
+## Reports
 
-
+---
 
 Double click on *Reports* in the contents bar of Labtrac and you will see the Reports Package.
 
@@ -14,7 +14,9 @@ The reports are broken down into 6 sections.
 
 ---
 
-## Accounting
+### Accounting
+
+---
 
 This contains the general accounting reports including;
 
@@ -38,7 +40,9 @@ This contains the general accounting reports including;
     
 ---
 
-## Custom
+### Custom
+
+---
 
 If you have any custom reports they will appear in this folder.
 
@@ -52,17 +56,21 @@ By default there will be 2 reports in the custom folder.
 
 ---
 
-## General
+### General
+
+---
 
 General reports are available to any user with any security level. You are able to select which report they view.
 
 ---
     
-## Management
+### Management
+
+---
 
 This contains managment reports including;
 
----
+
 
 **Audit Practice - Dentists**
 
@@ -100,11 +108,12 @@ This contains managment reports including;
 
 ---
 
-## Operational    
+### Operational    
+
+---
 
 This breaks down the labs performance by;
 
----
 
 **Delivery by Run - Practice**
 
@@ -118,11 +127,13 @@ This breaks down the labs performance by;
 
 ---
 
-## Sales    
+### Sales   
+
+---
 
 This breaks down sales by;
 
----
+
 
 **Analysis of Completed Jobs by Dentist-Product**
 
