@@ -16,45 +16,84 @@ The reports are broken down into 6 sections.
 
 This contains the general accounting reports including;
 
-    - Aged Debts
+    - Aged Debt - Full
+    - Aged Debt - Non Zero
+    - Aged Debt Historic
     - Invoice List
-    - Payment Summaries
-    - Total Sales figures
+    - Payment Summary with Page Break
+    - Payment Summary
+    - Total Completed Sales
+    - Total Invoiced Sales
 
 ### Custom
 
-    - If you have any custom reports they will appear in this folder.
-    
+If you have any custom reports they will appear in this folder.
+
+By default there will be 2 reports in the custom folder.
+
+    - Consolidated Delivery Note with Notation
+    - MyDentist Statement
+
 ### General
 
     - General reports are available to any user with any security level. You are able to select which report they view.
    
     
-### Managment
+### Management
 
 This contains managment reports including;
 
-    - Work in the Lab/Due Out
-    - Surgeon/Product Details
-    - DAMAS Reports
+    - Audit Practice - Dentists
+    - Audit Transactions
+    - DAMAS - Calibration
+    - DAMAS - Complaint
+    - DAMAS - Machine Maintenence
+    - DAMAS - Training Record
+    - Dentist Details
+    - Price List - Materials
+    - Price List - Products
+    - Price List (Parameters)
+    - Proce List by Standard (Parameters)
+    - Product Details
+    - Remake by Dentist
+    - Remake by Reason
+    - Remake Report
+    - Work in Progress by Category
+    - Work in Progress by Value
     
-### Performance    
+### Operational    
 
 This breaks down the labs performance by;
 
-    - Dentist Performace
-    - Product Performance
-    - Material Performance
-    - Lab Overview
+    - Delivery by Run - PRactice
+    - Delivery by Run
+    - Work Booked In by 'Received' Date
+    - Work Due Out by 'Due' Date
+    - Work Due Out by 'Requierd at Practice' Date
     
 ### Sales    
 
 This breaks down sales by;
 
-    - Daily Sales
-    - Monthly Sales
-    - Yearly Sales
-    - Top Sales
+    - Analysis of Completed Jobs by Dentist-Product
+    - Analysis of Completed Jobs by Practice-Product
+    - Monthly Sales by Category
+    - Monthly Sales by Dentist by Category
+    - Monthly Sales by Dentist by Standard
+    - Monthly Sales by Dentist
+    - Monthly Sales by Practice
+    - Monthly Sales by Product-Qty
+    - Monthly Sales by Standard
+    - Monthly Sales by Value - Top 20 
+    - Performance by Category
+    - Performance by Dentist - Top 20
+    - Performance by Dentist
+    - Performance by Material
+    - Performance by Product - Top 20 
+    - Performance by Product
+    - Performance by Standard
+    - Sales by Dentist
+    - Sales by Practice
     
     
 VIDEO!
