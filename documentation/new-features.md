@@ -15,7 +15,7 @@ We have broken down the new features here.
 - - -
 
 <video width="720" height="400" controls>
-<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/whats%20new%%20(export%203).m4v" type="video/mp4">
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/whats%20new%20(export%203).mp4">
 </video>{: .center-block}
 
 - - - 
