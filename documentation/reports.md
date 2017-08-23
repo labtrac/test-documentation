@@ -4,7 +4,7 @@ title: Reports
 markdownpage: true
 ---
 
-## Reports
+# Reports
 
 
 
@@ -14,7 +14,7 @@ The reports are broken down into 6 sections.
 
 ---
 
-### Accounting
+## Accounting
 
 This contains the general accounting reports including;
 
@@ -38,7 +38,7 @@ This contains the general accounting reports including;
     
 ---
 
-### Custom
+## Custom
 
 If you have any custom reports they will appear in this folder.
 
@@ -52,13 +52,13 @@ By default there will be 2 reports in the custom folder.
 
 ---
 
-### General
+## General
 
 General reports are available to any user with any security level. You are able to select which report they view.
 
 ---
     
-### Management
+## Management
 
 This contains managment reports including;
 
@@ -100,21 +100,25 @@ This contains managment reports including;
 
 ---
 
-### Operational    
+## Operational    
 
 This breaks down the labs performance by;
 
 ---
 
 **Delivery by Run - Practice**
+
 **Delivery by Run**
+
 **Work Booked In by 'Received' Date**
+
 **Work Due Out by 'Due' Date**
+
 **Work Due Out by 'Requierd at Practice' Date**
 
 ---
 
-### Sales    
+## Sales    
 
 This breaks down sales by;
 
