@@ -22,7 +22,7 @@ This contains the general accounting reports including;
     - Complete list of Aged Debt on all accounts
     
 + Aged Debt - Non Zero
-    -
+    - Aged Debt on all accounts with an outstanding balance
     
 + Aged Debt Historic
 + Invoice List
