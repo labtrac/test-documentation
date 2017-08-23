@@ -42,8 +42,9 @@ If you have any custom reports they will appear in this folder.
 
 By default there will be 2 reports in the custom folder.
 
-    - Consolidated Delivery Note with Notation
-    - MyDentist Statement
+**Consolidated Delivery Note with Notation** - * *
+
+**MyDentist Statement**
 
 ---
 
@@ -57,23 +58,39 @@ General reports are available to any user with any security level. You are able 
 
 This contains managment reports including;
 
-    - Audit Practice - Dentists
-    - Audit Transactions
-    - DAMAS - Calibration
-    - DAMAS - Complaint
-    - DAMAS - Machine Maintenence
-    - DAMAS - Training Record
-    - Dentist Details
-    - Price List - Materials
-    - Price List - Products
-    - Price List (Parameters)
-    - Proce List by Standard (Parameters)
-    - Product Details
-    - Remake by Dentist
-    - Remake by Reason
-    - Remake Report
-    - Work in Progress by Category
-    - Work in Progress by Value
+**Audit Practice - Dentists**
+
+**Audit Transactions**
+
+**DAMAS - Calibration**
+
+**DAMAS - Complaint**
+
+**DAMAS - Machine Maintenence**
+
+**DAMAS - Training Record**
+
+**Dentist Details**
+
+**Price List - Materials**
+
+**Price List - Products**
+
+**Price List (Parameters)**
+
+**Proce List by Standard (Parameters)**
+
+**Product Details**
+
+**Remake by Dentist**
+
+**Remake by Reason**
+
+**Remake Report**
+
+**Work in Progress by Category**
+
+** Work in Progress by Value**
 
 ---
 
@@ -81,11 +98,11 @@ This contains managment reports including;
 
 This breaks down the labs performance by;
 
-    - Delivery by Run - PRactice
-    - Delivery by Run
-    - Work Booked In by 'Received' Date
-    - Work Due Out by 'Due' Date
-    - Work Due Out by 'Requierd at Practice' Date
+**Delivery by Run - Practice**
+**Delivery by Run**
+**Work Booked In by 'Received' Date**
+**Work Due Out by 'Due' Date**
+**Work Due Out by 'Requierd at Practice' Date**
 
 ---
 
@@ -93,25 +110,43 @@ This breaks down the labs performance by;
 
 This breaks down sales by;
 
-    - Analysis of Completed Jobs by Dentist-Product
-    - Analysis of Completed Jobs by Practice-Product
-    - Monthly Sales by Category
-    - Monthly Sales by Dentist by Category
-    - Monthly Sales by Dentist by Standard
-    - Monthly Sales by Dentist
-    - Monthly Sales by Practice
-    - Monthly Sales by Product-Qty
-    - Monthly Sales by Standard
-    - Monthly Sales by Value - Top 20 
-    - Performance by Category
-    - Performance by Dentist - Top 20
-    - Performance by Dentist
-    - Performance by Material
-    - Performance by Product - Top 20 
-    - Performance by Product
-    - Performance by Standard
-    - Sales by Dentist
-    - Sales by Practice
+**Analysis of Completed Jobs by Dentist-Product**
+
+**Analysis of Completed Jobs by Practice-Product**
+
+**Monthly Sales by Category**
+
+**Monthly Sales by Dentist by Category**
+
+**Monthly Sales by Dentist by Standard**
+
+**Monthly Sales by Dentist**
+
+**Monthly Sales by Practice**
+
+**Monthly Sales by Product-Qty**
+
+**Monthly Sales by Standard**
+
+**Monthly Sales by Value - Top 20** 
+
+**Performance by Category**
+
+**Performance by Dentist - Top 20**
+
+**Performance by Dentist**
+
+**Performance by Material**
+
+**Performance by Product - Top 20** 
+
+**Performance by Product**
+
+**Performance by Standard**
+
+**Sales by Dentist**
+
+**Sales by Practice**
 
 ---
     
