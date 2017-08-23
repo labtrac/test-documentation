@@ -20,15 +20,19 @@ This contains the general accounting reports including;
 
 **Aged Debt - Full** - *Complete list of Aged Debt on all accounts*
     
-+ Aged Debt - Non Zero
-    - Aged Debt on all accounts with an outstanding balance
+**Aged Debt - Non Zero** - *Aged Debt on all accounts with an outstanding balance*
     
-+ Aged Debt Historic
-+ Invoice List
-+ Payment Summary with Page Break
-+ Payment Summary
-+ Total Completed Sales
-+ Total Invoiced Sales
+**Aged Debt Historic** - * * 
+
+**Invoice List** - * *
+
+**Payment Summary with Page Break** - * *
+
+**Payment Summary** - * *
+
+**Total Completed Sales** - * * 
+
+**Total Invoiced Sales** - * *
     
 ---
 
