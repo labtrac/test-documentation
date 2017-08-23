@@ -28,7 +28,7 @@ The reports are broken down into 6 sections.
 
 **Payment Summary with Page Break** - *List of all payments broken down, page by page, by payment type*
 
-**Payment Summary** - *List of all payments *
+**Payment Summary** - *List of all payments*
 
 **Total Completed Sales** - *Total completed jobs broken down day by day* 
 
@@ -120,9 +120,9 @@ General reports are available to any user with any security level. You are able 
 
 ---
 
-**Analysis of Completed Jobs by Dentist-Product** - 
+**Analysis of Completed Jobs by Dentist-Product** - *Breakdown of completed jobs broken down by dentist showing products and quantity*
 
-**Analysis of Completed Jobs by Practice-Product**
+**Analysis of Completed Jobs by Practice-Product** - *Breakdown of completed jobs broken down by practice showing products and quantity*
 
 **Monthly Sales by Category** - *Breakdown of monthly sales by category*
 
