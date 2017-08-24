@@ -55,7 +55,7 @@ The options are;
 
 - *Check if Patient is Already on the System* - If the patient name, that you are entering, is already on the system for the same Dentist **Labtrac** will prompt you to view the previous case before you **Launch** the job. 
 
-- *Price Final Stage Only* - If this is selected when entering <a href="setup#stagework">Stage Work</a> **Labtrac** will ignore the prices on all but the last stage.
+- *Price Final Stage Only* - If this is selected when entering <a href="setup#stagework">Stage Work</a> **Labtrac** will ignore the prices on all but the last stage. If you wouild like a total price for all stages then leave this unticked.
 
 - *Job Ticket by Batch* - Stops the job ticket printing and disables the prompt - allowing you to print job tickets by batch whenever you choose.
 
