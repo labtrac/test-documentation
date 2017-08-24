@@ -91,8 +91,7 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 
 ---
 
-![Delivery Method Video](/test-documentation/image\Delivery Method.PNG)
-
+![Delivery Method Video](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/dm_2.PNG "Delivery Method"){: .center-block.img-responsive
 - - - 
 
 <a class="offset" name="addingdentists"></a>
