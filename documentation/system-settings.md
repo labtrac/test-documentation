@@ -283,7 +283,7 @@ This user is now set up and can log onto Labtrac using their **Username** and **
 
 - - -
 
-The **Diary** in Labtrac is way for you to add Staff holidays, Lab closures and Bank holidays. When entering a job in Labtrac it will then take the dates you are closed into account.
+The **Diary** in Labtrac is way for you to add Lab closures and Bank holidays. When entering a job in Labtrac it will then take the dates you are closed into account.
 
 To add information to the **Diary** follow these steps;
 
