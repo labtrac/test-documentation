@@ -313,7 +313,7 @@ To add a material click **Material F8**. This will again open a list of all mate
 
 ---
 
-In **Notepad** you can enter any information on the case you may want. This will only be availible to be viewed within the lab.
+In **Notepad** you can enter any information on the case you may want. This will only be available to be viewed within the lab.
 
 ---
 
