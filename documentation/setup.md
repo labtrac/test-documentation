@@ -188,7 +188,7 @@ The Dentist is ready to be entered by clicking OK.
 - - - 
 
 <video width="100%" height="auto" controls>
-<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%dentist%20(export%203).mp4" type="video/mp4">
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20dentist%20(export%203).mp4" type="video/mp4">
 </video>{: .center-block}
 
 - - -
