@@ -91,7 +91,7 @@ When setting up product codes in Labtrac there are a few things to bear in mind;
 
 ---
 
-![Delivery Method Video](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/dm_2.PNG "Delivery Method"){: .center-block.img-responsive
+![Delivery Method](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/dm_2.PNG "Delivery Method"){: .center-block.img-responsive
 - - - 
 
 <a class="offset" name="addingdentists"></a>
@@ -187,7 +187,7 @@ The Dentist is ready to be entered by clicking OK.
 
 - - - 
 
-<video width="720" height="400" controls>
+<video width="100%" height="auto" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%dentist%20(export%203).mp4" type="video/mp4">
 </video>{: .center-block}
 
@@ -245,7 +245,7 @@ If you wish to charge tax on a material enter the amount *(in %)* that you wish 
 
 ---
 
-<video width="720" height="400" controls>
+<video width="100%" height="auto" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20product%20(export%203).m4v" type="video/mp4">
 </video>{: .center-block}
 
@@ -282,7 +282,7 @@ You also have the option of adding a nominal code (for use with external account
 
 ---
 
-<video width="720" height="400" controls>
+<video width="100%" height="auto" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20material%20(export%203).m4v">
 </video>{: .center-block}
 
@@ -384,7 +384,7 @@ Now the job is ready to launch do this by clicking **Launch F11**.
 
 ---
 
-<video width="720" height="400" controls>
+<video width="100%" height="auto" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/adding%20a%20job%20(export%203).m4v">
 </video>{: .center-block}
 
@@ -407,7 +407,7 @@ Repeat these steps as many times as needed before finally completing the job as 
 
 ---
 
-<video width="720" height="400" controls>
+<video width="100%" height="auto" controls>
 <source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/stage%20work%20(Export%203).m4v">
 </video>{: .center-block}
 
