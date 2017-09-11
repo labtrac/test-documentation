@@ -18,6 +18,8 @@ Log into Labtrac Online using your registered eamil and temporary password suppl
 >
 >On first log in please change your password. The password provided by Labtrac is only temporary.{: .alert.alert-info}
 
+---
+
 #### Change Passowrd
 
 To Change password click on the name in the top right
@@ -25,6 +27,8 @@ To Change password click on the name in the top right
 Then Change Password
 
 Enter your current password and the new password you wish to change to.
+
+---
 
 #### Adding Users
 
