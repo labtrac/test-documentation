@@ -8,6 +8,50 @@ markdownpage: true
 
 - - - 
 
+### Log In
+
+---
+
+Log into Labtrac Online using your registered eamil and temporary password supplied by Labtrac.
+
+>Remember
+>
+>On first log in please change your password. The password provided by Labtrac is only temporary
+
+#### Change Passowrd
+
+To Change password click on the name in the top right
+
+Then Change Password
+
+Enter your current password and the new password you wish to change to.
+
+#### Adding Users
+
+Now you are set up with your account you can add additional users by following these steps.
+
+Go to Settings
+
+Under Users click New
+
+Enter Name, Email and Password
+
+Then select the type of user they will be.
+
+**Subscription Admin** - Complete access to all labs in the subscription
+
+**Lab Admin** - Complete access to this laboratory
+
+**Office User** - Full access to Cases, Dentists, Inventory and other office tasks.
+
+**Finance User** - All Office user permissions plus accounting tasks.
+
+**Technician** - Limited office features with no financial information.
+
+
+
+---
+
 ### Dashboard
 
 
