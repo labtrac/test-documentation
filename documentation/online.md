@@ -14,7 +14,7 @@ markdownpage: true
 
 Log into Labtrac Online using your registered eamil and temporary password supplied by Labtrac.
 
->Remember
+> **Remember**
 >
 >On first log in please change your password. The password provided by Labtrac is only temporary. {: .alert.alert-info}
 
