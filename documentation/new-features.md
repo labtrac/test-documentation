@@ -82,7 +82,7 @@ To set up tax on a dentist;
 
 + Go to **Dentists** details and to **Financial**.
 
-+ Under **Tax Code** enter **?**
++ Under **Tax Code** enter **Yes**
 
 + Then you must set the **Products/Materials** that require tax.
 
