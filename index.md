@@ -1,6 +1,6 @@
 ---
 layout: default
-redirect: /test-documentation/documentation/index.md
+redirect: https://github.com/labtrac/test-documentation/blob/master/documentation/index.md
 ---
 test
 
