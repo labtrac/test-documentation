@@ -1,8 +1,8 @@
 ---
 layout: default
-redirect: https://github.com/labtrac/test-documentation/blob/master/documentation/index.md
+redirect: /labtrac/test-documentation/blob/master/documentation/index.md
 ---
-test1
+test
 
 <h1>This is content loaded by Jekyll</h1>
 
