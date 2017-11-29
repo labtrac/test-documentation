@@ -3,6 +3,8 @@ layout: default
 title: Labtrac Test Documentation
 ---
         
+redirect_to: <https://github.com/labtrac/test-documentation/blob/master/documentation/index.md>
+
 <h1>This is content loaded by Jekyll</h1>
 
 <a href="documentation">Click here to continue to documenation sub-directory</a>
