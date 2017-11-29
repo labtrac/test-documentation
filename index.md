@@ -1,7 +1,7 @@
 ---
-redirect_to: /labtrac/test-documentation/documentation
+redirect_to: /documentation
 ---
-<a href="documentation">Click here to continue to documenation sub-directory</a>
+<a href="documentation">Click here to continue</a>
 
 
      
