@@ -408,7 +408,7 @@ Repeat these steps as many times as needed before finally completing the job as 
 ---
 
 <video width="100%" height="auto" controls>
-<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/stage%20work%20(Export%203).m4v">
+<source src="https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/stage%20work%20(export%203).m4v">
 </video>{: .center-block}
 
 - - -
